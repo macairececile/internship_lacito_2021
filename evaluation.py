@@ -8,136 +8,16 @@ import seaborn as sns
 import pandas as pd
 import numpy as np
 import operator
+import argparse
 
-MISC_SYMBOLS = [' ̩', '~', '=', ':', 'F', '¨', '↑', '“', '”', '…', '«', '»',
-                'D', 'a', 'ː', '#', '$', "‡", "˞"]
-BAD_NA_SYMBOLS = ['D', 'F', '~', '…', '=', '↑', ':']
-PUNC_SYMBOLS = [',', '!', '.', ';', '?', "'", '"', ':', '«', '»', '“', '”', "ʔ", "+"]
-UNI_PHNS = {'q', 'p', 'ɭ', 'ɳ', 'h', 'ʐ', 'n', 'o', 'ɤ', 'ʝ', 'ɛ', 'g',
-            'i', 'u', 'b', 'ɔ', 'ɯ', 'v', 'ɑ', 'l', 'ɖ', 'ɻ', 'ĩ', 'm',
-            't', 'w', 'õ', 'ẽ', 'd', 'ɣ', 'ɕ', 'c', 'ʁ', 'ʑ', 'ʈ', 'ɲ', 'ɬ',
-            's', 'ŋ', 'ə', 'e', 'æ', 'f', 'j', 'k', 'z', 'ʂ'}
-BI_PHNS = {'dʑ', 'ẽ', 'ɖʐ', 'w̃', 'æ̃', 'qʰ', 'i͂', 'tɕ', 'v̩', 'o̥', 'ts',
-           'ɻ̩', 'ã', 'ə̃', 'ṽ', 'pʰ', 'tʰ', 'ɤ̃', 'ʈʰ', 'ʈʂ', 'ɑ̃', 'ɻ̃', 'kʰ',
-           'ĩ', 'õ', 'dz', "ɻ̍", "wæ", "wɑ", "wɤ", "jæ", "jɤ", "jo", "ʋ̩"}
-FILLERS = {"əəə…", "mmm…"}
-TRI_PHNS = {"tɕʰ", "ʈʂʰ", "tsʰ", "ṽ̩", "ṽ̩", "ɻ̩̃", "wæ̃", "w̃æ", "ʋ̩̃", "ɻ̩̃"}
 UNI_TONES = {"˩", "˥", "˧"}
 BI_TONES = {"˧˥", "˩˥", "˩˧", "˧˩"}
 TONES = UNI_TONES.union(BI_TONES)
 
 
-def preprocessing_text(sentence):
-    if sentence[:4] == '<SP>':
-        return sentence[:4], sentence[4:]
-    if sentence[:4] in ["əəə…", "mmm…"]:
-        return sentence[:4], sentence[4:]
-    if sentence.startswith("ə…"):
-        return "əəə…", sentence[2:]
-    if sentence.startswith("m…"):
-        return "mmm…", sentence[2:]
-    if sentence.startswith("mm…"):
-        return "mmm…", sentence[3:]
-    if sentence[:3] == "wæ̃":
-        return "w̃æ", sentence[3:]
-    if sentence[:3] == "ṽ̩":
-        return "ṽ̩", sentence[3:]
-    if sentence[:3] in TRI_PHNS:
-        return sentence[:3], sentence[3:]
-    if sentence[:2] in BI_PHNS:
-        return sentence[:2], sentence[2:]
-    if sentence[:2] == "˧̩":
-        return "˧", sentence[2:]
-    if sentence[:2] == "˧̍":
-        return "˧", sentence[2:]
-    if sentence[0] in UNI_PHNS:
-        return sentence[0], sentence[1:]
-    if sentence[:2] in BI_TONES:
-        return sentence[:2], sentence[2:]
-    if sentence[0] in UNI_TONES:
-        return sentence[0], sentence[1:]
-    if sentence[0] in MISC_SYMBOLS:
-        # We assume these symbols cannot be captured.
-        return None, sentence[1:]
-    if sentence[0] in BAD_NA_SYMBOLS:
-        return None, sentence[1:]
-    if sentence[0] in PUNC_SYMBOLS:
-        return None, sentence[1:]
-    if sentence[0] in ["-", "ʰ", "/"]:
-        return None, sentence[1:]
-    if sentence[0] in {"<", ">"}:
-        # We keep everything literal, thus including what is in <>
-        # brackets; so we just remove these tokens"
-        return None, sentence[1:]
-    if sentence[0] == "[":
-        if sentence.find("]") == len(sentence) - 1:
-            return None, ""
-        else:
-            return None, sentence[sentence.find("]") + 1:]
-    if sentence[0] in {" ", "\t", "\n"}:
-        # Return a space char so that it can be identified in word segmentation
-        # processing.
-        return " ", sentence[1:]
-    if sentence[0] == "|" or sentence[0] == "ǀ" or sentence[0] == "◊":
-        return "|", sentence[1:]
-    if sentence[0] == '*':
-        return "*", sentence[1:]
-    if sentence[0] in "()":
-        return None, sentence[1:]
-
-
-def filter_for_phonemes(sentence):
-    """ Returns a sequence of phonemes and pipes (word delimiters). Tones,
-        syllable boundaries, whitespace are all removed."""
-    filtered_sentence = []
-    phonemes = []
-    while sentence != "":
-        phoneme, sentence = preprocessing_text(sentence)
-        phonemes.append(phoneme)
-        if phoneme != " ":
-            filtered_sentence.append(phoneme)
-    filtered_sentence = [item for item in filtered_sentence if item != None]
-    return " ".join(filtered_sentence), phonemes
-
-
-# IF WANT TO CUT BY PHONEMES
-def final_text_phonemes(batch):
-    if "BEGAIEMENT" in batch['sentence']:
-        batch['sentence'] = batch['sentence'].replace('BEGAIEMENT', "")
-    s, p = filter_for_phonemes(batch['sentence'])
-    s = s.replace(' ', '|')
-    s = s.replace('||', '|')
-    s = s.replace('|||', '|')
-    batch['sentence'] = s
-    p = list(filter(None, p))
-    batch['phonemes'] = p
-    return batch
-
-
-# IF WANT TO KEEP WORDS
-def final_text_words(batch):
-    if "BEGAIEMENT" in batch['sentence']:
-        batch['sentence'] = batch['sentence'].replace('BEGAIEMENT', "")
-    s, p = filter_for_phonemes(batch['sentence'])
-    batch['sentence'] = s.replace(' ', '')
-    p = list(filter(None, p))
-    batch['phonemes'] = p
-    return batch
-
-
-def extract_phonemes(data):
-    if "BEGAIEMENT" in data:
-        data = data.replace('BEGAIEMENT', "")
-    s, p = filter_for_phonemes(data)
-    if '|' in p: p.remove('|')
-    p = list(filter(None, p))
-    return p
-
-
-def evaluation_levenshtein_distance(dataframe, tones=True):
+def compute_levenshtein_distance(dataframe, tones=True):
     """Evaluation of edition distance between words per sentence by using the levenshtein distance."""
     dist = []
-    diff_phon = []
     if tones:
         dataframe['Ref_words'] = dataframe['Reference'].apply(lambda x: x.split(' '))
         dataframe['Pred_words'] = dataframe['Prediction'].apply(lambda x: x.split(' '))
@@ -170,7 +50,7 @@ def evaluation_levenshtein_distance(dataframe, tones=True):
     return dataframe
 
 
-def evaluation_without_tones(dataframe):
+def compute_without_tones(dataframe):
     """Evaluation without considering the tones"""
     no_tones = []
     no_tones_2 = []
@@ -179,10 +59,10 @@ def evaluation_without_tones(dataframe):
         no_tones_2.append(reduce(lambda a, b: a.replace(b, ''), TONES, row["Prediction"]))
     dataframe['Ref_noTones'] = no_tones
     dataframe['Pred_noTones'] = no_tones_2
-    return evaluation_levenshtein_distance(dataframe, tones=False)
+    return compute_levenshtein_distance(dataframe, tones=False)
 
 
-def evaluation_phonemes(dataframe):
+def compute_phonemes(dataframe):
     f_score = []
     ref_g = []
     hyp_g = []
@@ -222,16 +102,11 @@ def evaluation_phonemes(dataframe):
         hyp = ['<SP>' if x == ' ' else x for x in hyp]
         ref_g.append(ref)
         hyp_g.append(hyp)
-        if len(ref) == len(hyp):
-            all_ref.extend(ref)
-            all_pred.extend(hyp)
-            f_score.append(round(f1_score(ref, hyp, average="macro"), 3))
-            precision.append(round(precision_score(ref, hyp, average="macro", zero_division=1), 3))
-            recall.append(round(recall_score(ref, hyp, average="macro", zero_division=1), 3))
-        else:
-            f_score.append(None)
-            precision.append(None)
-            recall.append(None)
+        all_ref.extend(ref)
+        all_pred.extend(hyp)
+        f_score.append(round(f1_score(ref, hyp, average="macro"), 3))
+        precision.append(round(precision_score(ref, hyp, average="macro", zero_division=1), 3))
+        recall.append(round(recall_score(ref, hyp, average="macro", zero_division=1), 3))
         # confusion_matrix = pd.crosstab(np.array(ref), np.array(hyp),
         #                                rownames=['Reference'], colnames=['Hypothesis'])
         # sns.heatmap(confusion_matrix, annot=True)
@@ -244,47 +119,90 @@ def evaluation_phonemes(dataframe):
     return dataframe, all_ref, all_pred
 
 
-def global_evaluation(dataframe):
-    dataframe['Reference'] = dataframe['Reference'].apply(lambda x: x[:-1].replace('|', ' '))
-    dataframe['Prediction'] = dataframe['Prediction'].apply(lambda x: x.replace('[UNK]', '*'))
-    evaluation_levenshtein_distance(df)
-    evaluation_without_tones(df)
-    dataframe, ref, pred = evaluation_phonemes(df)
-    return dataframe, ref, pred
-
-
 def confusion_matrix_all_phonemes(ref, pred):
-    results = {}
     confusion_matrix = pd.crosstab(np.array(ref), np.array(pred),
                                    rownames=['Reference'], colnames=['Hypothesis'], margins=True)
-    d = confusion_matrix.to_dict(orient='records')
-    ind = list(confusion_matrix.index.values)
-    for i, j in enumerate(ind):
-        if j != 'All':
-            del d[i]['All']
-            if j in d[i].keys():
-                del d[i][j]
-            results[j] = d[i]
-    best_wrong_associations = {}
-    for k, v in results.items():
-        best_wrong_associations[k] = max(v.items(), key=operator.itemgetter(1))[0]
+    sns.heatmap(confusion_matrix, annot=True)
+    plt.show()
+    # results = {}
+    # d = confusion_matrix.to_dict(orient='records')
+    # ind = list(confusion_matrix.index.values)
+    # for i, j in enumerate(ind):
+    #     if j != 'All':
+    #         del d[i]['All']
+    #         if j in d[i].keys():
+    #             del d[i][j]
+    #         results[j] = d[i]
+    # best_wrong_associations = {}
+    # for k, v in results.items():
+    #     best_wrong_associations[k] = max(v.items(), key=operator.itemgetter(1))[0]
+    # print(best_wrong_associations)
 
-    print(best_wrong_associations)
-    # sns.heatmap(confusion_matrix, annot=True, yticklabels=list(set(ref)), xticklabels=list(set(pred)))
-    # plt.show()
 
-def stats(dataframe):
-    print('Lev distance mean: ', dataframe["Lev_distance"].mean())
-    print('Lev distance no tones mean: ', dataframe["Lev_distance_noTones"].mean())
-    print('Average_lev_dist_words mean: ', dataframe["Average_lev_dist_words"].mean())
-    print('Average_lev_dist_notones mean: ', dataframe["Average_lev_dist_notones"].mean())
+def process_csv(path):
+    df = pd.read_csv(path, sep='\t')
+    df['Reference'] = df['Reference'].apply(lambda x: x[:-1].replace('|', ' '))
+    df['Prediction'] = df['Prediction'].apply(lambda x: x.replace('[UNK]', '*'))
+    return df
+
+
+def eval_lev(args):
+    data = process_csv(args.input_file)
+    results = compute_levenshtein_distance(data)
+    results.to_csv('results_analysis_lev_dist.csv', sep='\t', index=False)
+
+
+def eval_lev_notones(args):
+    data = process_csv(args.input_file)
+    results = compute_without_tones(data)
+    results.to_csv('results_analysis_lev_dist_no_tones.csv', sep='\t', index=False)
+
+
+def eval_phonemes(args):
+    data = process_csv(args.input_file)
+    results, refs, preds = compute_phonemes(data)
+    results.to_csv('results_analysis_phonemes.csv', sep='\t', index=False)
+    if args.confusion_matrix:
+        confusion_matrix_all_phonemes(refs, preds)
+
+
+def stats(args):
+    data = process_csv(args.input_file)
+    print('Lev distance mean: ', data["Lev_distance"].mean())
+    print('Lev distance no tones mean: ', data["Lev_distance_noTones"].mean())
+    print('Average_lev_dist_words mean: ', data["Average_lev_dist_words"].mean())
+    print('Average_lev_dist_notones mean: ', data["Average_lev_dist_notones"].mean())
 
 
 if __name__ == '__main__':
-    df = pd.read_csv('/home/cmacaire/Desktop/training/test_4/results.csv')
-    new_df, ref, pred = global_evaluation(df)
-    confusion_matrix_all_phonemes(ref, pred)
-    print(new_df.loc[0])
-    print(new_df.loc[1])
-    print(new_df.loc[4])
-    stats(new_df)
+    parser = argparse.ArgumentParser()
+    subparsers = parser.add_subparsers(help='sub-command help')
+
+    lev_dist = subparsers.add_parser("lev_dist",
+                                     help="Compute the levenshtein distance between each reference and its corresponding prediction (all sentence and sentence splitted by words")
+    lev_dist.add_argument('--input_file', type=str, required=True,
+                          help="CSV result file with Reference and Prediction columns.")
+    lev_dist.set_defaults(func=eval_lev)
+
+    lev_dist_notones = subparsers.add_parser("lev_dist_notones",
+                                             help="Compute the levenshtein distance between each reference and its corresponding prediction without tones (all sentence and sentence splitted by words")
+    lev_dist_notones.add_argument('--input_file', type=str, required=True,
+                                  help="CSV result file with Reference and Prediction columns.")
+    lev_dist_notones.set_defaults(func=eval_lev_notones)
+
+    eval_phon = subparsers.add_parser("eval_phonemes",
+                                      help="Analysis of phoneme similarities between references and predictions.")
+    eval_phon.add_argument('--input_file', type=str, required=True,
+                           help="CSV result file with Reference and Prediction columns.")
+    eval_phon.add_argument('--confusion_matrix', type=bool, required=True,
+                           help="Show the confusion matrix for phonemes (True or False).")
+    eval_phon.set_defaults(func=eval_phonemes)
+
+    statistics = subparsers.add_parser("stats",
+                                       help="Show some statistics computed from previous results.")
+    statistics.add_argument('--input_file', type=str, required=True,
+                            help="CSV of the analyzed result file.")
+    statistics.set_defaults(func=stats)
+
+    args = parser.parse_args()
+    args.func(args)
