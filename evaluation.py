@@ -1,3 +1,4 @@
+from copy import copy
 from functools import reduce
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, classification_report, \
     confusion_matrix, ConfusionMatrixDisplay
@@ -9,6 +10,7 @@ import pandas as pd
 import numpy as np
 import operator
 import argparse
+from itertools import chain
 
 UNI_TONES = {"˩", "˥", "˧"}
 BI_TONES = {"˧˥", "˩˥", "˩˧", "˧˩"}
@@ -18,11 +20,12 @@ TONES = UNI_TONES.union(BI_TONES)
 def compute_levenshtein_distance(dataframe, tones=True):
     """Evaluation of edition distance between words per sentence by using the levenshtein distance."""
     dist = []
+    lev_all = []
     if tones:
         dataframe['Ref_words'] = dataframe['Reference'].apply(lambda x: x.split(' '))
         dataframe['Pred_words'] = dataframe['Prediction'].apply(lambda x: x.split(' '))
         for index, row in dataframe.iterrows():
-            dataframe['Lev_distance'] = lev.ratio(' '.join(row["Ref_words"]), ' '.join(row["Pred_words"]))
+            lev_all.append(lev.ratio(' '.join(row["Ref_words"]), ' '.join(row["Pred_words"])))
             lev_d = []
             for i, j in enumerate(row["Ref_words"]):
                 if i < len(row["Pred_words"]):
@@ -31,13 +34,15 @@ def compute_levenshtein_distance(dataframe, tones=True):
                     lev_d.append(lev.ratio(row["Ref_words"][i], ''))
             dist.append(lev_d)
         # dataframe['Diff_phon'] = diff_phon
+        dataframe['Lev_distance'] = lev_all
         dataframe['Lev_distance_words'] = dist
+        print('Average dist all words: ', st.mean(list(chain.from_iterable(dist))))
         dataframe['Average_lev_dist_words'] = dataframe['Lev_distance_words'].apply(lambda x: st.mean(x))
     else:
         dataframe['Ref_words_noTones'] = dataframe['Ref_noTones'].apply(lambda x: x.split(' '))
         dataframe['Pred_words_noTones'] = dataframe['Pred_noTones'].apply(lambda x: x.split(' '))
         for index, row in dataframe.iterrows():
-            dataframe['Lev_distance_noTones'] = lev.ratio(' '.join(row["Ref_noTones"]), ' '.join(row["Pred_noTones"]))
+            lev_all.append(lev.ratio(' '.join(row["Ref_noTones"]), ' '.join(row["Pred_noTones"])))
             lev_d = []
             for i, j in enumerate(row["Ref_words_noTones"]):
                 if i < len(row["Pred_words_noTones"]):
@@ -45,7 +50,9 @@ def compute_levenshtein_distance(dataframe, tones=True):
                 else:
                     lev_d.append(lev.ratio(row["Ref_words_noTones"][i], ''))
             dist.append(lev_d)
+        dataframe['Lev_distance_noTones'] = lev_all
         dataframe['Lev_distance_words_notones'] = dist
+        print('Average dist all words: ', st.mean(list(chain.from_iterable(dist))))
         dataframe['Average_lev_dist_notones'] = dataframe['Lev_distance_words_notones'].apply(lambda x: st.mean(x))
     return dataframe
 
@@ -70,34 +77,33 @@ def compute_phonemes(dataframe):
     recall = []
     all_ref = []
     all_pred = []
+    lev_phonemes = []
+    f = open("latex.txt", "w")
     for index, row in dataframe.iterrows():
         edit = lev.editops(row['Prediction'], row['Reference'])
         # print(edit)
         ind = 0
         hyp = [i for i in row['Prediction']]
         ref = [i for i in row['Reference']]
-        if len(hyp) < len(ref):
-            for i, j in enumerate(edit):
-                if edit[i][0] == 'insert':
+        lev_phonemes.append(lev.ratio(' '.join(ref), ' '.join(hyp)))
+        hyp_out = copy(hyp)
+        ref_out = copy(ref)
+        for i, j in enumerate(edit):
+            if edit[i][0] == 'insert':
+                # ind += 1
+                hyp.insert(edit[i][1], '*')
+                ref_out[edit[i][2]] = '\\hl{' + ref_out[edit[i][2]] + '}'
+            elif edit[i][0] == 'delete':
+                hyp_out[edit[i][1]] = '\\hl{' + hyp_out[edit[i][1]] + '}'
+                if len(ref) > edit[i][2] + ind:
+                    ref.insert(edit[i][2] + ind, '*')
                     ind += 1
-                    hyp.insert(edit[i][1], '*')
-                elif edit[i][0] == 'delete':
-                    if len(ref) > edit[i][2] + ind:
-                        ref.insert(edit[i][2] + ind, '*')
-                        ind += 1
-                    else:
-                        ref.append('*')
-        else:
-            for i, j in enumerate(edit):
-                if edit[i][0] == 'insert':
-                    ind += 1
-                    hyp.insert(edit[i][1], '*')
-                if edit[i][0] == 'delete':
-                    if len(ref) > edit[i][2] + ind:
-                        ref.insert(edit[i][2] + ind, '*')
-                        ind += 1
-                    else:
-                        ref.append('*')
+                else:
+                    ref.append('*')
+            elif edit[i][0] == 'replace':
+                hyp_out[edit[i][1]] = '\\hl{' + hyp_out[edit[i][1]] + '}'
+                ref_out[edit[i][2]] = '\\hl{' + ref_out[edit[i][2]] + '}'
+        f.write('Ref: & '+''.join(ref_out)+' \\\ \n'+'Hyp: & '+''.join(hyp_out)+' \\\ \n\\midrule \n')
         ref = ['<SP>' if x == ' ' else x for x in ref]
         hyp = ['<SP>' if x == ' ' else x for x in hyp]
         ref_g.append(ref)
@@ -111,11 +117,13 @@ def compute_phonemes(dataframe):
         #                                rownames=['Reference'], colnames=['Hypothesis'])
         # sns.heatmap(confusion_matrix, annot=True)
         # plt.show()
-    dataframe['Ref_phonemes'] = ref_g
-    dataframe['Pred_phonemes'] = hyp_g
-    dataframe['F_score_phonemes'] = f_score
-    dataframe['Precision_phonemes'] = precision
-    dataframe['Recall_phonemes'] = recall
+    f.close()
+    dataframe['Ref_char'] = ref_g
+    dataframe['Pred_char'] = hyp_g
+    dataframe['F_score_char'] = f_score
+    dataframe['Precision_char'] = precision
+    dataframe['Recall_char'] = recall
+    dataframe['Lev_dist_char'] = lev_phonemes
     return dataframe, all_ref, all_pred
 
 
@@ -140,7 +148,7 @@ def confusion_matrix_all_phonemes(ref, pred):
 
 
 def process_csv(path):
-    df = pd.read_csv(path, sep='\t')
+    df = pd.read_csv(path)
     df['Reference'] = df['Reference'].apply(lambda x: x[:-1].replace('|', ' '))
     df['Prediction'] = df['Prediction'].apply(lambda x: x.replace('[UNK]', '*'))
     return df
@@ -158,20 +166,21 @@ def eval_lev_notones(args):
     results.to_csv('results_analysis_lev_dist_no_tones.csv', sep='\t', index=False)
 
 
-def eval_phonemes(args):
+def eval_char(args):
     data = process_csv(args.input_file)
     results, refs, preds = compute_phonemes(data)
-    results.to_csv('results_analysis_phonemes.csv', sep='\t', index=False)
-    if args.confusion_matrix:
+    results.to_csv('results_analysis_char.csv', sep='\t', index=False)
+    if args.confusion_matrix == True:
         confusion_matrix_all_phonemes(refs, preds)
 
 
 def stats(args):
     data = process_csv(args.input_file)
-    print('Lev distance mean: ', data["Lev_distance"].mean())
-    print('Lev distance no tones mean: ', data["Lev_distance_noTones"].mean())
-    print('Average_lev_dist_words mean: ', data["Average_lev_dist_words"].mean())
-    print('Average_lev_dist_notones mean: ', data["Average_lev_dist_notones"].mean())
+    # print('Lev distance mean: ', data["Lev_distance"].mean())
+    # print('Lev distance no tones mean: ', data["Lev_distance_noTones"].mean())
+    # print('Average_lev_dist_words mean: ', data["Average_lev_dist_words"].mean())
+    # print('Average_lev_dist_notones mean: ', data["Average_lev_dist_notones"].mean())
+    print('Average_lev_dist_char mean: ', data["Lev_dist_char"].mean())
 
 
 if __name__ == '__main__':
@@ -190,13 +199,13 @@ if __name__ == '__main__':
                                   help="CSV result file with Reference and Prediction columns.")
     lev_dist_notones.set_defaults(func=eval_lev_notones)
 
-    eval_phon = subparsers.add_parser("eval_phonemes",
-                                      help="Analysis of phoneme similarities between references and predictions.")
+    eval_phon = subparsers.add_parser("eval_char",
+                                      help="Analysis of character similarities between references and predictions.")
     eval_phon.add_argument('--input_file', type=str, required=True,
                            help="CSV result file with Reference and Prediction columns.")
     eval_phon.add_argument('--confusion_matrix', type=bool, required=True,
-                           help="Show the confusion matrix for phonemes (True or False).")
-    eval_phon.set_defaults(func=eval_phonemes)
+                           help="Show the confusion matrix for characters (True or False).")
+    eval_phon.set_defaults(func=eval_char)
 
     statistics = subparsers.add_parser("stats",
                                        help="Show some statistics computed from previous results.")
