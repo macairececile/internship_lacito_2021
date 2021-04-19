@@ -107,12 +107,25 @@ processor = Wav2Vec2Processor(feature_extractor=feature_extractor, tokenizer=tok
 
 processor.save_pretrained(arguments.output_dir)
 
+# ----------- Prepare dataset ----------- #
+def prepare_dataset(batch):
+    # check that all files have the correct sampling rate
+    assert (
+            len(set(batch["sampling_rate"])) == 1
+    ), f"Make sure all inputs have the same sampling rate of {processor.feature_extractor.sampling_rate}."
+
+    batch["input_values"] = processor(batch["speech"], sampling_rate=batch["sampling_rate"][0]).input_values
+
+    with processor.as_target_processor():
+        batch["labels"] = processor(batch["target_text"]).input_ids
+    return batch
+
 # ------------ Preprocessing dataset audio ------------ #
 na_train = na_train.map(prep_audio.speech_file_to_array_fn, remove_columns=na_train.column_names)
 na_test = na_test.map(prep_audio.speech_file_to_array_fn, remove_columns=na_test.column_names)
 na_train = na_train.map(prep_audio.resample, num_proc=4)
 na_test = na_test.map(prep_audio.resample, num_proc=4)
-na_train = na_train.map(prep_audio.prepare_dataset, remove_columns=na_train.column_names, batch_size=8, num_proc=4, batched=True)
+na_train = na_train.map(prepare_dataset, remove_columns=na_train.column_names, batch_size=8, num_proc=4, batched=True)
 na_test = na_test.map(prep_audio.prepare_dataset, remove_columns=na_test.column_names, batch_size=8, num_proc=4, batched=True)
 
 
