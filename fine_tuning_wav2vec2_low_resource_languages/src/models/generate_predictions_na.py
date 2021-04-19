@@ -28,6 +28,8 @@ from transformers import Wav2Vec2ForCTC, Wav2Vec2Processor
 import torch
 import preprocessing_text_na as prep
 import preprocessing_audio_na as prep_audio
+import numpy as np
+
 
 # ----------- Prepare dataset ----------- #
 def prepare_dataset(batch):
@@ -42,6 +44,7 @@ def prepare_dataset(batch):
         batch["labels"] = processor(batch["target_text"]).input_ids
     return batch
 
+
 # ----------- Generate Predictions ----------- #
 # Call the fine-tuned model
 model_path = arguments.model_dir
@@ -49,17 +52,34 @@ model = Wav2Vec2ForCTC.from_pretrained(model_path).to("cuda")
 processor = Wav2Vec2Processor.from_pretrained(model_path)
 
 # Load the test data
-na_test_ref = load_dataset('csv', data_files=[arguments.test_tsv], delimiter='\t')
-na_test_ref = na_test_ref['train']
-na_test_ref = na_test_ref.map(prep.final_text_words)
+na_test = load_dataset('csv', data_files=[arguments.test_tsv], delimiter='\t')
+na_test = na_test['train']
+na_test = na_test.map(prep.final_text_words)
 
-na_test_ref = na_test_ref.map(prep_audio.speech_file_to_array_fn, remove_columns=na_test_ref.column_names)
+na_test_ref = na_test.map(prep_audio.speech_file_to_array_fn, remove_columns=na_test.column_names)
 na_test_ref = na_test_ref.map(prep_audio.resample, num_proc=4)
-na_test_ref = na_test_ref.map(prepare_dataset, remove_columns=na_test_ref.column_names, batch_size=8, num_proc=4, batched=True)
+na_test_ref = na_test_ref.map(prepare_dataset, remove_columns=na_test_ref.column_names, batch_size=8, num_proc=4,
+                              batched=True)
 
 input_dict = processor(na_test_ref["input_values"][0], return_tensors="pt", padding=True, sampling_rate=16000)
 logits = model(input_dict.input_values.to("cuda")).logits
-print(logits)
+# print(processor.decode(torch.argmax(logits, dim=-1)[0]))
+dict_top = {}
+for i in range(len(logits[0])):
+    topK_val, topK_ind = torch.topk(logits[0][i], 10, dim=-1)
+    for k,m in enumerate(topK_ind.cpu().numpy()):
+        if k in dict_top.keys():
+            dict_top[k] = np.append(dict_top[k], m)
+        else:
+            dict_top[k] = m
+
+pred = []
+for v in dict_top.values():
+    print(v)
+    pred.append(processor.decode(torch.from_numpy(v)))
+
+df_results = pd.DataFrame({'Prediction': pred})
+df_results.to_csv(arguments.model_dir + 'results_n_best_hyp.csv', index=False, sep='\t')
 
 # Predict the transcription from the test data
 # if gen_pred:
@@ -72,7 +92,7 @@ print(logits)
 #             print("Prediction:")
 #             print(processor.decode(pred_ids))
 #             print("Reference:")
-#             print(na_test_ref['sentence'][i])
+#             print(na_test['sentence'][i])
 #
 # if save_pred:
 #     ref = []
@@ -82,7 +102,7 @@ print(logits)
 #         logits = model(input_dict.input_values.to("cuda")).logits
 #         pred_ids = torch.argmax(logits, dim=-1)[0]
 #         pred.append(processor.decode(pred_ids))
-#         ref.append(na_test_ref['sentence'][i])
+#         ref.append(na_test['sentence'][i])
 #         # print(processor.decode(pred_ids))
 #     # store the results in a CSV file
 #     df_results = pd.DataFrame({'Reference': ref,

@@ -126,7 +126,7 @@ na_test = na_test.map(prep_audio.speech_file_to_array_fn, remove_columns=na_test
 na_train = na_train.map(prep_audio.resample, num_proc=4)
 na_test = na_test.map(prep_audio.resample, num_proc=4)
 na_train = na_train.map(prepare_dataset, remove_columns=na_train.column_names, batch_size=8, num_proc=4, batched=True)
-na_test = na_test.map(prep_audio.prepare_dataset, remove_columns=na_test.column_names, batch_size=8, num_proc=4, batched=True)
+na_test = na_test.map(prepare_dataset, remove_columns=na_test.column_names, batch_size=8, num_proc=4, batched=True)
 
 
 # ------------ Dataclass ------------ #
