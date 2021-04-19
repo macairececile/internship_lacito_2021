@@ -25,14 +25,13 @@ from transformers import Wav2Vec2Processor
 from transformers import Wav2Vec2ForCTC
 from transformers import TrainingArguments
 from transformers import Trainer
-import torchaudio
 import numpy as np
 import random
-import librosa
 import torch
 from dataclasses import dataclass, field
 from typing import Any, Dict, List, Optional, Union
 import preprocessing_text_na as prep
+import preprocessing_audio_na as prep_audio
 
 # ------------ Load dataset ------------ #
 na_train = load_dataset('csv', data_files=[arguments.train_tsv], delimiter='\t')
@@ -58,7 +57,6 @@ def show_random_elements(dataset, num_examples=10):
 # show_random_elements(na_train, num_examples=5)
 
 # ----------- Preprocessing ----------- #
-
 # cut by phonemes
 # na_train = na_train.map(final_text_phonemes)
 # na_test = na_test.map(final_text_phonemes)
@@ -109,41 +107,13 @@ processor = Wav2Vec2Processor(feature_extractor=feature_extractor, tokenizer=tok
 
 processor.save_pretrained(arguments.output_dir)
 
-
 # ------------ Preprocessing dataset audio ------------ #
-def speech_file_to_array_fn(batch):
-    speech_array, sampling_rate = torchaudio.load("na_data/clips/" + batch["path"])
-    batch["speech"] = speech_array[0].numpy()
-    batch["sampling_rate"] = sampling_rate
-    batch["target_text"] = batch["sentence"]
-    return batch
-
-
-def resample(batch):
-    batch["speech"] = librosa.resample(np.asarray(batch["speech"]), 44_100, 16_000)
-    batch["sampling_rate"] = 16_000
-    return batch
-
-
-def prepare_dataset(batch):
-    # check that all files have the correct sampling rate
-    assert (
-            len(set(batch["sampling_rate"])) == 1
-    ), f"Make sure all inputs have the same sampling rate of {processor.feature_extractor.sampling_rate}."
-
-    batch["input_values"] = processor(batch["speech"], sampling_rate=batch["sampling_rate"][0]).input_values
-
-    with processor.as_target_processor():
-        batch["labels"] = processor(batch["target_text"]).input_ids
-    return batch
-
-
-na_train = na_train.map(speech_file_to_array_fn, remove_columns=na_train.column_names)
-na_test = na_test.map(speech_file_to_array_fn, remove_columns=na_test.column_names)
-na_train = na_train.map(resample, num_proc=4)
-na_test = na_test.map(resample, num_proc=4)
-na_train = na_train.map(prepare_dataset, remove_columns=na_train.column_names, batch_size=8, num_proc=4, batched=True)
-na_test = na_test.map(prepare_dataset, remove_columns=na_test.column_names, batch_size=8, num_proc=4, batched=True)
+na_train = na_train.map(prep_audio.speech_file_to_array_fn, remove_columns=na_train.column_names)
+na_test = na_test.map(prep_audio.speech_file_to_array_fn, remove_columns=na_test.column_names)
+na_train = na_train.map(prep_audio.resample, num_proc=4)
+na_test = na_test.map(prep_audio.resample, num_proc=4)
+na_train = na_train.map(prep_audio.prepare_dataset, remove_columns=na_train.column_names, batch_size=8, num_proc=4, batched=True)
+na_test = na_test.map(prep_audio.prepare_dataset, remove_columns=na_test.column_names, batch_size=8, num_proc=4, batched=True)
 
 
 # ------------ Dataclass ------------ #
