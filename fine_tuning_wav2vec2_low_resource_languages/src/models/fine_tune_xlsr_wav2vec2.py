@@ -12,6 +12,11 @@ train.add_argument('--test_tsv', type=str, required=True,
                    help="Test .tsv file.")
 train.add_argument('--output_dir', type=str, required=True,
                    help="Output directory to store the fine-tuned model.")
+train.add_argument('--lang', type=str, required=True, choices={'japhug', 'na'},
+                   help="Language of the corpus")
+train.add_argument('--metric', type=str, required=True, choices={'wer', 'cer'},
+                   help="Metric to choose for the training evaluation.")
+
 arguments = parser.parse_args()
 
 # ------------ Libraries ------------ #
@@ -25,22 +30,22 @@ from transformers import Wav2Vec2Processor
 from transformers import Wav2Vec2ForCTC
 from transformers import TrainingArguments
 from transformers import Trainer
-import torchaudio
 import numpy as np
 import random
-import librosa
 import torch
 from dataclasses import dataclass, field
 from typing import Any, Dict, List, Optional, Union
-import preprocessing_text_japhug as prep
-import preprocessing_audio_japhug as prep_audio
+import preprocessing_text_na as prep
+import preprocessing_audio_na as prep_audio
+import preprocessing_text_japhug as prep_jap
+import preprocessing_audio_japhug as prep_audio_jap
 
 # ------------ Load dataset ------------ #
-na_train = load_dataset('csv', data_files=[arguments.train_tsv], delimiter='\t')
-na_test = load_dataset('csv', data_files=[arguments.test_tsv], delimiter='\t')
+train_data = load_dataset('csv', data_files=[arguments.train_tsv], delimiter='\t')
+test_data = load_dataset('csv', data_files=[arguments.test_tsv], delimiter='\t')
 
-na_train = na_train['train']
-na_test = na_test['train']
+train_data = train_data['train']
+test_data = test_data['train']
 
 
 def show_random_elements(dataset, num_examples=10):
@@ -56,22 +61,27 @@ def show_random_elements(dataset, num_examples=10):
     display(HTML(df.to_html()))
 
 
+# show_random_elements(na_train, num_examples=5)
+
 # ----------- Preprocessing ----------- #
 # cut by phonemes
 # na_train = na_train.map(final_text_phonemes)
 # na_test = na_test.map(final_text_phonemes)
 
 # cut by words
-na_train = na_train.map(prep.final_text_words)
-na_test = na_test.map(prep.final_text_words)
+if arguments.lang == 'japhug':
+    train_data = train_data.map(prep_jap.final_text_words)
+    test_data = test_data.map(prep_jap.final_text_words)
+elif arguments.lang == 'na':
+    train_data = train_data.map(prep.final_text_words)
+    test_data = test_data.map(prep.final_text_words)
 
 
 # show_random_elements(na_train.remove_columns(["path"]), num_examples=5)
 
-
 # ------------ Vocabulary ------------ #
 def extract_all_chars(batch):
-    all_text = " ".join(batch["sentence"])
+    all_text = "".join(batch["sentence"])
     vocab = list(set(all_text))
     # voc = []
     # for i in batch['phonemes']:
@@ -81,19 +91,18 @@ def extract_all_chars(batch):
     return {"vocab": [vocab], "all_text": [all_text]}
 
 
-vocab_train = na_train.map(extract_all_chars, batched=True, batch_size=-1, keep_in_memory=True,
-                           remove_columns=na_train.column_names)
-vocab_test = na_train.map(extract_all_chars, batched=True, batch_size=-1, keep_in_memory=True,
-                          remove_columns=na_test.column_names)
+vocab_train = train_data.map(extract_all_chars, batched=True, batch_size=-1, keep_in_memory=True,
+                             remove_columns=train_data.column_names)
+vocab_test = test_data.map(extract_all_chars, batched=True, batch_size=-1, keep_in_memory=True,
+                           remove_columns=test_data.column_names)
 
 vocab_list = list(set(vocab_train["vocab"][0]) | set(vocab_test["vocab"][0]))
 
 vocab_dict = {v: k for k, v in enumerate(vocab_list)}
-
-vocab_dict["|"] = vocab_dict[" "]
-del vocab_dict[" "]
+vocab_dict['c'] = len(vocab_dict)
 vocab_dict["[UNK]"] = len(vocab_dict)
 vocab_dict["[PAD]"] = len(vocab_dict)
+len(vocab_dict)
 
 with open(arguments.output_dir + 'vocab.json', 'w') as vocab_file:
     json.dump(vocab_dict, vocab_file)
@@ -110,6 +119,7 @@ processor = Wav2Vec2Processor(feature_extractor=feature_extractor, tokenizer=tok
 processor.save_pretrained(arguments.output_dir)
 
 
+# ----------- Prepare dataset ----------- #
 def prepare_dataset(batch):
     # check that all files have the correct sampling rate
     assert (
@@ -124,12 +134,21 @@ def prepare_dataset(batch):
 
 
 # ------------ Preprocessing dataset audio ------------ #
-na_train = na_train.map(prep_audio.speech_file_to_array_fn, remove_columns=na_train.column_names)
-na_test = na_test.map(prep_audio.speech_file_to_array_fn, remove_columns=na_test.column_names)
-na_train = na_train.map(prep_audio.resample, num_proc=4)
-na_test = na_test.map(prep_audio.resample, num_proc=4)
-na_train = na_train.map(prepare_dataset, remove_columns=na_train.column_names, batch_size=8, num_proc=4, batched=True)
-na_test = na_test.map(prepare_dataset, remove_columns=na_test.column_names, batch_size=8, num_proc=4, batched=True)
+if arguments.lang == 'japhug':
+    train_data = train_data.map(prep_audio_jap.speech_file_to_array_fn, remove_columns=train_data.column_names)
+    test_data = test_data.map(prep_audio_jap.speech_file_to_array_fn, remove_columns=test_data.column_names)
+    train_data = train_data.map(prep_audio_jap.resample, num_proc=4)
+    test_data = test_data.map(prep_audio_jap.resample, num_proc=4)
+elif arguments.lang == 'na':
+    train_data = train_data.map(prep_audio.speech_file_to_array_fn, remove_columns=train_data.column_names)
+    test_data = test_data.map(prep_audio.speech_file_to_array_fn, remove_columns=test_data.column_names)
+    train_data = train_data.map(prep_audio.resample, num_proc=4)
+    test_data = test_data.map(prep_audio.resample, num_proc=4)
+
+train_data = train_data.map(prepare_dataset, remove_columns=train_data.column_names, batch_size=8, num_proc=4,
+                            batched=True)
+test_data = test_data.map(prepare_dataset, remove_columns=test_data.column_names, batch_size=8, num_proc=4,
+                          batched=True)
 
 
 # ------------ Dataclass ------------ #
@@ -212,11 +231,13 @@ def compute_metrics(pred):
     pred_str = processor.batch_decode(pred_ids)
     # we do not want to group tokens when computing the metrics
     label_str = processor.batch_decode(pred.label_ids, group_tokens=False)
+    if arguments.metric == "wer":
+        wer = wer_metric.compute(predictions=pred_str, references=label_str)
+        return {"wer": wer}
+    elif arguments.metric == "cer":
+        cer = cer_metric.compute(predictions=pred_str, references=label_str)
+        return {"cer": cer}
 
-    wer = wer_metric.compute(predictions=pred_str, references=label_str)
-    # cer = cer_metric.compute(predictions=pred_str, references=label_str)
-    # return {"cer": cer}
-    return {"wer": wer}
 
 
 # ------------ Definition of the model, training args ------------ #
@@ -237,6 +258,7 @@ model.freeze_feature_extractor()
 
 training_args = TrainingArguments(
     output_dir=arguments.output_dir,
+    # output_dir="./wav2vec2-large-xlsr-turkish-demo",
     logging_dir=arguments.output_dir,
     group_by_length=True,
     per_device_train_batch_size=8,
