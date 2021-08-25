@@ -1,0 +1,1035 @@
+Ref: & tɕe nɤkinɯ wuma ʑo mɯɲɯɤmtɕhoʁ \\ 
+Hyp: & tɕe nɤkinɯ wuma ʑo mɯɲɯɤmtɕhoʁ \\ 
+\midrule 
+Ref: & ɯjwaʁ nɯnɯ nɤki ɯthɤcu ra rɟum ɯl\hl{ɤ}cu tɕe luomtɕoʁ ŋu \\ 
+Hyp: & ɯjwaʁ nɯnɯ nɤki ɯthɤcu ra rɟum ɯl\hl{o}cu tɕe luomtɕoʁ ŋu \\ 
+\midrule 
+Ref: & kɯki li phaʁrgot tɕendɤre mbro tɕe kɯɣɤrʁaʁ tɯrme nɯnɯra kɤti ɲɯŋu \\ 
+Hyp: & kɯki li phaʁrgot tɕe ndɤre mbro tɕe kɯɣɤrʁaʁ tɯrme nɯnɯra kɤti ɲɯŋu \\ 
+\midrule 
+Ref: & tɕe nɯ ɯpa tɤtɕɯ stu kɯxtɕi nɯ kɯ aʑɯɣ ɯɕa tɕi mɤra ɯɕɤrɯ tɕi m\hl{ɤ}ra aʑɯɣ ɯndʐi chore ɯma\hl{r} tɯtɯɣɟaβ nɯ ra  toti \\ 
+Hyp: & tɕe nɯ ɯpa tɤtɕɯ \hl{n}\hl{ɯ} stu kɯxtɕi nɯ kɯ aʑɯɣ ɯɕa tɕi mɤra ɯɕɤrɯ tɕi m\hl{a}ra aʑɯɣ ɯndʐi cho re ɯma\hl{t} tɯtɯɣɟaβnɯ ra toti \\ 
+\midrule 
+Ref: & tɕendɤre ɯʑo kɯ ɯzda nɯ ɲɯkhe ɲɤnɯsɯso qhe \\ 
+Hyp: & tɕendɤre ɯʑo kɯ ɯzda nɯ ɲɯkhe ɲɤnɯsɯso qhe \\ 
+\midrule 
+Ref: & tɕe nɯnɯ kɯfse chɯ́wɣtʂɯβ \\ 
+Hyp: & tɕe nɯnɯ kɯfse chɯ́wɣtʂɯβ \\ 
+\midrule 
+Ref: & li mɤʑɯ \hl{ɯ}kɯro ci tu tɕe ɯjaftɕin ra \\ 
+Hyp: & li mɤʑɯ kɯro ci tu tɕe ɯjaftɕin ra \\ 
+\midrule 
+Ref: & ki kɯra ɲɯkhama tɕe \hl{k}\hl{i} nɤki nɯ aʑɯɣ nɯkh\hl{ɤ}m toti \\ 
+Hyp: & ki kɯra ɲɯkhama tɕe nɤki nɯ aʑɯɣ nɯkh\hl{a} m\hl{ɯ}\hl{j}\hl{e} tot\hl{i} \hl{r}i \\ 
+\midrule 
+Ref: & tɕeri pɯnɯmaʁ kɯnɤ aʑo tham kɯŋɤn kɤnɤ\hl{m}\hl{a} pɯ\hl{n}nɯsɯsota kɯnɤ \\ 
+Hyp: & tɕeri pɯnɯmaʁ kɯnɤ aʑo tham kɯŋɤn kɤnɤ \hl{m}pɯnɯsɯsota kɯnɤ \\ 
+\midrule 
+Ref: & nɯnɯ pjɯ́wɣtɕɤt khɯ tɕe \\ 
+Hyp: & nɯnɯ pjɯ́wɣtɕɤt khɯ tɕe \\ 
+\midrule 
+Ref: & tɕe nɯnɯ ɣɯ ɯjwaʁ nɯ rʁɤβrʁɤβ kɯpa ci ŋu tɕe \\ 
+Hyp: & tɕe nɯnɯ ɣɯ ɯjwaʁ nɯ rʁɤβrʁɤβ kɯpa ci ŋu tɕe \\ 
+\midrule 
+Ref: & tɕendɤre iɕqha nɯ maka ɯʑo ʑo tonɯʑɣɤnɯkon qhe joɕe ɲɯŋu \\ 
+Hyp: & tɕendɤre iɕqha nɯ maka ɯʑo ʑo tonɯʑɣɤnɯkon\hl{ɯ} qhe joɕe ɲɯŋu \\ 
+\midrule 
+Ref: & tɕendɤre \hl{s}\hl{ŋ}i χsɯsŋi ɲ\hl{o}́wɣznɤʁaʁ ʑo tɕendɤre  \\ 
+Hyp: & tɕendɤre \hl{l}i χsɯsŋi ɲ\hl{ɤ}́wɣznɤʁaʁ ʑo \hl{t}\hl{ɕ}\hl{e} tɕendɤre \\ 
+\midrule 
+Ref: & ɯjwaʁ nɯra qandzɤjo ɯjwaʁ tsa ɲɯfse \\ 
+Hyp: & ɯjwaʁ nɯra qandzɤ jo ɯjwaʁ tsa ɲɯfse \\ 
+\midrule 
+Ref: & ɲɤnɤrɯra ri rcanɯ ɯtɯqanɯ pjɤsɤre ʑo  \\ 
+Hyp: & ɲɤnɤrɯra ri rcanɯ ɯtɯqa nɯ pjɤsɤre ʑo \\ 
+\midrule 
+Ref: & tɕendɤre nɤkinɯ tɕe nɯra pɯfse nɯra pɯraŋ tɕe kɯre jɤɣ\hl{e}a pɯra toti \\ 
+Hyp: & tɕendɤre nɤkinɯ tɕe nɯra pɯfse nɯra pɯraŋ tɕe kɯre jɤɣ\hl{i}a pɯra toti \\ 
+\midrule 
+Ref: & ɯqhu nɯ tɕu zdɯm kɯɲaʁ ci luɣi ŋu tɕe \\ 
+Hyp: & \hl{a}\hl{q}\hl{h}\hl{u} \hl{n}\hl{ɯ}\hl{t}\hl{ɕ}\hl{u} ɯqhu nɯ tɕu zdɯm kɯɲaʁ ci luɣi ŋu tɕe \\ 
+\midrule 
+Ref: & ɯmɯntoʁ wuma ʑo mpɕɤr ɯdi sɤjloʁ \\ 
+Hyp: & ɯmɯntoʁ wuma ʑo mpɕɤr ɯdi sɤjloʁ \\ 
+\midrule 
+Ref: & chɯtɯt tɕe tɕe nɯnɯ thɯtɯt ri tɕe tɕendɤre \\ 
+Hyp: & chɯtɯt tɕe tɕe nɯnɯ thɯtɯt ri tɕe tɕendɤre \\ 
+\midrule 
+Ref: & tɕendɤre iɕqha tɤrte ɯkɯnɤrte tɯrme nɯ kɯ wo mɤʁdɯɣ manɯtɯ manɯtɯnɯzdɯɣnɯ kɤmbɣo\hl{m} mɤra ma aʑo aβlu tu toti \\ 
+Hyp: & tɕendɤre iɕqha tɤrte ɯkɯnɤrte tɯrme nɯ kɯ wo mɤʁdɯɣ manɯtɯ manɯtɯnɯzdɯɣ nɯ kɤmbɣo mɤra ma aʑo aβlu tu toti \\ 
+\midrule 
+Ref: & ɯŋgɯ lɤɣi jɤɣ ma sɤcɯ m\hl{ɤ}alɤt nɯra toti  \\ 
+Hyp: & ɯŋgɯ lɤɣi jɤɣ ma sɤcɯ malɤt nɯra toti \\ 
+\midrule 
+Ref: & ɯβri chɤma\hl{r} rcanɯ tɕendɤre  \\ 
+Hyp: & ɯβri chɤma rcanɯ tɕendɤre \\ 
+\midrule 
+Ref: & sta\hl{ʁ}pɯ nɤ\hl{k}\hl{i} \hl{t}ɯsqa\hl{r} ri \hl{ɯ}cu ɲɯlɤt mɯpɯŋ\hl{ɡ}rɤl  \\ 
+Hyp: & sta\hl{χ}pɯ nɤ\hl{d}ɯsqaricu ɲɯlɤt\hl{n} mɯpɯŋ\hl{g}rɤl \\ 
+\midrule 
+Ref: & χajaŋ nɯ kɯrɯ skɤt ŋu \\ 
+Hyp: & χajaŋ nɯ kɯrɯskɤt ŋu \\ 
+\midrule 
+Ref: & iʑora tɕe sɤndɤɣ tutinɯ ɕti \\ 
+Hyp: & iʑora tɕe sɤndɤɣ tutinɯ ɕti \\ 
+\midrule 
+Ref: & ɕɤrzaŋ nɯra chɯβzunɯ tɕe nɯra  \\ 
+Hyp: & ɕɤrzaŋ nɯra chɯβzunɯ tɕe nɯra \\ 
+\midrule 
+Ref: & kɯɤmtɕoʁ \hl{ɯ}stu nɯ pɯk\hl{ɤ}ʁndzɤr tɕe  \\ 
+Hyp: & \hl{ɯ}kɯɤmtɕoʁ stu nɯ pɯk\hl{a}ʁndzɤr tɕe \\ 
+\midrule 
+Ref: & akɤnɯzdɯɣ ri kɯtu me tɕe \\ 
+Hyp: & akɤnɯzdɯɣ ri kɯtu me tɕe \\ 
+\midrule 
+Ref: & tɕendɤre ɯŋga maka kɯtu maŋe nɯ tɯŋga toŋga maŋe nɯ nɯra toti \\ 
+Hyp: & tɕendɤre ɯŋga maka kɯtu maŋe nɯ tɯŋga toŋga maŋe nɯnɯra toti \\ 
+\midrule 
+Ref: & tɯrme ɣɯ t\hl{ɯ}ŋgo ɲɯŋu tɕe \\ 
+Hyp: & tɯrme ɣɯ t\hl{u}ŋgo ɲɯŋu tɕe \\ 
+\midrule 
+Ref: & tɕe toŋ ɲɯfse tɕe núndʐa toŋphɯl tukɯti ŋu \\ 
+Hyp: & tɕe toŋ ɲɯfse tɕe núndʐa toŋphɯl tukɯti \hl{ɲ}\hl{ɯ}ŋu \\ 
+\midrule 
+Ref: & wuma ʑo mɯ́jnɯɣɯ mɯ́jnɯɣɯjpa tɕe \\ 
+Hyp: & wuma ʑo mɯ́jnɯ ɣɯ mɯ́jnɯɣɯjpa tɕe \\ 
+\midrule 
+Ref: & \hl{r}\hl{t}\hl{a}zga nɯ pjɯ́wɣta ŋu \\ 
+Hyp: & \hl{ɤ}zga nɯ pjɯ́wɣta ŋu \\ 
+\midrule 
+Ref: & tɕe ma nɤkinɯ ɯru nɯnɯ fsapaʁndza pe \\ 
+Hyp: & tɕe ma nɤkinɯ ɯru nɯnɯ fsapaʁndza pe \\ 
+\midrule 
+Ref: & pɯnɯcinɯ ʑo tɕe nɯ kunaχthɤβ tɕe \\ 
+Hyp: & pɯnɯcinɯ ʑo tɕe \hl{t}\hl{ɕ}\hl{e} nɯ kunaχthɤβ tɕe \\ 
+\midrule 
+Ref: & tɤrɤku ra ɣɯmɯrki ra ma me \\ 
+Hyp: & tɤrɤku ra ɣɯmɯrki ra ma me \\ 
+\midrule 
+Ref: & tɕe li kɯnɯkho joɕe \\ 
+Hyp: & tɕe li kɯnɯkho joɕe \\ 
+\midrule 
+Ref: & \hl{i}ɕqha tɤtɕɯ tɯlɤt nɯnɯ nɤkinɯ kɯmaʁ li kɯrɤtsɣe ra nɯrca joɕe tɕe  \\ 
+Hyp: & ɕqha tɤtɕɯ tɯlɤt nɯnɯ nɤkinɯ kɯmaʁ  li kɯrɤtsɣe ra nɯrca joɕe tɕe \\ 
+\midrule 
+Ref: & ma nɯnɯ zrɯɣ nɯ li saʁnɤt \\ 
+Hyp: & ma nɯnɯ zrɯɣ nɯ li saʁnɤt \\ 
+\midrule 
+Ref: & nɯnɯ nɯɬoʁ ʑo tɕe tɕe tukɯnɯna pjɤjɤɣ ɲɯŋu \\ 
+Hyp: & nɯnɯ nɯɬoʁ ʑo tɕe tɕe tukɯnɯna pjɤjɤɣ ɲɯŋu \\ 
+\midrule 
+Ref: & tuʁndi pjɯsat nɯra ɲɯŋgrɤl tɕe tɕe \\ 
+Hyp: & tuʁndi pjɯsat nɯra ɲɯŋgrɤl tɕe tɕe \\ 
+\midrule 
+Ref: & si nɯ apɯ\hl{n}dzu\hl{r} qhe  \\ 
+Hyp: & si nɯ apɯ\hl{m}dzu qhe \hl{k}\hl{i} \\ 
+\midrule 
+Ref: & \hl{l}o\hl{n}\hl{g}t\hl{o}\hl{u} \hl{ɯ}pɤrthɤβ ri nɯro ki ʑo tustunɯ ra \\ 
+Hyp: & \hl{n}o\hl{ŋ}t\hl{h}\hl{ɯ}\hl{ɣ} pɤrthɤβ ri nɯro ki ʑo tustunɯ ra \\ 
+\midrule 
+Ref: & sɯŋgɯ ri kurɤʑi ɕti tɕe  \\ 
+Hyp: & sɯŋgɯ ri kurɤʑi ɕti tɕe \\ 
+\midrule 
+Ref: & χsɯɣjɤn t\hl{ɤ}atɕhɯza tɕe tɕendɤre \hl{n}\hl{ɯ} spjaŋkɯ ɲɯβzea ŋu tɕe \\ 
+Hyp: & χsɯɣjɤn tatɕhɯza tɕe tɕendɤre spjaŋkɯ ɲɯβzea ŋu tɕe \\ 
+\midrule 
+Ref: & kɤtaʁ kɤ́wɣthɯ tɕe tɕendɤre \\ 
+Hyp: & kɤtaʁ kɤ́wɣthɯ tɕe tɕendɤre \\ 
+\midrule 
+Ref: & tɕendɤre ʑmbrɯ ɯtaʁ toɕe tɕe nɯ ɕɯŋgɯ ɯʑo ɯsɤtɕha nɯ tɕu nɤki yalishan kɤti nɯnɯtɕu \\ 
+Hyp: & tɕendɤre ʑmbrɯ ɯtaʁ toɕe tɕe nɯ ɕɯŋgɯ ɯʑo ɯsɤtɕha nɯtɕu nɤki yalishan kɤti nɯnɯtɕu \\ 
+\midrule 
+Ref: & ɲɤlɤt tɕe tɕendɤre iɕqha nɯ  \\ 
+Hyp: & ɲɤlɤt tɕe tɕendɤre iɕqha nɯ \\ 
+\midrule 
+Ref: & ɯku ɯtaʁ kutɯtɯɣ ʑo tɕe tɕendɤre \\ 
+Hyp: & \hl{r}\hl{a} \hl{ɲ}\hl{ɤ}\hl{s}\hl{ɯ}\hl{s}\hl{o} \hl{r}\hl{i} ɯku ɯtaʁ kutɯtɯɣ ʑo tɕe tɕendɤre \\ 
+\midrule 
+Ref: & nɯ ɯtaʁ nɯtɕu iɕqha pjɯrɯ chonɤ rɯnbotɕhi nɯra kundzoʁ ɲɯŋgrɤl tɕe tɕe iɕqha  \\ 
+Hyp: & nɯ ɯtaʁ nɯtɕu iɕqha pjɯrɯ chonɤ rɯnbotɕhi nɯra kundzoʁ ɲɯŋgrɤl tɕe tɕeiɕqha \\ 
+\midrule 
+Ref: & ki saka\hl{β} ɯrkɯ \hl{n}\hl{ɯ}tɕ\hl{u} si \hl{ɯ}ɣɤ\hl{́}ʑu toti \\ 
+Hyp: & ki saka ɯrkɯ \hl{t}\hl{u} tɕ\hl{e} si ɣɤʑu toti \\ 
+\midrule 
+Ref: & tɕe nɯnɯ ndʑɯrwɯz ŋu \\ 
+Hyp: & tɕe nɯnɯ ndʑɯrwɯz ŋu \\ 
+\midrule 
+Ref: & nɤki hehua kunɤmɲama ɲɯɕti ma aʑo hehua ɲɯma\hl{ʁ}\hl{a}  \\ 
+Hyp: & nɤki hehua kunɤmɲama ɲɯɕti ma aʑo hehua ɲɯma \\ 
+\midrule 
+Ref: & tɕendɤre iɕqha khɯɣɲɟɯ ɣɯ ɯjɤlwa χchoʁe j\hl{o}rɤɕi toti ɲɯŋu \\ 
+Hyp: & tɕendɤre iɕqha khɯɣɲɟɯ ɣɯ ɯjɤlwa \hl{n}\hl{ɯ} χchoʁe j\hl{ɤ}rɤɕi toti ɲɯŋu \\ 
+\midrule 
+Ref: & t\hl{ɕ}\hl{e} tuɣɤzj\hl{ɤ}ɣl\hl{ɤ}ɣ ʑo kɯfse ɲɯɕti wo \\ 
+Hyp: & t\hl{h}\hl{i} tuɣɤzj\hl{u}ɣ\hl{β}l\hl{ɯ}ɣ ʑo kɯfse ɲɯɕti wo \\ 
+\midrule 
+Ref: & tɯrme ci nɯɕar tɕe kɯki nɤki iɕqha \\ 
+Hyp: & tɯrme ci nɯɕar tɕe kɯki nɤki iɕqha \\ 
+\midrule 
+Ref: & pjɯxtsɯ\hl{n}\hl{ɯ} nɤ pjɯxtsɯ\hl{n}\hl{ɯ} tɕe \\ 
+Hyp: & pjɯxtsɯ nɤ pjɯxtsɯ\hl{m} tɕe \\ 
+\midrule 
+Ref: & sɲikuku ʑo nɯtɕu lunɤtsoʁ pjɤŋu \\ 
+Hyp: & sɲikuku ʑo nɯ tɕu lunɤtsoʁ pjɤŋu \\ 
+\midrule 
+Ref: & tsuku ɲaʁ tsuku aqarŋɯrŋe  \\ 
+Hyp: & tsuku ɲaʁ tsuku aqarŋɯrŋe \\ 
+\midrule 
+Ref: & li \hl{ɯ}kha jozɣɯt \\ 
+Hyp: & li kha jozɣɯt \\ 
+\midrule 
+Ref: & kúwɣrtoʁ ɲɯsaχsɤl jamar ci ma maŋe \\ 
+Hyp: & kúwɣrtoʁ ɲɯsaχsɤl jamar ci ma maŋe \\ 
+\midrule 
+Ref: & iʑora tɤrte chɯnɯβzunɯ ŋu tɕe \\ 
+Hyp: & iʑora tɤrte chɯnɯβzunɯ ŋu tɕe \\ 
+\midrule 
+Ref: & tɕe dɯxpa ma nɯ ɯpɤro ra joɣɯt  \\ 
+Hyp: & tɕe dɯxpa ma nɯ ɯpɤro ra joɣɯt \\ 
+\midrule 
+Ref: & tɕendɤre iɕqha nɯ rɟɤlpu ɣɯ ɯχpi pjɤfɕɤt nɤki ɯtɯfɕɤt pjɤβzu tɕe \\ 
+Hyp: & tɕendɤre iɕqha nɯ rɟɤlpu ɣɯ ɯχpi pjɤfɕɤt nɤki ɯtɯfɕɤt pjɤβzu tɕe \\ 
+\midrule 
+Ref: & tɕendɤre kɯrɯtshoŋpa nɯ ɲɤrga qhe nɯ rŋɯl nɯkɤmbi nɯnɯ tondo qhendɤre ɯkha pɕoʁ jonɯɕe \\ 
+Hyp: & tɕendɤre kɯrɯtshoŋpa nɯ ɲɤrga qhe nɯ rŋɯl nɯkɤmbi nɯnɯ tondo qhendɤre ɯkha \hl{ɯ}pɕoʁ jonɯɕe \\ 
+\midrule 
+Ref: & nɯnɯ kumarnɯ ŋu tɕe tɕe nɯnɯ \\ 
+Hyp: & nɯnɯ kumar nɯ ŋu tɕe tɕe nɯnɯ \\ 
+\midrule 
+Ref: & tɕendɤre nɯ jamar ri tɕe kɯki tɤtɕɯ ki nɯnɯ jɤarinɯ jɤɕqhlɤtnɯ ɯqhu tɕe tɕendɤre ɯŋga nɯnɯ toŋga \\ 
+Hyp: & tɕendɤre nɯ jamar ri tɕe kɯki tɤtɕɯ ki nɯnɯ jɤarinɯ \hl{ɯ}\hl{q}\hl{u} jɤɕqhlɤtnɯ ɯqhu tɕe tɕendɤre ɯŋga nɯnɯ toŋga \\ 
+\midrule 
+Ref: & mbr\hl{a}\hl{j}qhɤ\hl{t} rcanɯ aʁɤndɯndɤt ʑo tuɬoʁ ɕti \\ 
+Hyp: & mbr\hl{i} qhɤ rcanɯ aʁɤndɯndɤt ʑo tuɬoʁ ɕti \\ 
+\midrule 
+Ref: & tɕe nɯ ma ɯɕki jɤɣi ra \hl{ɯ}kɯti pjɤme  \\ 
+Hyp: & tɕe nɯ ma ɯɕki jɤɣi ra kɯti pjɤme \\ 
+\midrule 
+Ref: & si \hl{ɯ}kɯphɯt nɯ kɯ li ci ɯrʑaβ ɲɤɕar \\ 
+Hyp: & si kɯphɯt nɯ kɯ li ci ɯrʑaβ ɲɤɕar \\ 
+\midrule 
+Ref: & nɯ ɲɯɤʑɴɢ\hl{ɯ}ʑɴɢoʁ qhe  \\ 
+Hyp: & nɯ ɲɯɤʑɴɢ\hl{u}ʑɴɢoʁ qhe \\ 
+\midrule 
+Ref: & sɤpɤzrɤ\hl{z}i ɣɯ ɯlocu ri tɕe kɤmɲɯ ɣɯ \hl{ɯ}zgo nɯnɯ \\ 
+Hyp: & sɤpɤzrɤ\hl{ʑ}i ɣɯ ɯlocu ri tɕe kɤmɲɯ ɣɯ zgo nɯnɯ \\ 
+\midrule 
+Ref: & núndʐa nɯ lɯlutɯcha ʑo ɲɯŋu \\ 
+Hyp: & núndʐa nɯ lɯlu tɯcha ʑo ɲɯŋu \\ 
+\midrule 
+Ref: & nɯɕa qajɯ ɯpɯ ŋu tɕe \hl{n}\hl{ɯ} ɲɯkɤɣɤme ftɕaka ʁɟa tuβzu ɕti ma \\ 
+Hyp: & nɯ ɕa qajɯ ɯpɯ ŋu tɕe ɲɯkɤɣɤme ftɕaka ʁɟa tuβzu\hl{n}\hl{ɯ} ɕti ma \\ 
+\midrule 
+Ref: & apɯŋu nɤ iɕqha spjaŋkɯ ɣɯ ɯndʐi nɯnɯ ɯʑo kɯsɯsu kɯ spjaŋkɯ nɯ ɣɯ ɯndʐi pjɯ́wɣqa\hl{ʁ} tɕe  \\ 
+Hyp: & apɯŋu nɤ iɕqha spjaŋkɯ ɣɯ ɯndʐi nɯnɯ ɯʑo kɯsɯsu kɯ spjaŋkɯ nɯ ɣɯ ɯndʐi pjɯ́wɣqa tɕe \\ 
+\midrule 
+Ref: & mɤʑɯ iɕqha  nɯ pɯkɤɣɤla kɯfse ɣɤʑu \\ 
+Hyp: & mɤʑɯ iɕqha nɯ pɯkɤɣɤla kɯfse ɣɤʑu \\ 
+\midrule 
+Ref: & tham \hl{ɣ}ɯ tɕe tɕendɤre ɯtɯrpa shijin ɣɤʑu gongjin ɣɤʑu \\ 
+Hyp: & tham ɯ tɕe tɕendɤre ɯtɯrpa shijin ɣɤʑu gongjin ɣɤʑu \\ 
+\midrule 
+Ref: & tɕe nɯnɯ tɕu sɯŋgɯ jɤazɣɯt tɕe sɯŋgɯ ɯrkɯ nɯtɕu nɤkinɯ qachɣa ci pjɤkɤmdzɯci \\ 
+Hyp: & tɕe nɯnɯ tɕu sɯŋgɯ jɤazɣɯt tɕe sɯŋgɯ ɯrkɯ nɯ tɕu nɤkinɯ qachɣa ci pjɤkɤmdzɯci \\ 
+\midrule 
+Ref: & tɕeri nɯnɯ tɤmd\hl{z}ɤrgi tɯrdoʁ ɣɯ ɯmɯntoʁ nɯ  \\ 
+Hyp: & tɕeri nɯnɯ tɤmdɤrgi tɯrdoʁ ɣɯ ɯmɯntoʁ nɯ \\ 
+\midrule 
+Ref: & tɕe \hl{ɯ}kɤpa ɲɤme qhe tɕendɤre nɯtɕu tɕe tɯsi ʑo kɤnɤjo pjɤɕti  \\ 
+Hyp: & tɕe kɤpa ɲɤme qhe tɕendɤre nɯtɕu tɕe tɯsi ʑo kɤnɤjo pjɤɕti \\ 
+\midrule 
+Ref: & ki tɕhɯkɤɣar ɣɯ ʑmbri sthɯci mɯ́jwxti \\ 
+Hyp: & ki tɕhɯkɤɣar ɣɯ ʑmbri sthɯci mɯ́jwxti \\ 
+\midrule 
+Ref: & tɤkhe pɣɤtɕɯ nɯ kɯ nɤki kuɕɯm \\ 
+Hyp: & tɤkhe pɣɤtɕɯ \hl{ɣ}\hl{ɯ} nɯ kɯ nɤki kuɕɯm \\ 
+\midrule 
+Ref: & tɕendɤre nɤʑo rcanɯ maka pɣa ra ɣɯ nɯtɤru ɲɯtɯsna toti ɲɯŋu \\ 
+Hyp: & tɕendɤre nɤʑo rcanɯ maka pɣa ra ɣɯ nɯtɤru \hl{ɯ}ɲɯtɯsna toti ɲɯŋu \\ 
+\midrule 
+Ref: & tɤɕime nɯ khɯɣɲɟɯ ɯrkɯ nɯtɕu th\hl{ɯ}ari tɕe  \\ 
+Hyp: & tɤɕime nɯ khɯɣɲɟɯ ɯrkɯ nɯ tɕu thari tɕe \\ 
+\midrule 
+Ref: & rŋɯl kɯ qaʁ pjɤsɯβzu rŋɯl kɯ ldɯɣɯ pjɤsɯβzu rŋɯl kɯ tɯrpa pjɤsɯβzunɯ \\ 
+Hyp: & rŋɯl kɯ qaʁ pjɤsɯβzu rŋɯl kɯ\hl{l}ldɯɣɯ pjɤsɯβzu rŋɯl kɯ tɯrpa pjɤsɯβzunɯ \\ 
+\midrule 
+Ref: & nɯ ɯŋgɯ pjɯɣinɯ tɕe tɕe  \\ 
+Hyp: & nɯ ɯŋgɯ pjɯɣinɯ tɕe tɕe \\ 
+\midrule 
+Ref: & \hl{j}\hl{i}\hl{q}i pjɯlɤt\hl{n}\hl{ɯ} ɲɯɕti tɕe  \\ 
+Hyp: & \hl{ɯ}\hl{ɯ}\hl{t}\hl{ɕ}\hl{h}i pjɯlɤt ɲɯɕti tɕe \\ 
+\midrule 
+Ref: & tɕe nɯnɯ chɯnɯtsɯm qhe  \\ 
+Hyp: & tɕe nɯnɯ chɯnɯtsɯm qhe \\ 
+\midrule 
+Ref: & tɕheme kɯpɣi nɯ kɯ nɤkinɯ rɟɤlpu ɣɯ ɯjaʁ nɯ ɲ\hl{ɤ} ɯtɕɯ nɯ ɯjaʁ ɲɤsɯɕlɯɣ qhendɤre \hl{j}\hl{o} \\ 
+Hyp: & tɕheme kɯpɣi nɯ kɯ nɤkinɯ rɟɤlpu ɣɯ ɯjaʁ nɯ ɲ\hl{s}ɯtɕɯ nɯ ɯjaʁ ɲɤsɯɕlɯɣ qhendɤre \\ 
+\midrule 
+Ref: & tɕendɤre nɤki tsh\hl{ɤ} tshɤnmu nɯ tɤrga kɯ pjɤsɤre \\ 
+Hyp: & tɕendɤre nɤki tsh\hl{ɯ} tshɤnmu nɯ tɤrga kɯ pjɤsɤre \\ 
+\midrule 
+Ref: & tu ɲɯŋgrɤl ŋgrɤl mɤŋgrɤl mɤxsi \\ 
+Hyp: & tu ɲɯŋgrɤl ŋgrɤl mɤŋgrɤl mɤxsi \\ 
+\midrule 
+Ref: & ma nɯnɯ koŋla sɯŋgɯ ri kurɤʑi ɕti qhe \\ 
+Hyp: & ma nɯnɯ koŋla sɯŋgɯ ri kurɤʑi ɕti qhe \\ 
+\midrule 
+Ref: & nɯnɯ zgo ɯpa nɯtɕu pjɤsɯxɕe tɕe  \\ 
+Hyp: & nɯnɯ zgo ɯpa nɯ tɕu pjɤsɯxɕe tɕe \\ 
+\midrule 
+Ref: & tɕe nɯ qaʑo nɯnɯ qibashi jin bajiushi jin jamar apɯtu tɕe \\ 
+Hyp: & tɕe nɯ qaʑo nɯnɯ qi ba shi jin bajiushi jin jamar apɯtu tɕe \\ 
+\midrule 
+Ref: & nɤʑo aʑo kɯ tɯtatɯt \hl{t}\hl{ɯ}\hl{t}\hl{ɤ}\hl{t}ɯta nɯ tɤste tɕe tɕendɤre \\ 
+Hyp: & nɤʑo aʑo kɯ tɯtatɯtɯta nɯ tɤste tɕe tɕendɤ\hl{r}\hl{e}re \\ 
+\midrule 
+Ref: & tɕendɤre ɯʑo kɯ tshitsuku ɲɤndɯn tɕe khɤndɯn ra ɲɤβzu tɕe tɕendɤre nɤkinɯ iɕqha nɯ \\ 
+Hyp: & tɕendɤre ɯʑo kɯ tshitsuku ɲɤndɯn tɕe khɤndɯn ra ɲɤβzu tɕe tɕendɤre nɤkinɯ iɕqha nɯ \\ 
+\midrule 
+Ref: & kɯmaʁ tɯrme ɯxso tɯrme ra nɯtɕhaʁra pjɤŋu \\ 
+Hyp: & kɯmaʁ tɯrme ɯxso tɯrme ra nɯtɕhaʁ ra pjɤŋu \\ 
+\midrule 
+Ref: & tɕe to\hl{́}\hl{w}\hl{ɣ}zrɤŋgat tɕe tɕendɤre nɯnɯ kɯ iɕqha nɯ  tɯci tɯtɤste to\hl{r}\hl{k}u \\ 
+Hyp: & tɕe tozrɤŋgat tɕe tɕendɤre nɯnɯ kɯ iɕqha nɯ tɯci tɯtɤste to\hl{t}\hl{i} \hl{m}u \\ 
+\midrule 
+Ref: & tɕe nɤki nɯ ɯfso tɕe tɕendɤre li nɯ pjɤfse ɲɯŋu tɕendɤre iɕqha nɯ iɕqha nɯ nɤkinɯ \\ 
+Hyp: & tɕe nɤki nɯ ɯfso tɕe tɕendɤre li nɯ pjɤfse ɲɯŋu tɕe \hl{t}\hl{ɕ}\hl{e}ndɤre iɕqha nɯ iɕqha nɯ nɤkinɯ \\ 
+\midrule 
+Ref: & tɕe nɯ kɯfse tuntɕhoznɯ ɲɯŋu \\ 
+Hyp: & tɕe nɯ kɯfse tuntɕhoznɯ ɲɯŋu \\ 
+\midrule 
+Ref: & ma sɤznɤrɯre kɯ ʑo jonɯɕe  \\ 
+Hyp: & ma sɤznɤrɯre kɯ ʑo jonɯɕe \\ 
+\midrule 
+Ref: & kɯnɯs\hl{u}wa tɕe kɯnɯ\hl{z}\hl{h}angang \hl{站}\hl{岗} \\ 
+Hyp: & kɯnɯs\hl{ɤ}wa tɕe kɯnɯ\hl{t}\hl{ʂ}angang \hl{f}\hl{a}\hl{n}\hl{g}\hl{s}\hl{h}\hl{a}\hl{o} \hl{d}\hl{i} \\ 
+\midrule 
+Ref: & aʑo nɤki tɤɕime ci ŋua ri koŋla ʑo tɤɕime ŋua toti \\ 
+Hyp: & aʑo nɤki tɤɕime ci ŋua ri koŋla ʑo tɤɕime ŋua toti \\ 
+\midrule 
+Ref: & nɯreri praʁ ɯŋgɯ ri tʂu tukɯɣi ra tɕe \\ 
+Hyp: & nɯreri praʁ ɯŋgɯ ri tʂu tukɯɣi ra tɕe \\ 
+\midrule 
+Ref: & tɕe tɯrmɯ kɤɣe jamar tɕe tɕendɤre \\ 
+Hyp: & tɕe tɯrmɯ kɤɣe jamar tɕe tɕendɤre \\ 
+\midrule 
+Ref: & arŋi \\ 
+Hyp: & arŋi \\ 
+\midrule 
+Ref: & tɕe mɯntoʁ mɤʑɯ kɯmpɕɤr ɲɯt\hl{ɯ}ɤpanɯ ɕti toti ɲɯŋu \\ 
+Hyp: & tɕe mɯntoʁ mɤʑɯ \hl{ʑ}\hl{o} kɯmpɕɤr ɲɯtɤpanɯ ɕti toti ɲɯŋu \\ 
+\midrule 
+Ref: & tɕendɤre kɯki tɤtɕɯ k\hl{i} kɯ nɯnɯ wuma ʑo nɯnɯ pɯkɤnɤtsɯ nɯnɯ nɤkinɯ nɤkinɯ to\hl{s}\hl{ɯ}saχsɤl ɕti ndɤre  \\ 
+Hyp: & tɕendɤre kɯki tɤtɕɯ k\hl{ɯ} kɯ nɯnɯ wuma ʑo nɯnɯ pɯkɤnɤtsɯ nɯnɯ nɤkinɯ nɤkinɯ tosaχsɤl ɕti ndɤre \\ 
+\midrule 
+Ref: & ɯzwa ɯʑoz ɯci ɯʑoz kɯfse ɲɯɤrɤmgrɯnd\hl{ɯ}r ŋu \\ 
+Hyp: & ɯzwa ɯʑoz ɯci ɯʑoz kɯfse ɲɯɤrɤmgrɯndrŋu \\ 
+\midrule 
+Ref: & \hl{k}\hl{ɯ}\hl{k}\hl{i} nɯ ma aʑo fɕata me tɕe kɯki aʑo ɕkom tumtsh\hl{i}a k\hl{i} ɣ\hl{ɯ} \hl{ɯ}χ\hl{p}i ci pjɯfɕata toti \\ 
+Hyp: & \hl{t} nɯ ma aʑo \hl{ɯ}fɕata me tɕe kɯki aʑo ɕkom tumtsh\hl{e}a k\hl{ɯ} ɣ\hl{ɤ}χ\hl{t}i ci pjɯfɕata toti \\ 
+\midrule 
+Ref: & tɕe nɤkinɯ iɕqha \\ 
+Hyp: & tɕe nɤkinɯ iɕqha \\ 
+\midrule 
+Ref: & \hl{q}\hl{a}chɣa nɯnɯ qachɣa ɣɯ ɯndʐi nɯnɯ nɤki\hl{n}\hl{ɯ} \\ 
+Hyp: & chɣa nɯnɯ qachɣa ɣɯ ɯndʐi nɯnɯ nɤki \\ 
+\midrule 
+Ref: & mɯpjɤnɯtso tɕe \hl{t}ɕ\hl{e}  \\ 
+Hyp: & mɯpjɤnɯtso tɕe \hl{a}ɕ\hl{i} \hl{d}\hl{ɤ} \hl{m}\hl{t}\hl{i} \hl{ɕ}\hl{a} \\ 
+\midrule 
+Ref: & nɯ ɕkrɤz ʁɟa ʑo sɯŋgɯ ŋu tɕe \\ 
+Hyp: & nɯ ɕkrɤz ʁɟa ʑo sɯŋgɯ ŋu tɕe \\ 
+\midrule 
+Ref: & tɕe pr\hl{ɤ}m pjɯ́wɣlɤt qh\hl{a}e tɕe qartsɯ tɕe paʁndza \hl{n}\hl{ɯ}nɯ stoʁ ɯβɣi nɯ ŋu \\ 
+Hyp: & tɕe \hl{ɯ}pr\hl{ɯ}m pjɯ́wɣlɤt qhe tɕe qartsɯ tɕe paʁndza nɯ stoʁ ɯβɣi nɯ ŋu \\ 
+\midrule 
+Ref: & tɕe nɯ toʁde t\hl{ɤ}nɯna tɕe tɕe li kɤndza ra khro tondza tɕe tɕendɤre \\ 
+Hyp: & tɕe nɯ toʁde t\hl{o}nɯna tɕe tɕe li kɤndza ra khro tondza tɕe tɕendɤre \\ 
+\midrule 
+Ref: & ɯʑo kɯ iɕqha χɕɤlkɯm nɯtɕu juru tɕe tɕendɤre \\ 
+Hyp: & ɯʑo kɯ iɕqha χɕɤl kɯm nɯ tɕu juru tɕe tɕendɤre \\ 
+\midrule 
+Ref: & ɯtɯjpum ɯtɯrɲɟi ɲɯsaχaʁ ʑo tɕe \\ 
+Hyp: & ɯtɯjpum ɯtɯrɲɟi ɲɯsaχaʁ ʑo tɕe \\ 
+\midrule 
+Ref: & tɕe nɯnɯ ma zoŋzoŋ ʑo pa tɕe tɕe nɯnɯ ɕkɤzoŋzoŋ tukɯti ŋu \\ 
+Hyp: & tɕe nɯnɯ ma zoŋzoŋ ʑo pa tɕe tɕe nɯnɯ ɕkɤzoŋzoŋ tukɯti ŋu \\ 
+\midrule 
+Ref: & mtha ɯ\hl{n}\hl{d}\hl{ɤ}cu ri woχco kɤti ci tu tɕe nɯ \hl{t}\hl{ɯ}\hl{j}\hl{i} \hl{ɯ}\hl{r}\hl{m}\hl{i} \\ 
+Hyp: & mtha ɯ\hl{l}\hl{o}cu ri woχco kɤti ci tu tɕe nɯ \\ 
+\midrule 
+Ref: & kɯxtɕi nɯnɯ alibaba pjɤrmi \\ 
+Hyp: & kɯxtɕi nɯnɯ alibaba pjɤrmi \\ 
+\midrule 
+Ref: & tɕe \hl{ɯ}xtɤpa cho ɯmi ɯjaʁ ɯŋg\hl{ɯ}chu nɯra ɲɯwɣrum \\ 
+Hyp: & tɕe xtɤpa cho ɯmi ɯjaʁ ɯŋg\hl{u} chu nɯra ɲɯwɣrum \\ 
+\midrule 
+Ref: & tɕendɤre \hl{ɯ}pɕi ɬoʁ ʑo pɯŋu tɕe tɕendɤre lɯlu kɯ nɯɕɯmɯma ʑo kówɣndo \\ 
+Hyp: & tɕendɤre pɕiɬoʁ ʑo pɯŋu tɕe tɕendɤre lɯlu kɯ nɯɕɯmɯma ʑo kówɣndo \\ 
+\midrule 
+Ref: & aʑo kutɕu kɯki kɤntɕhaʁ ɯŋgɯ kɯ k\hl{u}ŋkea tɕe \\ 
+Hyp: & aʑo kutɕu kɯki kɤntɕhaʁ ɯŋgɯ kɯ k\hl{ɯ}ŋkea tɕe \hl{k}\hl{o}\hl{k}\hl{i} \\ 
+\midrule 
+Ref: & tɯrme ra tɯrme ra tsuku kɯdɤn kɯ ʑo maka tukɤnɤjoʁjoʁ tukɤ\hl{f}stɤt nɯ ɲɯrganɯ ma khramba pɯ\hl{n}nɯŋu kɯnɤ  \\ 
+Hyp: & tɯrme ra tɯrme ra tsuku kɯdɤn kɯ ʑo maka tukɤnɤjoʁjoʁ tukɤstɤt nɯ ɲɯrganɯ ma khramba pɯnɯŋu kɯnɤ \\ 
+\midrule 
+Ref: & tɕendɤre t\hl{o} \hl{t}ɤmu nɯ kɯ tɤtʂu nɯ \hl{t}\hl{u} nɤkinɯ iɕqha nɯ ɯthoʁ nɯtɕu thɤlwa tɯspra tomɟa tɕe nɤkinɯ  \\ 
+Hyp: & tɕendɤre tɤmu nɯ kɯ tɤtʂu nɯ nɤkinɯ iɕqha nɯ ɯthoʁ nɯ tɕu thɤlwa tɯspra tomɟa tɕe nɤkinɯ \\ 
+\midrule 
+Ref: & nɯ ɯŋgɯ kurɤʑi ɲɯsɯsɤm toti \\ 
+Hyp: & nɯ ɯŋgɯ kurɤʑi ɲɯsɯsɤm toti \\ 
+\midrule 
+Ref: & mɯɕɯku kɤti nɯnɯ nɯ praʁwɯ ɯl\hl{ɤ}cu  \\ 
+Hyp: & mɯɕɯku kɤti nɯ nɯnɯ praʁwɯ ɯl\hl{o}cu \\ 
+\midrule 
+Ref: & tɕendɤre kɯki pɤjk\hl{h}u raz nɯ ɲ\hl{ɯ}ɤsɯtaʁ ɕti toti \\ 
+Hyp: & tɕendɤre kɯki pɤjku \hl{ɯ}raz nɯ ɲɤsɯtaʁ ɕti toti \\ 
+\midrule 
+Ref: & tɕendɤre nɯ kɯfse pjɤŋu tɕe \\ 
+Hyp: & tɕendɤre nɯ kɯfse pjɤŋu tɕe \\ 
+\midrule 
+Ref: & ɕtuɣɤŋoʁ mɤjɤɣ toti \\ 
+Hyp: & ɕtuɣɤŋoʁ mɤjɤɣ toti \\ 
+\midrule 
+Ref: & nɯ kɯ tɕhi tatɯt ʑo nɯnɯ iɕqha t\hl{ɤ}r\hl{u} ɯtɕɯ nɯ kɯ kusɤŋɤm pjɤŋu \\ 
+Hyp: & nɯ kɯ tɕhi tatɯt\hl{ɯ}\hl{t} ʑo nɯnɯ iɕqha t\hl{o}r\hl{ɯ} ɯtɕɯ nɯ kɯ kusɤŋɤm pjɤŋu \\ 
+\midrule 
+Ref: & nɯnɯ tɕe nɤkinɯ ɯŋgɯ nɯtɕu βʑɯ ci pjɤ pjɤrɤʑi \\ 
+Hyp: & nɯnɯ tɕe nɤkinɯ ɯŋgɯ nɯtɕu βʑɯ ci pjɤ pjɤrɤʑi \\ 
+\midrule 
+Ref: & tɕendɤre iɕqha nɯ tɕeri t\hl{ɕ}e iɕqha chake nɯ kɯ  \\ 
+Hyp: & tɕendɤre iɕqha nɯ tɕeri t\hl{h}e iɕqha chak\hl{h}e nɯ kɯ \\ 
+\midrule 
+Ref: & api ra tɯrme \hl{r}\hl{a} ɲɯ́wɣsɤβzu kɯcha kɯɣe ɲ\hl{ɯ}sɯsɤm chɯnɯzdɯɣ pjɤŋu \\ 
+Hyp: & api ra tɯrme ɲɯ́wɣsɤβzu kɯcha kɯɣe ɲ\hl{ɤ}sɯsɤm chɯnɯzdɯɣ pjɤŋu \\ 
+\midrule 
+Ref: & sqamŋutɯrpa jamar \\ 
+Hyp: & sqamŋutɯrpa jamar \\ 
+\midrule 
+Ref: & li ɯʁɤri nɯ tɕu chɯ́wɣtsɯm chɯ́wɣlɤt tɕe  \\ 
+Hyp: & li ɯʁɤri nɯtɕu chɯ́wɣtsɯm chɯ́wɣlɤt tɕe \\ 
+\midrule 
+Ref: & tɕendɤre rɟɤlpu nɯ nɤki xinbada ɯkɯrtoʁ joɣi tɕe \\ 
+Hyp: & tɕendɤre rɟɤlpu nɯ nɤki xinbada ɯkɯrtoʁ joɣi tɕe \\ 
+\midrule 
+Ref: & tɤpi ni li toɣɤɕqalindʑi tɕe mɤjɤɣ ma \\ 
+Hyp: & tɤpi ni li toɣɤɕqali ndʑi tɕe mɤjɤɣ ma \\ 
+\midrule 
+Ref: & tɕe tɯŋke ɯmɤtaʑa \hl{ɯ}mɤnɯmɯnmu qhe mɯ́jsɤmto  \\ 
+Hyp: & tɕe tɯŋke ɯmɤtaʑa\hl{ʁ} \hl{a}mɤnɯmɯnmu qhe mɯ́jsɤmto \\ 
+\midrule 
+Ref: & \hl{m}\hl{a} nɤkinɯ tɤkɤzbɣaʁ nɯ tɕe tɕe \\ 
+Hyp: & nɤkinɯ tɤkɤzbɣaʁnɯ tɕe tɕe \\ 
+\midrule 
+Ref: & tɕe nɯnɯ kunɯmge qhe nɯ\hl{n}\hl{ɯ} \hl{ʑ}\hl{o} tundze qhe \\ 
+Hyp: & tɕe nɯnɯ kunɯmge qhenɯ\hl{z}\hl{i} tundze qhe \\ 
+\midrule 
+Ref: & fsapaʁ \hl{ɯ}mɤsɤxɕe tuβzunɯ ŋgrɤl  \\ 
+Hyp: & fsapaʁ \hl{a}mɤsɤxɕe tuβzunɯ ŋgrɤl \\ 
+\midrule 
+Ref: & rgargɯn nɯ kɯ kurtoʁ qhe nɯra sthɯci pjɤŋgɯn\hl{ɯ} ɕti qhe \\ 
+Hyp: & rgargɯn nɯ kɯ kurtoʁ qhe nɯra sthɯci pjɤŋgɯn\hl{ʑ}ɕti qhe \\ 
+\midrule 
+Ref: & tɯrgi nɯ koŋla kɯpe ŋu tɕe \\ 
+Hyp: & tɯrgi nɯ koŋla kɯpe ŋu tɕe \\ 
+\midrule 
+Ref: & tɕe qro kɯfse kɯdɯdɤn ʑo jɤɣenɯ \hl{t}\hl{ɕ}\hl{e} l\hl{o}zonɯ tɕe qha \\ 
+Hyp: & tɕe qro kɯfse kɯdɯdɤn ʑo jɤɣenɯ l\hl{ɤ}zonɯ tɕe \hl{t}\hl{ɕ}\hl{e} \hl{i}\hl{ɕ}qha \\ 
+\midrule 
+Ref: & tɕendɤre kɯki rcanɯ maka nɯra kɤsthɯt kɯsɤcha nɯ pjɤmaʁ \\ 
+Hyp: & tɕendɤre kɯki rcanɯ maka nɯra kɤsthɯt kɯsɤcha nɯ pjɤmaʁ \\ 
+\midrule 
+Ref: & nɯ kɯfse nɯnɯ liangcai kɯfse low \\ 
+Hyp: & nɯ kɯfse nɯnɯ liangcai kɯfse low \\ 
+\midrule 
+Ref: & ɯpa nɯ rdɤstaʁ kɤntɤm \hl{n}ɯ \hl{t}\hl{ɕ}\hl{u} pjɯ́wɣta  \\ 
+Hyp: & ɯpa nɯ rdɤstaʁ kɤntɤm\hl{ɲ}ɯ\hl{ɣ} pjɯ́wɣta \\ 
+\midrule 
+Ref: & tɕendɤre kɯsɤscit ci ɲɤɕarnɯ tɕe nɯ tɕu tonɯnanɯ \\ 
+Hyp: & tɕendɤre kɯsɤscit ci ɲɤɕarnɯ tɕe nɯ tɕu tonɯnanɯ \\ 
+\midrule 
+Ref: & tɕe nɯnɯ li ɯfkaβ me ma ɯχcɤl nɯreri  \\ 
+Hyp: & tɕe nɯnɯ li ɯfkaβ me ma ɯχcɤl nɯreri \\ 
+\midrule 
+Ref: & tɕe ɲɯmpɕɤr \\ 
+Hyp: & tɕe ɲɯmpɕɤr \\ 
+\midrule 
+Ref: & tɕe nɯnɯ grɯβgrɯβ ŋu tɕe  \\ 
+Hyp: & tɕe nɯnɯ grɯβgrɯβ ŋu tɕe \\ 
+\midrule 
+Ref: & tɕendɤre tshɯtho stu kɯxtɕi nɯ iɕqha tɯtshot ɯrgɤm nɯ ɯŋgɯ toɕe \\ 
+Hyp: & tɕendɤre tshɯtho stu kɯxtɕi nɯ iɕqha tɯtshot ɯrgɤm nɯ ɯŋgɯ toɕe \\ 
+\midrule 
+Ref: & wuma ʑo ɲɯdɤn tɕe ɲɯrʑi tɕe \\ 
+Hyp: & wuma ʑo ɲɯdɤn tɕe ɲɯrʑi tɕe \\ 
+\midrule 
+Ref: & tɯrqo ʑmbraʁ mɤɕe tutinɯ  \\ 
+Hyp: & tɯrqo ʑmbraʁ mɤɕe tutinɯ \hl{ɲ}\hl{ŋ}\hl{u} \\ 
+\midrule 
+Ref: & k\hl{u}ɣɯta \hl{n}\hl{ɯ}\hl{s}\hl{ɯ}s\hl{o}ta ri ɲ\hl{ɤ}nɯjmɯta ma \\ 
+Hyp: & k\hl{ɯ}ɣɯta s\hl{ɤ}ta ri ɲ\hl{ɯ}nɯjmɯta ma \\ 
+\midrule 
+Ref: & stoʁ nɯnɯ nɤkinɯ tɤrɤku ŋu  \\ 
+Hyp: & stoʁ nɯnɯ nɤkinɯ tɤrɤku ŋu \\ 
+\midrule 
+Ref: & tsuku tɕe kɯwxtɯwxti ʑo kɯβde jamar kɯmŋu jamar ma kɯme ɣɤʑu \\ 
+Hyp: & tsuku tɕe kɯwxtɯwxti ʑo kɯβde jamar kɯmŋu jamar ma kɯme ɣɤʑu \\ 
+\midrule 
+Ref: & tɕeri \hl{ɯ}kɯm nɤki sɤcɯ pjɤkɤlɤtci ɕti qhe kɤcɯ mɯpjɤkhɯ \\ 
+Hyp: & tɕeri kɯm nɤki sɤcɯ pjɤkɤlɤtci ɕti qhe kɤcɯ mɯpjɤkhɯ \\ 
+\midrule 
+Ref: & sɲikuku ʑo nɤʑo \hl{n}\hl{t}\hl{s}\hl{ɯ} ma\hl{ʁ}  \\ 
+Hyp: & sɲikuku ʑo nɤʑo ma \\ 
+\midrule 
+Ref: & tɕendɤre pha \hl{a}phoŋbu ʑo maka tusɤrŋi ʑo ɲɯɕti tɕe  \\ 
+Hyp: & tɕendɤre \hl{a}pha phoŋbu ʑo maka tusɤrŋi ʑo ɲɯɕti tɕe \\ 
+\midrule 
+Ref: & tuk\hl{ɯ}ɤɕqhe tɕe ci tumŋɤm \\ 
+Hyp: & tukɤɕqhe tɕe ci tumŋɤm \\ 
+\midrule 
+Ref: & t\hl{ɤ}m\hl{u} kɤtsa ci pjɤtu\hl{n}\hl{d}\hl{ʑ}\hl{i} tɕe \\ 
+Hyp: & t\hl{ɯ}m\hl{ɯ} kɤtsa ci pjɤtu \hl{t}\hl{ɕ}\hl{e} tɕe \\ 
+\midrule 
+Ref: & tɕe nɯnɯ prɤschɯ ŋu tɕe prɤschɯ ɯŋgɯ nɯtɕu nɤkinɯ \\ 
+Hyp: & tɕe nɯnɯ prɤschɯ ŋu tɕe prɤschɯ ɯŋgɯ nɯtɕu nɤkinɯ \\ 
+\midrule 
+Ref: & \hl{n}\hl{ɤ}\hl{k}\hl{i} \hl{χ}\hl{ɕ}\hl{i}\hl{t}ka jɤɣe ri qhe pjɯkhrɯ ɕti \\ 
+Hyp: & \hl{s}\hl{t}\hl{o}\hl{ŋ}ka jɤɣe ri qhe \hl{t}\hl{ɕ}\hl{e} \hl{j} pjɯkhrɯ ɕti \\ 
+\midrule 
+Ref: & nɯ thaphɯtnɯ \\ 
+Hyp: & nɯ \hl{ɯ}\hl{q}\hl{h}\hl{u} \hl{t}\hl{ɕ}\hl{e} thaphɯtnɯ \\ 
+\midrule 
+Ref: & tɕeri ɯŋgɯ ɯsi nɯnɯ tɕe tɕe mbraj nɯ ʑru tɕe  \\ 
+Hyp: & tɕeri ɯŋgɯ ɯsi nɯnɯ tɕe tɕe mbraj nɯ ʑru tɕe \\ 
+\midrule 
+Ref: & tɕendɤre nɯnɯ tunɯrʁɯrʁa tɕe sakaβ ɣɯ ɯrkɯ nɯtɕu tunɯrʁɯrʁa tɕe tunɯɬoʁa cha\hl{a} ɲɤsɯso ri \\ 
+Hyp: & tɕendɤre nɯnɯ tunɯrʁɯrʁa tɕe sakaβ ɣɯ ɯrkɯ nɯtɕu tunɯrʁɯrʁa tɕe tunɯɬoʁa cha ɲɤsɯso ri \\ 
+\midrule 
+Ref: & tɕe nɯ kɯfse ɲɯβze qhe tɕe ʑɯrɯʑɤri \hl{t}\hl{ɕ}e li kɯpɤz ɲɯβze ɲɯŋu \\ 
+Hyp: & tɕe nɯ kɯfse ɲɯβze qhe tɕe ʑɯrɯʑɤri \hl{q}\hl{h}e li kɯpɤz ɲɯβze ɲɯŋu \\ 
+\midrule 
+Ref: & tɕe rdɤstaʁ ɯtaʁ nɯra rcanɯ nɤki \\ 
+Hyp: & tɕe rdɤstaʁ ɯtaʁ nɯra rcanɯ nɤki \\ 
+\midrule 
+Ref: & k\hl{ɤ}spa nɯ kɯnɤ kɯndziaʁ ʑo kɯfse jonɯɣinɯ pjɤɕti tɕe \\ 
+Hyp: & \hl{n}\hl{ɯ} k\hl{a}spa nɯ kɯnɤ kɯndziaʁ ʑo kɯfse jonɯɣinɯ pjɤɕti tɕe \\ 
+\midrule 
+Ref: & tɕe ɯmkhɤrmaŋ ra rca ɯrɟit ʑo tunɯste pjɤŋu tɕe tɕendɤre  \\ 
+Hyp: & tɕe ɯmkhɤrmaŋ ra rca ɯrɟit ʑo tunɯste pjɤŋu tɕe tɕendɤre \\ 
+\midrule 
+Ref: & tɕe nɯ ɕtonɯɴqhu tɕe tɕendɤre \\ 
+Hyp: & tɕe nɯ ɕtonɯɴqhu tɕe tɕendɤre \\ 
+\midrule 
+Ref: & kɯmɯɕtaʁ túwɣndza ɲɯsna túwɣnɯxsɯr ɲɯsna \\ 
+Hyp: & kɯmɯɕtaʁ túwɣndza ɲɯsna túwɣnɯxsɯr ɲɯsna \\ 
+\midrule 
+Ref: & mɤ\hl{t} \hl{m}\hl{ɤ}kɯnɤrʑaʁ tɕe nɯ kɤndʑɯxtɤɣ χsɯm joɣinɯ \\ 
+Hyp: & mɤkɯnɤrʑaʁ tɕe nɯ kɤndʑɯxtɤɣ χsɯm joɣinɯ \\ 
+\midrule 
+Ref: & tɕe nɯra kɯmpɕɤr ŋu nɤ\hl{́}ma \\ 
+Hyp: & tɕe nɯra kɯmpɕɤr ŋu nɤma \\ 
+\midrule 
+Ref: & tɕendɤre yilisha kɯ wuma ʑo pjɤz ɯsni pjɤzdɯɣ \\ 
+Hyp: & tɕendɤre yilisha kɯ wuma ʑo pjɤz ɯsni pjɤzdɯɣ \\ 
+\midrule 
+Ref: & tɕe pjɯχsuj pɯŋu ri maka ɯrg\hl{u} ɲɯsɯ ma maka ɕɤŋi nɯ nɤki ɯɲɤm kɯkhe nɯ kɯndɯndɯβ zɯmzɯm pjɯ́\hl{w}ɣβzu \hl{ʑ}\hl{o} pjɯ́wɣrɤkrɯ tɕe \\ 
+Hyp: & tɕe pjɯχsu\hl{i}j pɯŋu ri maka ɯrg\hl{ɯ} ɲɯsɯma maka ɕɤŋi nɯ nɤki ɯɲɤm kɯkhe nɯ kɯndɯndɯβ \hl{ʑ}\hl{o} \hl{ɯ}zɯmzɯm pjɯ́ɣβzu pjɯ́wɣrɤkrɯ tɕe \\ 
+\midrule 
+Ref: & ɕkom ɣɯ ɯʁ\hl{r}ɯ ndɤ ɣɤʑu \\ 
+Hyp: & \hl{t}ɕkom ɣɯ ɯʁ\hl{z}ɯ ndɤ ɣɤʑu \\ 
+\midrule 
+Ref: & ma ɯku nɯra nɤkinɯ kɯɲaʁ qhe ɯtaʁ kɯnɤmbju kɯtu ɲɯŋu \\ 
+Hyp: & ma ɯku nɯra nɤkinɯ kɯɲaʁ qhe ɯtaʁ kɯnɤmbju kɯtu ɲɯŋu \\ 
+\midrule 
+Ref: & tɕeri ndʑime nɯ kɯre ch\hl{u} k\hl{ɯ}nɯ\hl{d}a\hl{g}\hl{o}\hl{n}\hl{g} ɕti ma \\ 
+Hyp: & tɕeri ndʑime nɯ kɯrech\hl{ɯ} k\hl{u}nɯ\hl{t}a\hl{ʁ} \hl{k}\hl{o}\hl{ŋ} ɕti ma \\ 
+\midrule 
+Ref: & ɯthath\hl{o}r tɕe tɕe nɤkinɯ iɕqha kɯki kɯfse tɕe ɯkɯmpɕɤr \\ 
+Hyp: & ɯthath\hl{u}r tɕe tɕe nɤkinɯ iɕqha kɯki kɯfse tɕe ɯkɯmpɕɤr \hl{t}\hl{u}\hl{́}\hl{w}\hl{ɣ}\hl{t}\hl{ɕ}\hl{e} \hl{t}\hl{ɕ}\hl{e} \\ 
+\midrule 
+Ref: & ɯnɯnɯre tʂu kuɣi kuɕe ŋu ma \\ 
+Hyp: & ɯnɯnɯre tʂu kuɣi kuɕe ŋu ma \\ 
+\midrule 
+Ref: & qhe nɤkinɯ kɯɤkhra tu \\ 
+Hyp: & qhe nɤkinɯ kɯɤkhra tu \\ 
+\midrule 
+Ref: & tɤthu ŋu tɕe ɯmdoʁ kɯmpɕɯmpɕɤr ʑo ŋu tɕe \\ 
+Hyp: & tɤthu ŋu tɕe ɯmdoʁ kɯmpɕɯmpɕɤr ʑo ŋu tɕe \\ 
+\midrule 
+Ref: & tɕendɤre ɯkɯkɯki ɕkom ki kɯɕɯŋgɯ tɕe aʑo aβɣo ɣɯ ɯme pɯŋu \\ 
+Hyp: & tɕendɤre ɯkɯkɯki ɕkom ki kɯɕɯŋgɯ tɕe aʑo aβɣo ɣɯ ɯme pɯŋu \\ 
+\midrule 
+Ref: & ɯsŋɯro kɯwxti lutɕɤt qhe aʑo mɯ́jch\hl{a}a aʑo mɤch\hl{a}a \\ 
+Hyp: & ɯsŋɯro \hl{r}\hl{a} kɯwxti lutɕɤt qhe \hl{m}\hl{a}\hl{k}\hl{a} aʑo mɯ́jcha aʑo mɤcha \\ 
+\midrule 
+Ref: & tɕe nɯ ɣɯ fei\hl{t}\hl{a}\hl{n} nɯ ɯtaʁ k\hl{u}onɯmdzɯ tɕe  \\ 
+Hyp: & tɕe nɯ ɣɯ \hl{ɯ}fei \hl{t}\hl{h}\hl{a}nɯ ɯtaʁ konɯmdzɯ tɕe \\ 
+\midrule 
+Ref: & tɕe ɯjwaʁ nɯ pjɯʁndzɤrnɯ tɕe tɯspra tɯspra tuxtɕɤrnɯ tɕe \\ 
+Hyp: & tɕe ɯjwaʁ nɯ pjɯʁndzɤrnɯ tɕe \hl{n}\hl{ɯ} tɯspra tɯspra tuxtɕɤrnɯ tɕe \\ 
+\midrule 
+Ref: & nɯnɯ aʑo atshɤt nɤki atɤ atɤnɯsɤfse ɯ́jɤɣ toti ri  \\ 
+Hyp: & nɯnɯ aʑo atshɤt nɤki atɤ\hl{n}\hl{ɯ}\hl{s}\hl{a}\hl{ʁ} atɤnɯsɤfse ɯ́jɤɣ toti ri \\ 
+\midrule 
+Ref: & tɕendɤre kɯki rgɤtpu ki rca wuma ʑo kɯŋɤn ci pjɤŋu tɕe \\ 
+Hyp: & tɕendɤre kɯki rgɤtpu ki rca wuma ʑo kɯŋɤn ci pjɤŋu tɕe \\ 
+\midrule 
+Ref: & nɯnɯ tɯβli jaɣɯt tɕe tham tham aʁɤndɯndɤt ʑo tu \\ 
+Hyp: & nɯnɯ tɯβli jaɣɯt tɕe t\hl{ɕ}\hl{e} \hl{t}hamtham \hl{t}\hl{ɕ}\hl{e} aʁɤndɯndɤt ʑo tu \\ 
+\midrule 
+Ref: & tɕe ɯku nɯreri kɯŋgɯŋgɤr ʑo  \\ 
+Hyp: & tɕe ɯku nɯreri kɯŋgɯŋgɤr ʑo \\ 
+\midrule 
+Ref: & kɯki tɯχp\hl{ɯ}m ɯfsu jamar tuwxti cha \\ 
+Hyp: & kɯki tɯχp\hl{ɤ}m ɯfsu jamar tuwxti cha \\ 
+\midrule 
+Ref: & tɕeri ɯʑ\hl{o} kɯfse maka mɯpjɤmpɕɤr \\ 
+Hyp: & tɕeri ɯʑ\hl{ɤ}\hl{ɣ} kɯfse maka mɯpjɤmpɕɤr \\ 
+\midrule 
+Ref: & tɤtʂu kopanɯ qhe konɯrŋgɯnɯ \\ 
+Hyp: & tɤtʂu kopanɯ qhe konɯrŋgɯnɯ \\ 
+\midrule 
+Ref: & \hl{q}\hl{a}rɣe ʑo fse kɯɣɯrnɯrni ʑo ŋu \\ 
+Hyp: & \hl{t}\hl{ɤ}rɣe ʑo \hl{k}\hl{ɯ}fse kɯɣɯrnɯrni ʑo ŋu \\ 
+\midrule 
+Ref: & \hl{a} nɯ \hl{t}\hl{ɤ}ŋu tɕe fso tɕe  \\ 
+Hyp: & \hl{w} nɯ\hl{d}\hl{o}ŋu tɕe fso tɕe \\ 
+\midrule 
+Ref: & tɕendɤre mɯɲɤstu qhe ɯqom ʑo pjɤɬoʁ \\ 
+Hyp: & tɕendɤre mɯɲɤstu qhe ɯqom ʑo pjɤɬoʁ \\ 
+\midrule 
+Ref: & ɯxɕɤt ŋotɕ\hl{u} kɯtu ʑo nɯnɯ tɕu iɕqha znde ɯtaʁ nɯ tɕu tolɤt \\ 
+Hyp: & ɯxɕɤt ŋotɕ\hl{i} kɯtu ʑo nɯnɯ tɕu iɕqha znde ɯtaʁ nɯ tɕu tolɤt \\ 
+\midrule 
+Ref: & ɯjwaʁ nɯnɯ kɯmaʁ ra kɯfse  \\ 
+Hyp: & ɯjwaʁ nɯnɯ kɯmaʁ ra kɯfse \\ 
+\midrule 
+Ref: & ma ndzɯrnaʁ nɯ ɲaʁ ʑo \\ 
+Hyp: & ma ndzɯrnaʁ nɯ ɲaʁ ʑo \\ 
+\midrule 
+Ref: & ɯtɯxtɕi ɲɯtɕhom toti \\ 
+Hyp: & ɯtɯxtɕi ɲɯtɕhom toti \\ 
+\midrule 
+Ref: & nɯra tuβzunɯ ŋgrɤl \\ 
+Hyp: & nɯra tuβzunɯ ŋgrɤl \\ 
+\midrule 
+Ref: & athɯɣinɯ ra ɯkɯti losɯxɕe\hl{n}ɯ ri \\ 
+Hyp: & athɯɣi nɯ ra ɯkɯti losɯxɕe \hl{ɲ}ɯ\hl{ŋ}\hl{u} ri \\ 
+\midrule 
+Ref: & \hl{c}\hl{a}\hl{i} kɯɕɤɣ kɤndza pjɤme \\ 
+Hyp: & \hl{s}\hl{h}\hl{ɤ}\hl{j} kɯɕɤɣ kɤndza pjɤme \\ 
+\midrule 
+Ref: & ɯstɤt ɯsmɤt ɯŋga ra kɯpɣi ʁɟa ʑo pjɤŋu \\ 
+Hyp: & \hl{n}\hl{ɯ}ɯstɤt ɯsmɤt ɯŋga ra kɯpɣi ʁɟa ʑo pjɤŋu \\ 
+\midrule 
+Ref: & nɯ ma tsɯʁot kɯfse kɤnɤxɕɤt kɯfse mɤti  \\ 
+Hyp: & nɯ ma tsɯʁot kɯ \hl{k}\hl{ɯ}fse kɤnɤxɕɤt kɯfse mɤti \\ 
+\midrule 
+Ref: & ɯʁar nɯ ɲɯq\hl{ɤ}t nɤ k\hl{u}wum ɲɯqɤt nɤ k\hl{u}wum \hl{ŋ}u ma \\ 
+Hyp: & ɯʁar nɯ ɲɯq\hl{a}t nɤ k\hl{ɯ}wum ɲɯqɤtnɤ k\hl{ɯ}wumu ma \\ 
+\midrule 
+Ref: & tsuku kɯ tɕe shaoyaohua tuti ŋu  \\ 
+Hyp: & tsuku kɯ tɕe shaoy\hl{y}ao hua tuti\hl{n}\hl{ɯ} ŋu \\ 
+\midrule 
+Ref: & tɕendɤre toʁde ʑo nɯnɯ nɯsɤɣz\hl{o} amɤpɯmtonɯ qhe \\ 
+Hyp: & tɕendɤre toʁde ʑo nɯnɯ nɯsɤɣ\hl{β}z\hl{u} amɤpɯmtonɯ qhe \\ 
+\midrule 
+Ref: & iɕqha rgɤtpu nɯ kɯ nɯɕɯmɯma ʑo iɕqha raʁ ɣɯ tɤfkaβ nɯ kɯ iɕqha raʁ \hl{ɯ}phoŋ nɯnɯ chɤsɯfkaβ \\ 
+Hyp: & iɕqha rgɤtpu nɯ kɯ nɯɕɯmɯma ʑo iɕqha raʁ ɣɯ tɤfkaβ nɯ kɯ iɕqha raʁ phoŋ nɯnɯ chɤsɯfkaβ \\ 
+\midrule 
+Ref: & ɯnɯnɯ amɤtɤmŋɤm ɲɯra ma tɕe  \\ 
+Hyp: & ɯnɯnɯ amɤtɤmŋɤm ɲɯra ma tɕe \\ 
+\midrule 
+Ref: & tɕendɤre nɯnɯ ɯŋgɯ nɯtɕu iɕqha ɕnɤto ɯfkɯm \hl{ɣ}\hl{ɯ} ɯŋgɯ nɯtɕu \\ 
+Hyp: & tɕendɤre nɯnɯ ɯŋgɯ nɯtɕu iɕqha ɕnɤto ɯfkɯm ɯŋgɯ nɯ tɕu \hl{ɕ}\hl{n}\hl{ɤ}\hl{t}\hl{o} \hl{p}\hl{j}\hl{ɤ}\hl{m}\hl{e} \hl{k}\hl{ɯ} \\ 
+\midrule 
+Ref: & alading ɯrʑaβ ɯtɤɕime nɯ qhe nɯrɟɤlsa nɯ nɯɕɯmɯma ʑo iɕqha zhongguo ɣɯ nɯ ɕɯŋgɯ pɯkɯŋ\hl{u} ɣɯ ɯsɤtɕha nɯtɕu pjɤ́wɣɣɤntaβ\hl{n}\hl{ɯ} \\ 
+Hyp: & alading ɯrʑaβ \hl{n}\hl{ɯ} ɯtɤɕime nɯ qhe nɯrɟɤlsa nɯnɯɕɯmɯma ʑo iɕqha zhongguo\hl{e} ɣɯ nɯ ɕɯŋgɯ pɯkɯŋ\hl{o} ɣɯ ɯsɤtɕha nɯtɕu \hl{j}\hl{o}\hl{́}\hl{w}\hl{ɣ}\hl{s}\hl{ɯ} pjɤ́wɣɣɤntaβ \\ 
+\midrule 
+Ref: & tɕeri qajɯ ɯthoʁ qajɯ nɯra nɯkɯsɤpɯpa nɯ ɲɯŋu low  \\ 
+Hyp: & tɕeri qajɯ ɯthoʁ qajɯ nɯra nɯkɯsɤpɯpa nɯ ɲɯŋu low \hl{a}\hl{m}\hl{b}\hl{a}\hl{l}\hl{ɯ}\hl{l}\hl{a} \hl{m}\hl{a} \hl{n}\hl{ɯ} \hl{k}\hl{ɯ}\hl{f}\hl{s}\hl{e} \hl{ŋ}\hl{u} \\ 
+\midrule 
+Ref: & \hl{l}\hl{i} ɯzda ra ɯrca nɯ tɕu jojɣɤt pjɤra \\ 
+Hyp: & \hl{n}ɯzda ra \hl{n}ɯrca nɯtɕu jojɣɤt pjɤra \\ 
+\midrule 
+Ref: & tɕendɤre nɤkinɯ nɯɕɯmɯma \hl{ʑ}o nɯnɯ hengsheer \hl{n}\hl{ɯ}\hl{n}\hl{ɯ} nɯ sɤzn\hl{ɤ} nɯ chɯ́wɣpu tɕe tundzea ɲɯntshi ɲɤsɯso \\ 
+Hyp: & tɕendɤre nɤkinɯ nɯɕɯmɯma onɯnɯ hengsheer nɯ sɤzn\hl{ɯ}nɯ chɯ́wɣpu tɕe tundzea ɲɯntshi ɲɤsɯso \\ 
+\midrule 
+Ref: & nɯmci k\hl{ɤ}\hl{r}ɤ\hl{w}\hl{u}\hl{m} maka mɯ́jchanɯ tɕe nɯmci tuɣɤrɯβrɯβ ʑo ɲɯŋu \\ 
+Hyp: & nɯmci k\hl{ɯ}ɤ\hl{r}\hl{o} maka \hl{c} mɯ́jchanɯ tɕe nɯmci tuɣɤrɯβrɯβ ʑo ɲɯŋu \\ 
+\midrule 
+Ref: & tɕendɤre nɯtɕu tɕe tɕe\hl{n}\hl{d}\hl{ɤ}\hl{r}\hl{e} pjɤsɯz tɕendɤre  \\ 
+Hyp: & tɕendɤre nɯtɕu tɕe tɕe pjɤsɯz \hl{t}\hl{ɕ}\hl{e}tɕendɤre \\ 
+\midrule 
+Ref: & tɕe rɟɤlpu ci pjɤtu tɕe rɟɤlpu ɣɯ ɯkha nɯnɯ iɕqha  \\ 
+Hyp: & tɕe\hl{n}\hl{d}\hl{ɤ}\hl{r}\hl{e} rɟɤlpu ci pjɤtu tɕe rɟɤlpu ɣɯ ɯkha nɯnɯ iɕqha \\ 
+\midrule 
+Ref: & tɕe qandzɤjo kɤti ci tu tɕe \\ 
+Hyp: & tɕe qandzɤjo kɤti ci tu tɕe \\ 
+\midrule 
+Ref: & ci ci tɕe tɕendɤre iɕqha si nɯ kúwɣsɯsphjaʁ  \\ 
+Hyp: & ci ci tɕe tɕendɤre iɕqha si nɯ kúwɣsɯsphjaʁ \\ 
+\midrule 
+Ref: & \hl{t}\hl{ɕ}\hl{e} kɯɣɤrʁaʁ tɯrme nɯ kɯ \\ 
+Hyp: & kɯɣɤrʁaʁ tɯrme nɯ kɯ \\ 
+\midrule 
+Ref: & qajdo nɯ \hl{p}\hl{j} maka mɯpjɤsɯχsɤl \\ 
+Hyp: & qajdo nɯ maka mɯpjɤsɯχsɤl \\ 
+\midrule 
+Ref: & m\hl{o}t\hl{u}o ɯtaʁ chɯɣi\hl{n}dʑi ɲɯŋu \\ 
+Hyp: & m\hl{ɤ}t\hl{h}o ɯtaʁ chɯɣi \hl{ɲ}\hl{ɯ}\hl{β}dʑi ɲɯŋu \hl{m}\hl{a} \\ 
+\midrule 
+Ref: & tɕe nɯrme nɯra ɲɯme ɲɯŋu \\ 
+Hyp: & tɕe nɯrme nɯra ɲɯme ɲɯŋu \\ 
+\midrule 
+Ref: & jɤɕe ra toti \hl{ɲ}\hl{ɯ}\hl{ŋ}\hl{u} \\ 
+Hyp: & jɤɕe ra toti \\ 
+\midrule 
+Ref: & tɕe xɕaj nɯnɯ ɯmdoʁ nɯ apɤpɣi kɯfse \\ 
+Hyp: & tɕe xɕaj nɯnɯ ɯmdoʁ nɯ apɤpɣi kɯfse \\ 
+\midrule 
+Ref: & tɕendɤre rgɤtpu \hl{n}ɯ dɯxpa ma kha jonɯɕe tɕe \\ 
+Hyp: & tɕendɤre rgɤtpu ɯ\hl{r}dɯxpa ma kha jonɯɕe tɕe \\ 
+\midrule 
+Ref: & nɤkinɯ iɕqha nɯ tɕendɤre athi nɤki rɟɤlsa ɯʁɤri kutɕu zɯ nɤkinɯ si mɯndʐam\hl{ɯ}χtɕɯɣ χsɯri kɯtʂɤsqi apɯtu \\ 
+Hyp: & nɤkinɯ iɕqha nɯ tɕendɤre athi nɤki rɟɤlsa ɯʁɤri kutɕu zɯ nɤkinɯ si \hl{ɯ}mɯndʐa m\hl{a}χtɕɯɣ χsɯri kɯtʂɤsqi apɯ\hl{t}\hl{a}\hl{u} tu \\ 
+\midrule 
+Ref: & tɕendɤre ɯcu kɯtu nɯ pjɤsɯχsɤl \\ 
+Hyp: & tɕendɤre \hl{n}\hl{ɯ} ɯcu kɯtu nɯ pjɤsɯχsɤl \\ 
+\midrule 
+Ref: & tɕe nɯnɯ χsɤr pɣa nɯ nɤjaʁ ɲɯtɯkho ʑo tɕe tɕendɤre \hl{n}\hl{ɤ}\hl{k}\hl{i} \\ 
+Hyp: & tɕe nɯnɯ χsɤr pɣa nɯ nɤjaʁ ɲɯtɯkho ʑo tɕe tɕendɤre \\ 
+\midrule 
+Ref: & nɤkinɯ iɕqha jinqiu nɯ toɣɤrɤt \\ 
+Hyp: & nɤkinɯ iɕqha jin\hl{g}qiu nɯ toɣɤrɤt \\ 
+\midrule 
+Ref: & \hl{ɯ}ɕoŋtɕa stu ʑo kɯmna kɤsɯpa ɕti  \\ 
+Hyp: & ɕoŋtɕa stu ʑo kɯmna kɤsɯpa ɕti \\ 
+\midrule 
+Ref: & tɤpɤtso kɯlɤɣ nɯra ɣɯ nɯŋgra nɯnɯ nɤkinɯ pjɯsɯxtɕhaʁ ntsɯ pjɤŋu \\ 
+Hyp: & tɤpɤtso \hl{ɯ}kɯlɤɣ nɯra ɣɯ nɯŋgra nɯnɯ nɤkinɯ \hl{p}\hl{ɯ}pjɯsɯxtɕhaʁ ntsɯ pjɤŋu \\ 
+\midrule 
+Ref: & iɕqha ɬɤndʐi nɯ kɯ ɯjaʁ nɯtɕu scapa tondo tɕe \\ 
+Hyp: & iɕqha ɬɤndʐi nɯ kɯ ɯjaʁ nɯtɕu scapa tondo tɕe \\ 
+\midrule 
+Ref: & r\hl{g}ɤ\hl{m} nɯ \hl{t}\hl{o}\hl{c}\hl{ɯ} \\ 
+Hyp: & \hl{n}\hl{ɤ}\hl{c}\hl{ɯ}r\hl{ɣ}ɤ\hl{t} nɯ  \hl{r} \\ 
+\midrule 
+Ref: & tɕe ɴqiaβ tsa ri tuɬoʁ ɲɯŋu \\ 
+Hyp: & tɕe ɴqiaβ tsa ri tuɬoʁ ɲɯŋu \\ 
+\midrule 
+Ref: & nɤmkha zɯ ɲɯnɯqambɯmbjom qhe tɕe  \\ 
+Hyp: & nɤmkha zɯ ɲɯnɯqambɯmbjom qhe tɕe \\ 
+\midrule 
+Ref: & tɕe nɯnɯ nɤkinɯ ɯthoʁ tukɯnɤŋkɯŋke ɕti ma ɯʁar ra maŋe \\ 
+Hyp: & tɕe nɯnɯ nɤkinɯ ɯthoʁ tukɯnɤŋkɯŋke ɕti ma ɯʁar ra maŋe \\ 
+\midrule 
+Ref: & ɯnɯnɯ nɯmbɯt ɯqhu qhe tɕe \\ 
+Hyp: & ɯnɯnɯ nɯmbɯt ɯqhu qhe tɕe \\ 
+\midrule 
+Ref: & tɤjmɤɣ ci ŋu tɕe \hl{n}\hl{ɯ}\hl{n}\hl{ɯ} mbraʑɯm nɯnɯ stɤmku ri tuɬoʁ ŋu \\ 
+Hyp: & tɤjmɤɣ ci ŋu tɕe mbraʑɯm nɯnɯ stɤmku ri tuɬoʁ ŋu \\ 
+\midrule 
+Ref: & tɯrme nɯsɤŋonɯ kɯnɤ nɯsɯm ɲɯɣɤβdi kɯfse \\ 
+Hyp: & tɯrme \hl{r}\hl{a} nɯsɤŋonɯ kɯnɤ nɯsɯm ɲɯɣɤβdi kɯfse \\ 
+\midrule 
+Ref: & qartshaz kɤti ci tu \\ 
+Hyp: & qartshaz kɤti ci tu \\ 
+\midrule 
+Ref: & \hl{l}ɯlu s\hl{ɤ}z tɕe ɲɯwxti khɯna sthɯci tɕ\hl{e} mɯ́jwxti jamar ci ɲɯŋu khi \\ 
+Hyp: & ɯlu s\hl{o}z tɕe ɲɯwxti khɯna sthɯci tɕ\hl{i} mɯ́jwxti jamar ci ɲɯŋu khi \\ 
+\midrule 
+Ref: & kutɕu chɯkɯn\hl{ɯ}khɤlɤmdzɯdzɯ tɕe \\ 
+Hyp: & kutɕu chɯkɯn\hl{ɤ}khɤlɤmdzɯ\hl{m}dzɯ tɕe \\ 
+\midrule 
+Ref: & ɯrna nɯra tshɤt ɣɯ ɲɯfse ri \\ 
+Hyp: & ɯrna nɯra tshɤt ɣɯ ɲɯfse ri \\ 
+\midrule 
+Ref: & tɕendɤre kɯm lutɯc\hl{ɯ} ʑo tɕe \\ 
+Hyp: & tɕendɤre kɯm lutɯc\hl{i} ʑo tɕe \\ 
+\midrule 
+Ref: & tɕeth\hl{a} aɣe thɯɣe tɕe nɯrge ma andi ra \hl{a}ta \\ 
+Hyp: & tɕe thaɣe thɯɣe tɕe nɯrge ma andi ra ta \\ 
+\midrule 
+Ref: & iɕqha si ɣɯ ɯmbro nɯk\hl{ɤ}βzu nɯ kɤnɯqambɯmbjom kɯspa  \\ 
+Hyp: & iɕqha si ɣɯ ɯmbro nɯk\hl{ɯ}βzu nɯ kɤnɯqambɯmbjom kɯspa \\ 
+\midrule 
+Ref: & túwɣfkur ʁɟa ʑo ra ma kɯɕɯŋgɯ mkhɯrlu kɯfse ra pɯkɯtu me \\ 
+Hyp: & túwɣfkur ʁɟa ʑo ra ma kɯɕɯŋgɯ mkhɯrlu kɯfse ra pɯkɯtu me \\ 
+\midrule 
+Ref: & ɯrkɯ nɯtɕu si \hl{ɯ}sno ci ata tɕe \\ 
+Hyp: & ɯrkɯ nɯtɕu si sno ci ata tɕe \\ 
+\midrule 
+Ref: & aʑo nɤkinɯ k\hl{ɤ} \hl{k}\hl{ɤ}nɯndʐɯnbu jɤɬoʁa toti \hl{ɲ}\hl{ɯ}\hl{ŋ}\hl{u} \\ 
+Hyp: & aʑo nɤkinɯ k\hl{ɯ}nɯndʐɯnbu jɤɬo\hl{ʁ}ʁa toti \\ 
+\midrule 
+Ref: & tɕendɤre t\hl{ɤ}rɤŋgatndʑi tɕe tɕendɤre  \\ 
+Hyp: & tɕendɤre t\hl{o}rɤŋgatndʑi tɕe tɕendɤre \\ 
+\midrule 
+Ref: & tɕendɤre ɕɤrpɣa nɯ tɕ\hl{e} jonɯɕe \\ 
+Hyp: & tɕendɤre ɕɤrpɣa nɯ tɕ\hl{u} jonɯɕe \\ 
+\midrule 
+Ref: & pjɤtɕɤt tɕendɤre tɯthɯ ɯŋgɯ kolɤt tɕendɤre tosɤla \\ 
+Hyp: & pjɤtɕɤt tɕendɤre tɯthɯ ɯŋgɯ kolɤt tɕendɤre tosɤla \\ 
+\midrule 
+Ref: & tɕeri nɯ kɯnɤ kɯphɤn pjɤme ma kɤmto mu pjɤme \\ 
+Hyp: & tɕeri nɯ kɯnɤ kɯphɤn pjɤme ma kɤmto \hl{k}\hl{ɯ}\hl{t}\hl{u} mu pjɤme \\ 
+\midrule 
+Ref: & tɕe ɯmtɕhi ɲɯɲaʁ ma ɯro nɯra ɲɯɣɯrni tɕe mtɕh\hl{i}ɲaʁ mtɕh\hl{i}naʁ tutinɯ ŋgrɤl  \\ 
+Hyp: & tɕe ɯmtɕhi ɲɯɲaʁ ma ɯro nɯra ɲɯɣɯrni tɕe mtɕh\hl{ɯ}ɲaʁ mtɕh\hl{ɯ}naʁ tutinɯ ŋgrɤl \\ 
+\midrule 
+Ref: & tɕe alading kɯ maka ʑo mɯɲɤnɯsɯmŋɤ\hl{m} qhe  \\ 
+Hyp: & tɕe alading kɯ maka ʑo mɯɲɤnɯsɯmŋɤ\hl{n} \hl{k}\hl{ɯ}qhe \\ 
+\midrule 
+Ref: & tɕe nɯ jamar tɕe tɤŋe nɯnɯ kɯɕqhlɤt torɤŋ\hl{g} pjɤɕqhlɤt \\ 
+Hyp: & tɕe nɯ jamar tɕe tɤŋe nɯnɯ kɯɕqhlɤt torɤŋ  pjɤɕqhlɤt \\ 
+\midrule 
+Ref: & mɯɲ\hl{ɯ}ɤlɯlju kɯ nɤki ɲɯfs\hl{e} \\ 
+Hyp: & mɯɲɤlɯlju\hl{ɣ} kɯ nɤki ɲɯfs\hl{ɯ} \\ 
+\midrule 
+Ref: & tɤmthɯm ʁɟa ʑo ma nɯ ma nɤki \\ 
+Hyp: & tɤmthɯm ʁɟa ʑo ma nɯ ma nɤki \\ 
+\midrule 
+Ref: & nɯnɯ nɤki hengshe\hl{e}r ɣɯ ɯjaʁndzu ɲɯŋu ɲɯsɯsɤm tɕe  \\ 
+Hyp: & nɯnɯ nɤki hengsher ɣɯ ɯjaʁndzu ɲɯŋu ɲɯsɯsɤm tɕe \\ 
+\midrule 
+Ref: & tsuku tɕe tɕe tɯɟom kɯnɤ tuzri mɯ́jcha  t\hl{ɯ}ʁar jamar  \\ 
+Hyp: & tsuku tɕe tɕe tɯɟom kɯnɤ tuzri mɯ́jcha t\hl{ɤ}ʁar jamar \\ 
+\midrule 
+Ref: & tɕendɤre iɕqha rɟɤmtshu nɯ jopjɤlnɯ \hl{t}\hl{ɕ}\hl{e}  \\ 
+Hyp: & tɕendɤre iɕqha rɟɤmtshu nɯ jopjɤlnɯ \\ 
+\midrule 
+Ref: & iɕqha nɯ kupa ɣɯ nɤki tɕhaŋkha nɯ t\hl{ɕ}e \hl{f}se wo \\ 
+Hyp: & iɕqha nɯ kupa ɣɯ nɤki tɕhaŋkha nɯ t\hl{s}e se wo \\ 
+\midrule 
+Ref: & nɯ kɯnɤ sla me tɕe ɲɯra \\ 
+Hyp: & nɯ kɯnɤ sla me tɕe ɲɯra \\ 
+\midrule 
+Ref: & nɯ kɯnɤ nɯkɯsɤmtshi ɣɤʑu \\ 
+Hyp: & nɯ kɯnɤ nɯkɯsɤmtshi ɣɤʑu \\ 
+\midrule 
+Ref: & iɕqha kha ɣɯ pɯwɯ nɯnɯ tɕe ɯkɯnɯβdaʁ ɣɤʑu tɕe nɯnɯ kɤndza mɯpjɤnɤz \\ 
+Hyp: & iɕqha kha ɣɯ pɯwɯ nɯnɯ tɕe ɯkɯnɯβdaʁ ɣɤʑu tɕe nɯnɯ kɤndza mɯpjɤnɤz \\ 
+\midrule 
+Ref: & tɕe nɯ hanɯni mɤnaχtɕɯɣ \\ 
+Hyp: & tɕe nɯ hanɯni mɤnaχtɕɯɣ \\ 
+\midrule 
+Ref: & t\hl{u}\hl{t}\hl{ɯ} \hl{t}ɤtɯta ŋu tɕe \\ 
+Hyp: & tɤtɯta ŋu tɕe \\ 
+\midrule 
+Ref: & tɕendɤre praʁ ra jɤsɯpjɤl tɕe nɤkinɯ \\ 
+Hyp: & tɕendɤre praʁ ra jɤsɯpjɤl tɕe nɤkinɯ \\ 
+\midrule 
+Ref: & tɕendɤre nɤkinɯ kɯlɤɣ tɤpɤtso nɯ ɯsɯmpa tɕe masɤrɯrj\hl{u} ɲɯnɤre pjɤŋu \\ 
+Hyp: & tɕendɤre nɤkinɯ kɯlɤɣ tɤpɤtso nɯ ɯsɯm\hl{ɯ}pa tɕe masɤrɯrj\hl{i} ɲɯnɤre pjɤŋu \\ 
+\midrule 
+Ref: & ma nɯnɯ ɟɤwɤ\hl{t} ŋu \\ 
+Hyp: & ma nɯnɯ ɟɤwɤ\hl{n} ŋu \\ 
+\midrule 
+Ref: & ɯnɯnɯ tɕe tɕe qambalɯla nɯ fanz\hl{h}\hl{e}\hl{n}\hl{g} qajɯ ci ndɤre ɕti \\ 
+Hyp: & ɯnɯnɯ tɕe tɕe qambalɯla nɯ fanz\hl{i} qajɯ ci ndɤre ɕti \\ 
+\midrule 
+Ref: & tɕe nɯ qapar nɯnɯ li wuma ʑo kɯŋɤn tɕe \\ 
+Hyp: & tɕe nɯ qapar nɯnɯ li wuma ʑo kɯŋɤn tɕe \\ 
+\midrule 
+Ref: & ʑɯmkhɤm ɯku sɤtɕha k\hl{ɯ}kukɯrɤʑi ra nɯ ɯŋgɯz tɕe stu kɯmɤɕi stu kɯχɕu nɯra ɲɯŋu toti \\ 
+Hyp: & ʑɯmkhɤm ɯku \hl{k}\hl{ɯ}\hl{k}\hl{i} sɤtɕha k\hl{u} kukɯrɤʑi ra nɯ ɯŋgɯz tɕe stu kɯmɤɕi stu kɯχɕu nɯra ɲɯŋu toti \\ 
+\midrule 
+Ref: & qhe \hl{l}angfei ɲɯsɯxɕe ɕti ɣɯβde ra ma \\ 
+Hyp: & qhe \hl{n}\hl{ɯ} \hl{n}angfei ɲɯsɯxɕe ɕti ɣɯβde ra ma \\ 
+\midrule 
+Ref: & tɕe nɯnɯ nɤkinɯ kɯpɤz nɯnɯ nɯnɯ tuste tɕe iʑora \\ 
+Hyp: & tɕe nɯnɯ nɤkinɯ kɯpɤz nɯnɯ nɯnɯ tuste tɕe iʑora \\ 
+\midrule 
+Ref: & tɕendɤre iɕqha nɯ nɯ kɤ\hl{n}tɕhaʁ ɯŋgɯ tɯrme nɯra kɯ nɤki nɯnɯ pjɤ ɲɯsɤfɕ\hl{ɤ}ranɯ pjɤŋu nɯ wuma ʑo ɲɯmpɕɤr khi nɯra tutinɯ pjɤŋu \\ 
+Hyp: & tɕendɤre iɕqha nɯ nɯ\hl{n}\hl{ɯ} kɤtɕhaʁ ɯŋgɯ tɯrme nɯra kɯ nɤki nɯnɯ pjɤ ɲɯsɤfɕ\hl{a}ranɯ pjɤŋu nɯ wuma ʑo ɲɯmpɕɤr khi nɯra tutinɯ pjɤŋu \\ 
+\midrule 
+Ref: & tɕe tɯrme khɯkhro kɯ ʑo ɣɯtorɤtshɤtnɯ tɕe \\ 
+Hyp: & tɕe tɯrme khɯkhro kɯ ʑo ɣɯtorɤtshɤtnɯ tɕe \\ 
+\midrule 
+Ref: & kɯnɯɕɯʁjɯ manɯtɯnɯɕɯʁjɯ  \\ 
+Hyp: & kɯnɯɕɯʁjɯ manɯtɯnɯɕɯʁjɯ \\ 
+\midrule 
+Ref: & tɕendɤre nɯnɯ tɤrpi tɯɣjɤn nɯra ɲɤsɯβzunɯ pjɤ pjɤra khi ma \\ 
+Hyp: & tɕendɤre nɯnɯ tɤrpi tɯɣjɤn nɯra ɲɤsɯβzunɯ pjɤ\hl{r}  pjɤra khi ma \\ 
+\midrule 
+Ref: & nɯnɯ jla nɯra doŋtsi tut\hl{i}\hl{n}ɯ rɟandzi tutinɯ \\ 
+Hyp: & nɯnɯ jla nɯra \hl{n}doŋtsi tutɯrɟandzi tutin\hl{ɯ} \hl{ɲ}\hl{ɯ}\hl{ŋ}ɯ \\ 
+\midrule 
+Ref: & ʑɤni kɯnɤ chɤrɤrɟitndʑi ndʑirɟit nɯra chɤrɤrɟitnɯ \\ 
+Hyp: & ʑɤni kɯnɤ chɤrɤrɟitndʑi ndʑirɟit nɯra chɤrɤrɟitnɯ \\ 
+\midrule 
+Ref: & tɕhi xtsɤrtɯm tutinɯ cho naχtɕɯɣ \\ 
+Hyp: & tɕhi xtsɤrtɯm tuti nɯ cho naχtɕɯɣ \\ 
+\midrule 
+Ref: & kha kɯɕnɤrtsɤɣ kɯ\hl{r}cɤxtsɤɣ jamar kɯmbro tuβze ɲɯcha ri \\ 
+Hyp: & kha kɯɕnɤrtsɤɣ kɯ\hl{s}cɤxtsɤɣ jamar kɯmbro \hl{k}\hl{ɯ}\hl{f}\hl{s}\hl{e} tuβze ɲɯcha ri \\ 
+\midrule 
+Ref: & ma tɕe nɯ ku\hl{́}\hl{w}\hl{ɣ}sɤlɤɣɯ ndɤre mɯpɯ́wɣrɲo \\ 
+Hyp: & ma tɕe nɯ ku\hl{z}\hl{k}\hl{u} sɤlɤɣɯ ndɤre mɯpɯ́wɣrɲo \\ 
+\midrule 
+Ref: & nɯ ra ci nɯ kɯ j\hl{ɤ}́wɣtsɯm ɯkhɯkha rɤɣo ra chɯnɯβze pjɤŋu  \\ 
+Hyp: & nɯra ci nɯ kɯ j\hl{o}́wɣtsɯm ɯkhɯkha rɤɣo ra chɯnɯβze pjɤŋu \\ 
+\midrule 
+Ref: & tɕe tɤŋkhɯt jamar kɯtu tu nɯ sthɯci kɯme tu \\ 
+Hyp: & tɕe tɤŋkhɯt jamar kɯtu tu nɯ sthɯci kɯme tu \\ 
+\midrule 
+Ref: & ɯmdoʁ nɯnɯ kɯɲaʁ tu kɯɤrɯldʑaŋkɯ tu k\hl{ɯ}qarŋɯrŋe tu \\ 
+Hyp: & \hl{z}\hl{d}\hl{ɯ}\hl{m}\hl{q}\hl{e} \hl{n}\hl{ɯ} ɯmdoʁ nɯnɯ kɯɲaʁ tu kɯɤrɯldʑaŋkɯ tu k\hl{ɤ}qarŋɯrŋe tu \\ 
+\midrule 
+Ref: & tɕe\hl{n}\hl{d}\hl{ɤ}\hl{r}\hl{e} tɤwi nɯ kɯ tɕhi \hl{k}ɯfse ʑo nɯ pjɤfɕɤt tɕendɤre \\ 
+Hyp: & tɕe \hl{n}\hl{ɯ} tɤwi nɯ kɯ tɕhi \hl{s}ɯfse ʑo nɯ pjɤfɕɤt \hl{t}\hl{ɕ}\hl{e} tɕendɤre \\ 
+\midrule 
+Ref: & tɕendɤre tɯsla ɲɤɕqhlɤt \\ 
+Hyp: & tɕendɤre tɯsla ɲɤɕqhlɤt \\ 
+\midrule 
+Ref: & nɯra kɯ  tɯrme ra kɯ tɕe aʑo armi nɯ stu ʑo kɯmpɕɤr tusɯpanɯ ɲɯŋu \\ 
+Hyp: & nɯra kɯ tɯrme ra kɯ tɕe aʑo armi \hl{n}\hl{ɯ}nɯ stu ʑo kɯmpɕɤr tusɯpanɯ ɲɯŋu \\ 
+\midrule 
+Ref: & tɕe nɤki qhe nɯ kɯki nɯ arkɯ ɣzɯ nɯra tɕhi kɯfse ɲɯŋunɯ toti ɲɯŋu ri \\ 
+Hyp: & tɕe nɤki qhe nɯ kɯki \hl{m}nɯ arkɯ \hl{ɣ}\hl{ɯ} \hl{n}\hl{ɤ}\hl{k}\hl{i} ɣzɯ nɯra tɕhi kɯfse ɲɯŋunɯ toti ɲɯŋu ri \\ 
+\midrule 
+Ref: & ɯmke stu nɯ \hl{ɯ}pa pjɯɕthɯznɯ \\ 
+Hyp: & ɯmke \hl{ɯ}stu nɯ pa pjɯɕthɯz nɯ \\ 
+\midrule 
+Ref: & tɕe nɯnɯ ɯjwaʁ nɯnɯ kɯtɕɤr tsa ci li ɯku lukɯɤmtɕoʁ kɯfse ci ŋu tɕe \\ 
+Hyp: & tɕe nɯnɯ ɯjwaʁ nɯnɯ kɯtɕɤr tsa ci li ɯku lukɯɤmtɕoʁ kɯfse ci ŋu tɕe \\ 
+\midrule 
+Ref: & tɕe tonɤmtsɯmtsaʁnɯ \\ 
+Hyp: & tɕe tonɤmtsɯmtsaʁnɯ \\ 
+\midrule 
+Ref: & nɯnɯ athɤr\hl{j}i nɯ ɲɯmbrɤt tɕe ɯndɤcu ri li tɯji ci kundzoʁ \hl{ŋ}\hl{u} tɕe \\ 
+Hyp: & nɯnɯ athɤri nɯ ɲɯmbrɤt tɕe ɯndɤcu ri li tɯji ci kundzoʁ tɕe \\ 
+\midrule 
+Ref: & pjɯru qhe tɕeki tɯci ɯŋgɯ ɯʑo pɯkɯntɕhɤr nɯ pjɤmto \\ 
+Hyp: & pjɯru qhe tɕeki tɯci ɯŋgɯ ɯʑo pɯkɯntɕhɤr nɯ pjɤmto \\ 
+\midrule 
+Ref: & tɕe nɯnɯ tɕe tɕe nɯnɯ tɤtu tɕe tɕe \\ 
+Hyp: & tɕe nɯnɯ tɕe tɕe nɯnɯ tɤtu tɕe tɕe \\ 
+\midrule 
+Ref: & nɯ m\hl{ɤ}ʑ\hl{ɯ} tɕe tɕe ɬɤndʐi ʁnɯz n\hl{ɯ} nɯnɯ sakaβ ɯrkɯ nɯtɕu li ɲɤkɤtɯɣndʑici pjɤrɯkhɤcɤlndʑi \\ 
+Hyp: & nɯ \hl{ɯ}m\hl{ɯ}\hl{r} ʑ\hl{o} tɕe tɕe ɬɤndʐi ʁnɯz n\hl{i} nɯnɯ sakaβ ɯrkɯ nɯtɕu li ɲɤkɤtɯɣndʑi ci pjɤrɯkhɤcɤlndʑi \\ 
+\midrule 
+Ref: & tɕe nɯ qrose ŋu \\ 
+Hyp: & tɕe nɯ qrose ŋu \\ 
+\midrule 
+Ref: & tɕe ɯsroʁ kɤri ra toti \\ 
+Hyp: & tɕe ɯsroʁ kɤri ra toti \\ 
+\midrule 
+Ref: & \hl{l}\hl{u}tɯfsoʁ ʑo qhe tɯrɤma tuʑe \hl{ɲ}\hl{ɯ}\hl{ŋ}\hl{u} \\ 
+Hyp: & \hl{ɯ}tɯfsoʁ ʑo qhe tɯrɤma tuʑe \\ 
+\midrule 
+Ref: & tɕe nɯnɯ stoʁ nɯ tɕe thamtham \\ 
+Hyp: & tɕe nɯnɯ stoʁ nɯ\hl{n}\hl{ɯ} tɕe thamtham \\ 
+\midrule 
+Ref: & tɕeri nɤkinɯ tɕ\hl{a}ndu nɯ kɯ rkoŋɟɤl nɯ kunɤzde pjɤŋu tɕe tɕendɤre \\ 
+Hyp: & tɕeri nɤkinɯ tɕ\hl{ɤ}ndu nɯ kɯ rkoŋɟɤl nɯ kunɤzde pjɤŋu tɕe tɕendɤre \\ 
+\midrule 
+Ref: & ʁnɯtɤkhrɤz χsɯtɤkhrɤz jamar kɯtu tu \\ 
+Hyp: & \hl{n}\hl{ɯ}\hl{n}\hl{ɯ} ʁnɯtɤkhrɤz χsɯtɤkhrɤz jamar kɯtu tu \\ 
+\midrule 
+Ref: & nɯ tɕu tɕe tɕendɤre \\ 
+Hyp: & nɯtɕu tɕe tɕendɤre \\ 
+\midrule 
+Ref: & tonɯqambɯmbjom toɕe \\ 
+Hyp: & tonɯqambɯmbjom toɕe \\ 
+\midrule 
+Ref: & tɕe nɯnɯ túwɣɣɯɕka\hl{t} tɕe ɯsno ɣɯ\hl{́}ta mɯ́\hl{j}ra matɕi  \\ 
+Hyp: & tɕe nɯnɯ túwɣɣɯɕka tɕe ɯsno ɣɯta mɯ́ ra matɕi \\ 
+\midrule 
+Ref: & nɤki pɤjkhu nɯtɕu pjɤnnɯrŋgɯ \\ 
+Hyp: & nɤki pɤjkhu nɯtɕu pjɤnnɯrŋgɯ \\ 
+\midrule 
+Ref: & ɯmɤlɤjaʁ kɯnɤ ʑo ɲɯɣɯrni \\ 
+Hyp: & ɯmɤlɤjaʁ \hl{r}\hl{a} kɯnɤ ʑo ɲɯɣɯrni \\ 
+\midrule 
+Ref: & c\hl{h}ɯɕe ɕɯŋgɯ tɕe \\ 
+Hyp: & cɯɕe ɕɯŋgɯ tɕe \\ 
+\midrule 
+Ref: & \hl{ʁ}nɯsŋi pjɤrɤʑinɯ tɕe tɕe nɯ ɯfsosoz nɯtɕu tɕe tɕendɤre nɤki \\ 
+Hyp: & \hl{t}\hl{s}nɯsŋi pjɤrɤʑinɯ tɕe tɕe nɯ ɯfso \hl{ɯ}\hl{f}soz nɯtɕu tɕe tɕendɤre nɤki \\ 
+\midrule 
+Ref: & iɕqha tama ɯkɯβzu ra ɣɯ nɯkɯm nɯ tɕu jozɣɯtndʑi \\ 
+Hyp: & iɕqha tama ɯkɯβzu ra ɣɯ nɯkɯm nɯtɕu jozɣɯtndʑi \\ 
+\midrule 
+Ref: & nɯnɯ ra nɯ ɯŋgɯ li kɯmaʁ tɤmthɯm chɯrɤɣndinɯ tɕe \\ 
+Hyp: & nɯnɯra nɯɯŋgɯ li kɯmaʁ tɤmthɯm chɯrɤɣndinɯ tɕe \\ 
+\midrule 
+Ref: & ɯmɯntoʁ li ɯmɯntoʁ ɣɯ ɯjwaʁ kɯfse nɯnɯ \\ 
+Hyp: & ɯmɯntoʁ \hl{n}\hl{ɯ}\hl{n}\hl{ɯ} li ɯmɯntoʁ ɣɯ ɯjwaʁ kɯfse nɯnɯ \\ 
+\midrule 
+Ref: & tɕe kɯndʑɤm ʑo mɤk\hl{ɯ}sɤɕke mɤkɯmɯɕtaʁ túwɣndza tɕe tɕe ɲɯphɤn ma \\ 
+Hyp: & tɕe kɯndʑɤm ʑo mɤk\hl{ɤ}sɤɕke mɤkɯmɯɕtaʁ túwɣndza tɕe tɕe ɲɯphɤn ma \\ 
+\midrule 
+Ref: & tɕendɤre t\hl{a}ʁi nɯ kɯ ɯpi ɣɯ ɯsci tunɤmea ra ɲɤsɯso tɕe \\ 
+Hyp: & tɕendɤre t\hl{ɤ}ʁi nɯ kɯ ɯpi ɣɯ ɯsci tunɤmea ra ɲɤsɯso tɕe \\ 
+\midrule 
+Ref: & chɤnɯɕe tɕe tɕendɤre \\ 
+Hyp: & chɤnɯɕe tɕe tɕendɤre \\ 
+\midrule 
+Ref: & tɕendɤre nɤkinɯ \\ 
+Hyp: & tɕendɤre nɤkinɯ \\ 
+\midrule 
+Ref: & tɤtɕɯ nɯnɯ torɤŋgat tɕe tɕe chɤnɯɕe tɕe \\ 
+Hyp: & tɤtɕɯ nɯnɯ torɤŋgat tɕe tɕe chɤnɯɕe tɕe \\ 
+\midrule 
+Ref: & kɯki nɤki qaliaʁ lɯlu \hl{p}\hl{h}\hl{a}\hl{ʁ}\hl{r}\hl{g}\hl{o}\hl{t} \hl{n}\hl{ɯ}\hl{r}\hl{a} \hl{ɲ}\hl{ɯ}\hl{ŋ}\hl{u} \\ 
+Hyp: & kɯki nɤki qaliaʁ lɯlu \\ 
+\midrule 
+Ref: & kutɕu kɤru ra toti tɤtɯŋga\hl{t} ɯɲɯtɯnɤtsa kɯ kɤru ra totindʑi \\ 
+Hyp: & kutɕu kɤru ra toti tɤtɯŋga ɯɲɯtɯnɤtsa kɯ kɤru ra totindʑi \\ 
+\midrule 
+Ref: & tɕe ɯri nɯ ɲɯ́wɣrɤɕi tɕe li chɯ́wɣsɤsɯɣ nɯ mŋurɯm tukɯti ŋu \\ 
+Hyp: & tɕe ɯri nɯ ɲɯ́wɣrɤɕi tɕe li chɯ́wɣsɤsɯɣ \hl{t}\hl{ɕ}\hl{e} nɯ mŋurɯm tukɯti ŋu \\ 
+\midrule 
+Ref: & tɕe nɯnɯ ɯtaʁ nɯtɕu chɯkɯnɯkhɤlɤmdzɯmdzɯ tɕe \\ 
+Hyp: & tɕe nɯnɯ ɯtaʁ nɯtɕu chɯkɯnɯkhɤlɤmdzɯmdzɯ tɕe \\ 
+\midrule 
+Ref: & tɕe ɯskɤt mɯ́jwxti khi ma nɯ tuti ɲɯŋu khi \\ 
+Hyp: & tɕe ɯskɤt mɯ́jwxti khi ma nɯ tuti ɲɯŋu khi \\ 
+\midrule 
+Ref: & matɕ\hl{i} χtɕɤnzɤn nɯra wuma ʑo ɲɯŋɤnnɯ tɕe rcanɯ \\ 
+Hyp: & matɕ\hl{e} χtɕɤn\hl{d}zɤn nɯra wuma ʑo ɲɯŋɤnnɯ tɕe rcanɯ \\ 
+\midrule 
+Ref: & tɕekithaχtsa \hl{a}\hl{p}\hl{ɯ}ŋu tɕe ɯmɯntoʁ ra tɕe \\ 
+Hyp: & tɕeki thaχtsa \hl{t}\hl{ɤ}ŋu tɕe ɯmɯntoʁ ra \hl{t}\hl{ɕ}\hl{e} tɕe \\ 
+\midrule 
+Ref: & ɯʁar ra tosɤrphɤrphɤβ tɕe \\ 
+Hyp: & ɯʁar ra tosɤrphɤrphɤβ tɕe \\ 
+\midrule 
+Ref: & tɕe nɤkinɯ kɯɕɯŋgɯ tɕe sɯŋgi ci pjɤtu tɕe tongo \\ 
+Hyp: & tɕe nɤkinɯ kɯɕɯŋgɯ tɕe sɯŋgi ci pjɤtu tɕe tongo \\ 
+\midrule 
+Ref: & t\hl{u}mŋɤm ɯxɕɤt kɯ aʑo nɯ aku ɕɤrɯ pjɤɣɤtsɯr ɲɯŋu \hl{n}\hl{ɯ}\hl{s}\hl{ɯ}sota  \\ 
+Hyp: & t\hl{ɯ}mŋɤm ɯxɕɤt kɯ aʑo nɯ aku ɕɤrɯ pjɤɣɤtsɯr ɲɯŋu sota \\ 
+\midrule 
+Ref: & iɕqha mbraj cho sɤjku nɯra nɯtshɯɣa ɲɯfse \\ 
+Hyp: & iɕqha mbraj cho sɤjku nɯra nɯtshɯɣa ɲɯfse \\ 
+\midrule 
+Ref: & nɤrɟit j\hl{u}kɯsci tɤkɯrɤŋgat nɯ a\hl{ɕ}\hl{k}\hl{i} a\hl{ʑ}\hl{ɯ}\hl{ɣ} nɯkhɤm ra toti  \\ 
+Hyp: & nɤrɟit j\hl{i}kɯsci\hl{t} tɤkɯrɤŋgat nɯ a\hl{ʑ}\hl{o} a\hl{ɕ}\hl{k}\hl{i} nɯkhɤm ra toti \\ 
+\midrule 
+Ref: & apɯ\hl{́}\hl{w}\hl{ɣ}ɣɤjmŋo tɕe χsɯxpa nɯ kɯmɤɕi tutinɯ ɲɯŋu  \\ 
+Hyp: & apɯɣɤjmŋo tɕe χsɯxpa nɯ kɯmɤɕi tutinɯ ɲɯŋu \\ 
+\midrule 
+Ref: & tɤjwaʁ nɯra ɯdɯχɯn wuma ʑo mnɤm \\ 
+Hyp: & tɤjwaʁ nɯra ɯdɯχɯn wuma ʑo mnɤm \\ 
+\midrule 
+Ref: & ɴɢoɕna k\hl{ɯ} karɣi nɯ junɯtsɯm tɕe kɯɬoʁ ɯspa ɲɯme ŋgrɤl tutinɯ ŋgrɤl ma \\ 
+Hyp: & ɴɢoɕna k\hl{o} karɣi nɯ junɯtsɯm tɕe kɯɬoʁ ɯspa ɲɯme ŋgrɤl tutinɯ ŋgrɤl ma \\ 
+\midrule 
+Ref: & tɕe rŋɯl χsɤr rɯnbotɕhi nɯra ɲɤmbi \\ 
+Hyp: & tɕe\hl{n}\hl{d}\hl{ɤ}\hl{r}\hl{e} rŋɯl χsɤr rɯnbotɕhi nɯra ɲɤmbi \\ 
+\midrule 
+Ref: & torkɤz tɕendɤre koŋla tɯrme ɣɯ ɯxso tɯrme nɯ cho ɯtɯwxti kɯnaχtɕɯɣ jamar ci ʑo torkɤz tɕe rcanɯ  \\ 
+Hyp: & t\hl{ɕ}\hl{e} \hl{t}orkɤz tɕendɤre koŋla tɯrme ɣɯ ɯxso tɯrme nɯ \hl{t}cho ɯtɯwxti kɯnaχtɕɯɣ jamar ci ʑo torkɤz tɕe rcanɯ \\ 
+\midrule 
+Ref: & mɤʑɯ ɯβlu kɯpe ci tɤntɕhoz tɕe  \\ 
+Hyp: & mɤʑɯ ɯβlu kɯpe ci tɤntɕhoz tɕe \\ 
+\midrule 
+Ref: & tɕe tas\hl{ɤ}mu nɯ tɕe tɕe ɯrqhu nɯ ɯsna tu \\ 
+Hyp: & tɕe tas\hl{a} mu nɯ tɕe tɕe ɯrqhu nɯ ɯsna tu \\ 
+\midrule 
+Ref: & wo qale nɤʑo qro tɯrdoʁ kɯnɯqambɯmbjom ɯpɯtɯmtot toti ri nɤki \\ 
+Hyp: & wo qale nɤ\hl{k}\hl{i} \hl{n}\hl{ɤ}ʑo qro tɯrdoʁ kɯnɯqambɯmbjom ɯpɯtɯmtot toti ri nɤki \\ 
+\midrule 

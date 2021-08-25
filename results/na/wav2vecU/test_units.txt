@@ -1,0 +1,374 @@
+<SIL> ɯ dʑ o ˩ ʁ o ˧ tɕ ɯ ˩ l ɑ e ˧ p wæ ˧ wɤ ˩˥ tɕ ɯ d ɑ ˩ ʈʂʰ ɯ ˧ ɖ kʰ ɑ n jɤ l ɑ ˥ ə ˩ n kʰ ɑ ˩ <SIL>
+<SIL> tʰ m ə ˧ m ɤ ˩ h i ˥ n o ˥ dʑ o ˩ n v̩ ˩ wɤ v̩ wɤ ˩ h ĩ ˥ ˧ ɯ o ˥ z m ˩ <SIL>
+<SIL> ʈʂʰ o <SIL> h ɑ ˧ ʈʂʰ ɯ ˧ m v̩ ˩ m ɤ ˩ ts æ o tɕ p o z v̩ ˧˥ m p æ ĩ <SIL> ʂ ˧ ˩˥ ˧ ɳ ɯ ˧ ɑ tɕ ɑ ˩ <SIL> o ˧ v̩ ˩ z o ˩ <SIL>
+<SIL> əəə… ˩˥ m d ʂ d dʑ d ˧˥ z ˥ ˩˥ ɣ ˩˥ ɣ ṽ ṽ̩ ɣ dʑ ˩ ṽ̩ p i ṽ̩ ʈʂ tɕʰ i u ə ʈʂ ɛ ʈʂ ɛ ˥ tɕʰ p tɕʰ ẽ ɑ ˥ dʑ ˩ ə o ˧ ĩ ˧ <SIL>
+<SIL> h ɯ ˩ kʰ i ˧ n ə ˧ ə ˧ ˥ ɯ ɖ ɯ <SIL> ʂ ɯ ˧ ɖ v̩ ˧ ʂ o p ˧˥ <SIL> ˧˥ ɯ ˧ k ˩ m v̩ ˩ <SIL>
+<SIL> əəə… ɯ ˧ p i ˧ ɖ ɯ ˧ z o ˩ ˧˥ dʑ m ˧ d ˧˥ æ ˧ kʰ ˧˥ e ˧ ɻ̍ ˧ p v̩ ˧ <SIL> ʂ ɯ ˧ <SIL> ʈʂʰ ɯ n o ˧ ʈʂʰ ɯ ˧ v̩ d ɳ ɯ ˩ <SIL> o ˧ jɤ ˧
+<SIL> g ˩ ɬ h ˧ ɯ l e ˥ ˧˥ ĩ ɖ i ˧ dz v̩ ˧ ɲ i f ts ˧˥ ts dz mmm… ʑ kʰ qʰ wɤ ʁ kʰ v̩ qʰ d ɑ ˩ <SIL>
+<SIL> tʰ ʈ f ʈ f ẽ tɕ ẽ wɑ ɣ ʈʰ ɣ ʈʰ ɣ ṽ̩ ṽ̩ ɑ̃ ɕ ɑ̃ ɛ ˧˥ ɛ tɕʰ f l ɑ ˩ ʐ wæ ˩ k v̩ ˩ ʐ ĩ <SIL>
+<SIL> tʰ ĩ tɕʰ ĩ f ĩ ẽ f ẽ wɑ ʈʂ ɛ ɛ ɛ ɕ ʈ ɛ ɕ ɣ f u f ʂ f p f tɕʰ ĩ ˧ <SIL>
+<SIL> ɯ ˧ kʰ æ ˧ ɑ dʑ ˩˥ ˧˥ ɑ ɤ ˧ h ĩ ˥ ĩ mmm… ˩ n ˩˥ əəə… ˩ l ɑ ˧ ɯ tʰ i æ <SIL> ˧ ˩ ɯ ˧ æ i ˩ dʑ o ˩ <SIL>
+<SIL> i ˩˥ ˩ m o ˧ ɖ ɯ ˧ k v̩ ˩ z o ˩ z e ˩ ˩˥ <SIL>
+<SIL> ə ˧ ʑ wɤ ˩ d n ˥ ˧ ĩ ˥ tʰ ˩ o n ɯ ˧ z ˧ p i ˥ z dʑ æ ˧ kʰ æ ˥ ˧˥ əəə… ˥ ˧ ɑ v̩ ˥ ɲ ˩ p i ˩ <SIL>
+<SIL> ṽ i ṽ z mmm… ṽ u z u ˥ u ɕ u ɲ ˥ mmm… ɕ u ɕ u ṽ ɕ ṽ ɕ ṽ ṽ̩ ɛ ĩ ɛ ẽ ˥ ʈʰ æ f ʈʰ ʂ o ʂ <SIL>
+<SIL> ə ˧ ʝ ˧ ʂ pʰ l ɑ ˩ l wæ s z ɻ̍ ˩ ʈ ˩˥ dʑ ˩˥ wɑ i wɑ kʰ v̩ ˥ d wɑ ˥ wɑ ĩ ˧ ɣ l ɑ̃ ɣ ɑ̃ ˧˥ tɕʰ ʐ ɑ̃ dʑ i ˩ k v̩ k i k v̩ kʰ ˩ e ɑ̃ ˩˥ ˩ <SIL>
+<SIL> tʰ i ˩˥ i <SIL> k ɤ ˩ ɯ ˥ wɤ ˩˥ ˩ kʰ ˧˥ dz ɯ ˧ ˩ ˥ z o ˥ dʑ ˩˥ ɖ ɯ ˧ kʰ ˩ ɑ ɬ ˥ ʐ i ˩ n ɑ ɬ ɖ ˧ ɖ ɯ ˧ ʈʂʰ ɯ ˧ <SIL> ˥ k jɤ ʑ
+<SIL> qʰ i l e ˧ d tɕ ɯ ˩ mmm… ṽ <SIL> mmm… ṽ ʈʰ ṽ ˩˥ ʈʂ ṽ̩ ɻ̍ ˧ z o ˥ <SIL> tʰ i ˥ <SIL> kʰ ɑ ˩ <SIL> ʐ b ˩ ʁ o ˧ dʑ o <SIL> tɕ <SIL>
+<SIL> tʰ <SIL> g ˩ h ɤ ˧ dʑ wɤ ˩ n ɯ ˧ d i ɯ ˧ f ˥ f ṽ ʈʰ ṽ ˥ ˧ ɣ ṽ ˧˥ æ qʰ æ ˧ æ p æ kʰ n kʰ tsʰ ʑ ˥ qʰ d ˩ d ˩ g o ˧ ɲ i ˥ ˩ ˥ v̩ ˩ <SIL>
+<SIL> əəə… k i ˧ <SIL> ʈʂʰ ɯ ˧ dʑ o ˩ tʰ i ˩ ˩˥ ʐ wæ ˧ ˩ v̩ ɲ i ˩ k m v̩ ˩ <SIL>
+<SIL> i ˧ ə ˧ æ ʈʰ æ ʈʰ ts ˩˥ g ɤ ˩˥ ʑ æ ˩˥ u ɯ ˥ ˩˥ ˥ <SIL> ˩˥ o ˩ tʰ v̩ ˥ m i ˧ ɤ ˧ ɯ ˥ m ɯ ˧ tʰ ɯ ˥ tsʰ ɑ ˩ ts ˧ dʑ o ˩ m v̩ ˥ <SIL>
+k wɤ tɕ ĩ ˩ tɕ ĩ ˩ <SIL> ɖ ɯ ˧ ɳ ɯ tɕ <SIL> l e ˧ ˩ æ ˧˥ dʑ æ ˧ tʰ i ˧ tɕ ɯ ˩ ɯ ˧ ɯ k ɲ i ˧ ə z ɤ ˩ <SIL>
+<SIL> ə ˧ dʑ o ˥ <SIL> tʰ i ˧ ˩˥ ˧ tsʰ i ˧ ʂ ɯ ʝ i ˧ ts æ ˧ jɤ æ dʑ m ˧ <SIL> k æ ˩ <SIL>
+<SIL> tʰ ˧ ˩˥ g n jɤ ˧ d wæ tɕ ɯ ˧ ʈʂ h ĩ ˧˥ tʰ ə ˧ ʝ i ˧ l ɯ ˧ wɑ wæ ˧ wɑ ṽ ɣ ɯ ʈʂ ɑ̃ qʰ v̩ ˧ qʰ wɤ ˧ k ˩ ɲ ˥ ɻ̍ ˩ ˧ <SIL>
+<SIL> tʰ ʈʂʰ ɯ ˧ d ˩˥ <SIL> m ĩ ɑ <SIL> ʈʂʰ ɯ ˧ qʰ æ wæ ˧ ˩ tɕ i ˩˥ <SIL> ɲ i ˧ <SIL> i ˩ <SIL> i tʰ i ˧ qʰ ˧ kʰ ˧˥ <SIL>
+<SIL> əəə… ə ˧ dʑ ˩ dʑ o ˩ dʑ o ˩ ɖ ɯ wæ kʰ ẽ ɲ ẽ ts ẽ ʈ ẽ ʈ wɑ mmm… wɑ ṽ ṽ̩ ˩˥ u ɬ ṽ̩ ɬ tɕʰ æ tɕʰ tʰ æ ˩˥ ʈʰ tɕʰ e tɕʰ ʈʂ ɬ i ˧ <SIL>
+<SIL> tʰ i ˩˥ i ˩˥ tɕʰ ʝ i f u f u ɑ̃ u ɑ̃ ɑ̃ ɑ̃ ĩ u ɛ ĩ ɛ ĩ ɛ ẽ ɛ ʈ ˩˥ ĩ
+<SIL> tʰ i ˩˥ ˧ z o ˧ ɖ ɯ ˧ dʑ o ˧ ɯ ˧ z o ˧ ɖ ɯ ˧ <SIL> u ẽ e qʰ æ ẽ tsʰ ẽ ˩˥ tɕ ˩˥ ˥ mmm… wɑ ṽ æ ˥ æ ˧˥ dʑ ˧ o ˧ ɑ̃ ɑ ɑ̃ i ˧ n o ɑ̃ ˩ ɑ i ˥ dʑ ɤ o ˧ h ɑ ˧ <SIL> h ɑ ˧ ʂ o ˧ <SIL>
+<SIL> tʰ ɑ g v̩ ˧ ɖ ɯ ˧ ʂ ɯ ˥ m mmm… m i ˧ z o ˥ o ˧ ə ˩˥ ʑ i ˩ ɯ ˧ o v̩ ˩ tʰ æ ṽ̩ i æ dz ˧˥ ʂ ɯ ˧˥ h ɑ ˩ ʐ ʂ ʑ
+<SIL> ʐ kʰ tɕ ʐ kʰ tɕ kʰ tɕ ʐ tɕ kʰ ʐ kʰ h ĩ wæ <SIL>
+<SIL> tʰ i ˩ dʑ o ˩ ɖ ʂ f i f ẽ tɕ wɑ ˥ ˧˥ wɑ ṽ wɑ ṽ ɣ ṽ ɣ ṽ u ɛ ɛ ˩˥ ɛ jɤ ɛ o ɛ ˧ ɛ ɯ ɛ ɯ ɛ ˥ dʑ o ˥ ˧ m v̩ ˧ ˧˥ ĩ
+<SIL> n jɤ ˧ ʈʂʰ ɯ ˧ jɤ ˧ z o ˩ tʰ i ˩˥ z v̩ ˩ <SIL> ˩ ʂ æ ˩ qʰ wæ ˧ ɖ ˥ ɖ ɯ ˧ ts ɯ ˧ ɬ v̩ ˩ m æ ˩ <SIL>
+<SIL> tʰ i ˩˥ wæ ɯ i ˩ k ʑ i ˩˥ ˩ i ˩˥ l e ˧ p i ˧ ˩˥ ɲ i ˥ ɖ ɯ ˧ kʰ v̩ ɖ ɯ ˧ o ˧ o ˩ k i ˧ ʝ ˥ b p ɯ ˩ <SIL>
+<SIL> ə ɤ ʁ o ˧ l ɑ ˧ ʈʂʰ ˧ l ɑ l ɑ ˩ ɲ e ˩ ɯ ˧ n o ˧ l ɑ ˧ ʈʂʰ ə ɯ s ɑ l ɑ ˩ <SIL> s k v̩ ˩ <SIL>
+<SIL> n ˧ n æ p dʑ z ʂ æ ˩ n o ˧ n ɑ ˧˥ o ˧ h ɑ h ɯ ˥ h ĩ <SIL> ʂ e ˧ ʂ e ˧ h ˩ ˥ ˩ m æ ɣ ˩ ɣ ˩ v̩ ˩ m æ ˩ <SIL>
+<SIL> tʰ i ˩˥ ˧ ʂ ˧ ɳ i ˥ m ɤ ˩ ɯ o ˩ p ˩ tsʰ æ ˩ dʑ v̩ ˧˥ <SIL> dʑ e ˧ ɻ̍ ɖ ɯ ˧ ɲ ɯ ˧˥ <SIL> ɖ ɯ ˧ ɲ ɯ ˥ <SIL> tʰ v̩ ˩˥ <SIL>
+g tʰ ˧ ʑ ˥ ˩˥ l e ˧ ɛ ĩ ɛ ˩˥ <SIL> ĩ o ˧ ĩ ɛ ĩ ɖ ɛ ĩ v̩ ˧ ĩ ẽ ʈ ṽ ɣ ṽ ɣ ṽ̩ ʂ ṽ tɕʰ ṽ̩ tɕʰ p u tɕʰ ˧ tɕʰ <SIL> tɕʰ ˧ æ ɯ f tɕʰ ˧ f i tɕʰ ˧ i ˧ <SIL>
+<SIL> q i ˩˥ h ˧ n ˧˥ ˧ h ĩ ˥ <SIL> k tsʰ e ˧ ɖ qʰ ɑ kʰ ˥ dz ɯ dz tsʰ ˧˥ ɣ qʰ n ɑ̃ dʑ ɑ̃ qʰ ɑ̃ ˩˥ æ ˧ ʈʂ ˧ <SIL> ɯ ʂ i ɖ k v̩ m æ ˩ <SIL>
+<SIL> ˧ ə ˧ tʰ i ˩˥ ˧ ɖ ɯ ˧ ʝ ɑ e ˧ dʑ o ˩ <SIL> ʝ tɕ ɖ ɯ tɕ ʂ ɑ ˥ ẽ wɑ ˩ ɕ wæ ɬ ɣ ɯ ˧ ʈʂ ṽ ts p ˧˥ ˥ p dz ɣ ʂ ʈʰ ɬ f <SIL> ɖ ɯ ˧ ɬ ɑ ˧ tʰ ʈʂʰ d ɑ ˧˥ <SIL>
+<SIL> d i ˧ ẽ d ˥ ẽ dz ʈʰ ts dz ɣ ṽ ʂ ɣ u ɬ u ʈʂ wæ ʈʂ ɛ ʈ h ĩ ˧ <SIL> ʝ i ˧ jɤ ˧ ˥ ĩ ˧ <SIL>
+<SIL> e ˧ l h ɑ ˩ <SIL> p ˩ ˧ q ˧ o ˩ i ˥ ˧ ˩ æ ˩ <SIL>
+<SIL> tʰ ˧ wɤ v̩ ˧ ʈʂʰ ɯ o ə ˧ i ˩ <SIL>
+<SIL> tʰ õ ˩˥ n jɤ ˧ n ɯ ˧ tɕ ɯ ˧ z o ˥ z ɛ <SIL> z o ˥ z æ z z o ˧ ɯ n u ˩ ˧ ɲ ɑ ˧˥ b o ˩ ɯ ɤ ˩ tɕʰ ˩ tsʰ ẽ ˥ <SIL> h ĩ ˩˥ ə dʑ o ˩ o ɯ ˩ <SIL> ɯ ˧ ĩ ˧ <SIL>
+<SIL> ʁ f tɕ ĩ ɕ ṽ̩ ṽ ṽ ṽ̩ u ẽ wɑ u ṽ qʰ u ʈʰ u ɛ tɕʰ ɛ u ɛ wæ ẽ f ɤ f ʈ v̩ ˥ f k v̩ ˧˥ <SIL>
+<SIL> b o ˩ ɯ ˧ ə ˩ ˧ i ˧ <SIL> i <SIL> ʈʂʰ ɯ ˧ wæ ˧ k v̩ ˧ k m v̩ ˩ <SIL>
+<SIL> v̩ ˩˥ tɕ ɯ ˩ f ɯ ˩ n ˩ n ɑ ˩ f dʑ f ˩ u ʈʰ ṽ ɣ ɑ̃ ɣ ˩ ɑ̃ jɤ ˩˥ ɑ̃ <SIL> ɑ̃ ˩ tsʰ ɛ ˩ ĩ ɯ ˩ ʈʂʰ ɯ ɛ ɑ̃ ˩ z o ˩ z o ˩ <SIL> ɖ ɯ ˩ kʰ ɯ wɤ ˩ e k v̩ ˩ <SIL>
+<SIL> tʰ v̩ ˩ g wæ s ɑ ˩ n o ˥ ˧ l ɯ ˧ wɤ ˧ ɳ ɯ ˧ <SIL> ˥ z ˧ p ˧˥ ˥ m æ ˩ kʰ v̩ <SIL> ʂ wæ ə l ɑ ˩ <SIL> ɲ ˩ wæ ˩ <SIL>
+<SIL> ɑ ɯ ˩ ɳ e ɯ ˥ <SIL> i ˩ ˧ o ˧ p i ˩ ʁ o ˧ o ˩ <SIL> e ˧ v̩ ˩ m v̩ ˩ <SIL>
+<SIL> ɖ ɯ ˩ ˩˥ o ˧ v̩ dz ˩ <SIL> ts o ɣ qʰ ˩˥ ʂ æ ˩˥ <SIL> ʂ ɑ ɑ̃ z ɑ̃ ṽ̩ <SIL> ˩˥ i ˩˥ <SIL> p o ˩ <SIL> p o ˩ ɯ l e ˩ ˧ dʑ o ˩ tʰ i ˧ tʰ v̩ ˩˥ <SIL>
+<SIL> i ə <SIL> ʝ i ˧ ʂ ɻ̍ ˥ ɯ ẽ dʑ o ˩ wɑ ẽ wɑ ʈʂ æ ṽ dz ɯ ˩ d ˩˥ ˩ ʈʂʰ ɯ ˧ n æ ʑ ɻ̍ ˩ ɯ ˧ m ĩ ˧ ʝ ə ˧ ʝ i d ĩ e l <SIL> ˧˥ <SIL>
+<SIL> ə i ʝ ʈʂ ɯ ʈʂ ɯ ts ɑ dz jɤ ʈʂ ɬ wæ qʰ ɬ qʰ ˧˥ n qʰ wæ ɕ qʰ kʰ wæ ˧˥ z wɑ ĩ ɑ kʰ ɕ <SIL> ʑ ṽ̩ ˧ kʰ v̩ ˧ l ɑ <SIL> p i ˧ ʐ p wæ ˧ k tɕʰ ˧˥
+<SIL> ɳ ɯ ˩˥ n ɯ ˩ dʑ i ˩ tʰ i ˧ <SIL> jɤ ˩ ˥ ɯ ˩˥ ɯ ˩˥ m ˧ ˥ o ˥ <SIL> dʑ o ˩ ɯ ˧ kʰ i ˧ ts o ˧ k v̩ ˧˥ <SIL>
+<SIL> ə ˧ i ˩˥ <SIL> ɲ i ˩ z ɤ æ ˧ <SIL> n jɤ ˧ ʐ ˧ wæ v̩ ˧˥ l ɑ ˧ ʈʂ i ˥ k ts æ ˥ ʈʰ ʑ ɣ n u qʰ d kʰ ɬ d n ə ʑ <SIL> d ˩ <SIL>
+<SIL> tʰ o ˩˥ d ɑ ˧ m ɤ ˧ ˩ qʰ ˧ ɖ ɯ ˧ <SIL> i ˩˥ ɲ i <SIL> d i ˩ <SIL> l ɑ ˧ mmm… i æ ɕ dʑ ɕ ṽ̩ <SIL> ṽ̩ ˧ ʈʂʰ ɯ ʈʂ ṽ̩ ʈʂ ṽ̩ i ṽ̩ ʈʂ i ˥ ts ɯ ˥ ˩ m v̩ ˩ <SIL>
+<SIL> ʈʂʰ ɯ ˧ q o ˩ ɲ i ˩ <SIL> ˩ i ˩ <SIL>
+<SIL> ɑ ˩˥ i l e ˩ f ɯ f <SIL> tsʰ f ˩ ʈʰ qʰ jɤ ˧ mmm… dz ˧˥ æ ɑ ˧ ɬ i ˥ ə ˧ ʈʂʰ ɑ ˧ tsʰ ˧˥ <SIL> l ɑ ɣ ˩ tʰ ˩ jɤ
+<SIL> g ʁ v̩ ˧ tʰ v̩ ˧ wæ e tsʰ dz tsʰ ˧ dz ə ˧ m v̩ ˩ v̩ ɤ ɬ ṽ o ˥ p i ʈʰ ɣ ʈʰ p ʈʰ i ts ʈʰ æ ʈʂ ʈʰ ˧ m ɤ ˩ ɤ ˩ o ɲ i ˩ <SIL> ʐ ʑ
+<SIL> n ˩ tʰ i ˩˥ wɤ o ˧ d ɑ ˧ v̩ ˧ l e ˧ z v̩ ˥ ʈʰ æ p o <SIL> h ĩ ˧ ɕ ˥ dʑ o ˩ m v̩ ˩ æ i ʈʂ k ˥ æ jɤ ˥ ˧ d o ˩ ɲ i ˧ p ĩ ˧ <SIL> ʑ ˩ ʂ ˩ k i ˩ <SIL>
+<SIL> tʰ i ˩˥ h ˧ h ɯ ˩ h ĩ ɯ ˧ kʰ v̩ ˥ mmm… ɯ ˥ ˧˥ v̩ ˧˥ p ˥ ˩˥ p i ˩˥ b ɣ o ˩ <SIL> ʂ æ ˧ o ˧ h i ˧ ɯ i ʂ <SIL> ʂ o ˧ <SIL>
+<SIL> mmm… ʑ tɕʰ f tɕʰ ẽ tɕʰ f ẽ tɕʰ d ts dz u ʈʰ ɣ ɑ̃ ɛ ĩ ɛ ĩ <SIL>
+<SIL> tʰ ˧ tɕ ɤ g e ˧ m ɤ ˧ d ˥ f ˧ d ẽ ˧ f ʝ ʂ d ˥ mmm… wɑ ˥ p i ˧ ɻ̍ ʑ i kʰ e ɯ ˧ ɑ̃ ˧ æ e d i ˩ k i ˧ k v̩ ˩ z k ˩ æ ˩ <SIL>
+<SIL> tʰ ɯ ˧ e ˧ ɯ d ˧˥ æ ts qʰ ˩ qʰ ˧ ʂ ĩ ˧ qʰ v̩ ˥ tʰ i ˩ o ˩ v̩ ˩ <SIL>
+<SIL> tʰ i ˩˥ ˧ ʑ i ˥ <SIL> z o ˩ <SIL> ɯ v̩ ˧ b v̩ ʈʰ p i ʈʰ ˥ ʈʰ m æ ʈʂ ʈʰ æ ˧ d ɑ ˧ ʈʂ ĩ ˧˥ <SIL> ʈʂʰ o ˧ tʰ ɑ ˧ v̩ ʈʂʰ ɯ ˧ jɤ <SIL> l e ˧ v̩ s ˩ <SIL>
+<SIL> tʰ i ˧ l e ˧ q o ˧ <SIL> ˧˥ i ˧ o ˧˥ ɻ̍ i ˥ ɻ̍ i ˩˥ p i ˩ kʰ o ˧ ʈʂʰ ɯ ˧ z e ɯ ˩ <SIL>
+<SIL> tʰ ɯ ĩ d ə dʑ ʑ dʑ ˧ ɯ <SIL> dz ʝ i u ĩ ˧ d i d ˥ jɤ dʑ ˥ ˧˥ ʈʂ ˧ ʈʂ i ˧ ʈʂ l e ˧ ʝ i ˧ b ɯ ˧ ɻ̍ kʰ ɑ ˧ ɖ ɯ ˧ d ɑ tsʰ ˧˥ tʰ i ˧ ɻ̍ ˥ <SIL>
+<SIL> dʑ o ˩˥ e p o ˧ h ɯ ˥ qʰ v̩ qʰ ʂ b ẽ qʰ wɑ mmm… wɑ dz ɣ dz ṽ ʈʰ ɣ ˥ ɣ ʑ u dʑ o <SIL> ɛ z o ɛ qʰ v̩ ɛ ɑ̃ ɑ m ɑ <SIL> ɑ i dʑ o <SIL> o <SIL> n e kʰ jɤ <SIL>
+<SIL> g ˧ z ˩ ʁ o ˥ dʑ o ˩ æ ʈʰ n ˩˥ ʈʰ ˧ ʈʰ ɣ ʈʰ ˥ <SIL> l ˥ ˧ ɑ <SIL> ṽ̩ ɯ ˧ ɯ ˧ ʈʂ ˧ ʈʂ ˥ ˧˥ æ ɛ ʈ ɛ ˥ <SIL> i kʰ ɖ ɯ jɤ dʑ ˥ k ˧ k v̩ ˥ <SIL>
+<SIL> əəə… <SIL> d ɑ i ˥ tʰ i tʰ ˩˥ <SIL> dʑ ɤ ˧ ɖ ɯ ˧ i ˩ ts s ˥ ˩ <SIL>
+<SIL> g l ɑ ˧ tɕʰ f ṽ dʑ ˩˥ mmm… v̩ ˧ qʰ ɛ o ˧ ĩ ĩ ĩ wæ ĩ k ĩ ʈʂ ts ṽ ts ẽ ts ɯ ẽ æ ʂ æ ʂ tɕʰ ʈʰ ɑ ˩ f ɖ ɯ ˧ ʂ i ˩ ˥ i ˧˥ ˧ k æ ˧˥ <SIL>
+<SIL> n jɤ ˧ m ɑ ˥ k i ˥ ə ˧ ɑ ˧ ɖ ɯ ˧ n o ˧ h ĩ ˧ ɯ m ˧ i o <SIL>
+<SIL> ə ˧ n jɤ ˧ ʝ i ˧ <SIL> n dʑ z ˧ p ɣ ˧ d i d ˧ ʑ ɑ ˩ <SIL> l ɑ ˩ <SIL> tʰ v̩ ˥ l ˧ n ˧ ɖ jɤ ˧ d ˧ d ʈʂʰ jɤ ˧ l e ˧ h ˩ ˧˥ æ ˩ <SIL>
+<SIL> ə tʰ v̩ i dz m æ ˩ <SIL>
+<SIL> tʰ ɑ ˩˥ ʝ i ˧ ɳ ʈ ˥ <SIL> ʈʂʰ ˧ kʰ v̩ ˧˥ ɑ ɛ <SIL> ʈʂʰ ˧ ɛ ˧ ɛ ɯ ˧ n jɤ ˧ ʈʂʰ ɯ ˧ n ɯ ˧ ɭ ɕ n jɤ ˧ ɕ ˧ n z ˥ ˩˥ ˩ ˩˥ l ˩˥ əəə… ɖ ɯ h ɲ <SIL> b k ˩ k v̩ ˩ <SIL>
+f ẽ wɑ ẽ wɑ ɣ ṽ̩ ɛ ɛ ĩ ɛ ĩ ɛ ɛ u ɛ u f tɕʰ dʑ ĩ tɕʰ ĩ n ĩ ˧ ĩ ʑ
+<SIL> mmm… wɤ ˩ h ɲ i ˧ ɻ̍ ˧ ʑ s o ˩ ɯ ˧ ʑ i e ˩ tʰ i ˥ ˧ ɖ ɯ ˧ ɭ ɯ ˧ tʰ h v̩ ˥ l e ˧ v̩ m v̩ ˩ <SIL>
+<SIL> ɖ ɯ ˧ ɤ ˧ ɖ ɯ ˧ <SIL> h ɯ ˥ <SIL> m i ˩ <SIL> ˧ ɖ ɯ ˧ <SIL> o ˧ <SIL> z e i ˩˥ <SIL>
+<SIL> õ ˧ h ĩ ˧ h ɑ <SIL> n d ˥ mmm… wɑ h ĩ u mmm… ɑ qʰ mmm… ɣ dʑ ɣ ʑ ɕ ʑ qʰ ɬ ɣ ɬ wæ tɕʰ ɤ ˧ tɕʰ ˧ wæ d
+<SIL> h ɤ ˩ dz ɯ ˧ ɖ ɯ ˧ ʂ i ˥ ɯ ˧ p i ə ˧ ɑ ˥ ɲ i ˩˥ h ĩ ˩ <SIL> ʈʂʰ ɯ ˧ pʰ æ ˧ k v̩ ˩ m æ ˩ <SIL>
+<SIL> tʰ ɑ ˩˥ <SIL> l ɑ ˧ b wæ ˧ e ˧ ʁ o ˧ l ɑ ˧ z e ˩ kʰ o ˩ <SIL>
+<SIL> ɖ ˧ ˩˥ e ˧ h ĩ ˧ ɯ ˧ v̩ ˧˥ ɲ i ˩ <SIL> ɑ ˩ ts ˩˥ æ ɖ ɲ i ˧ m ɑ m l ɑ ˥ <SIL> dʑ o ˩ <SIL> v̩ i ˧ <SIL>
+<SIL> ə i z o ˩ <SIL> ˩ n o ˧ tʰ i ˧ l e ˧ ʈʂʰ ˧ ɖ <SIL> ʂ o ˧ p i ˧ ʂ æ ˧ ə ˧ dʑ o ˩ ɲ ˩ ɯ ˩ o ɯ ˩ <SIL>
+<SIL> z o ˧ <SIL> o i ˥ <SIL> h ɯ ˧ m ɑ ˥ <SIL> p o ˩ ɲ i ˥ i tsʰ e ˧ p wɤ ˩ <SIL> ə <SIL> l ɑ ˧ <SIL> ˩ m v̩ ˩ <SIL>
+<SIL> m æ ˩ v̩ ˧ m i l e ˩ ɯ ˥ <SIL> o ˧ ə o ˧ ɑ ˧ ɯ i ˩ ɯ æ <SIL> v̩ ɯ ˧ dʑ o ˧ <SIL> i ˩˥ n ˥ <SIL>
+<SIL> əəə… ɖ ˧ kʰ e ˧ <SIL> i ˧ <SIL> i ˧ ɖ ɯ ˧ <SIL> v̩ ˧ z ʁ ˥ ɯ o ˩ <SIL>
+<SIL> ʈʂʰ ɯ ˩˥ ʝ e tɕ f dz ˧˥ dz wɑ ˩˥ mmm… o ɛ ĩ ɛ ˧ ˥ ĩ ĩ ɛ o ˩ u ṽ ˧˥ u ɛ f u ɑ ˧ ɛ tɕʰ ˧ tɕʰ dʑ ɛ ẽ ɛ ɤ ɛ jɤ ʈʰ ˩ m qʰ ˩ ʑ
+<SIL> əəə… n v̩ ˧ tʰ i ˥ əəə… dʑ i p i p i ˥ dʑ æ tʰ i ˧ g æ ˩ ə o ˥ s ˧ ˩ i ˩ <SIL>
+<SIL> tʰ i ˩˥ i ˧ m wɤ d qʰ o ˧ n ˩ ʂ ɤ ˧ q ɻ̍ ˥ p ˥ ɯ p ɯ ʈ æ ˩ p q qʰ k v̩ ˩ v̩ ˩ wɤ ˩ <SIL>
+<SIL> m v̩ ˩ <SIL> wɤ ˩ n o ˥ o ˩ tʰ i ˩ <SIL> ˧ ɯ ˩ <SIL> h e ˧ ɑ ˩ tsʰ wæ ˩ l ɑ ˩ ts ɯ ˩ <SIL> m v̩ o ˩ <SIL>
+<SIL> mmm… dʑ o ˩ m h ɑ ˩ h ĩ ˩ h ɯ ˩ dʑ ˥ <SIL> dʑ o ˧ tɕʰ p u tsʰ ɯ tɕʰ u tɕʰ u æ tsʰ wɑ tʰ ṽ u mmm… d ṽ ɣ ṽ ɣ ɯ ɣ n ɑ ˩ ɛ n o h ĩ ɑ ˧ <SIL> tɕʰ ɤ ˧ ɯ ʂ i ˥ <SIL>
+<SIL> tʰ i ˩˥ g v̩ ˧ p o ˥ <SIL> p i ˩ <SIL> ʐ ɑ ˩ p ˧ k v̩ ˥ ts ɯ ts <SIL> ɯ ˥ <SIL>
+<SIL> h ˧ m i ˧ d ˥ m v̩ ˧ k i ˧ ʐ wæ ʐ wæ tsʰ ˧ dʑ o ˧˥ ɖ ɯ ˧ ɲ i ˩ tʰ v̩ ˧ ˥ dʑ ˩ <SIL> ɲ i ˩ ɖ ɯ ˧ kʰ v̩ ˩ dʑ v̩ ˩ <SIL> e ˩ o ˩ k ˩ i ˧ <SIL>
+<SIL> tʰ i ˧ kʰ v̩ ˧˥ <SIL> i ˩ <SIL> tʰ i ˩˥ d ˩ kʰ ɑ ˩ æ i dʑ i ˩ <SIL> dʑ o ˩ k ˩ i ˧ <SIL>
+<SIL> əəə… tʰ ə g <SIL> ˩ i ˩ <SIL>
+<SIL> m v̩ <SIL> ɤ ˧ i ˧ d ˧ m ɤ n ə ˧ ˥ i tsʰ æ ˩ ts v̩ ˥ <SIL> i ˥ <SIL> v̩ ˧ tʰ ˥ ˩ h i d i <SIL> p i ˧ p i ˩ <SIL>
+<SIL> ə m ɤ ˩ ɳ ɯ ˩ ˧ ɖ wɤ ˧ tʰ i ˥ wɤ ˩ g ˩ <SIL>
+<SIL> ʁ ə ˧ i ʈʂʰ ɯ m ɤ ˧ ɲ i n o ˧ ɑ ˧ ˧˥ ɯ ˧ ɯ ˧ tʰ i ˧ <SIL> ɤ ˩ ɖ ɑ i ˥ ts ɯ ˩ ts ɯ ˩ kʰ ɯ ˩ <SIL>
+<SIL> tʰ ɣ ˩˥ ɣ i ɣ h ɯ o ˩ v̩ ˩ ɯ ʈʰ v̩ ˧˥ ɛ u ts u tɕ u ʈʰ u f u f u f ˩ dʑ ẽ ˩ ˧˥ ẽ ˩ i ẽ p i ˧ ʂ o ˧ <SIL>
+<SIL> tʰ i ˩˥ wæ f ʝ f ˧ f ʈʂ ẽ ʈʂ ẽ dz wɑ qʰ mmm… wɑ ɣ ɑ̃ ɣ ṽ̩ ʈʂ ɕ ɑ̃ ṽ̩ qʰ ṽ̩ ɕ ɣ ʈʰ f ʈʰ kʰ tɕʰ f tsʰ tɕʰ ˧ <SIL>
+<SIL> õ ˧ ts ˧ tsʰ v̩ ˧ m i ˧ <SIL> ɯ ˧ ɯ ˧ i ɯ <SIL> k v̩ ˩ k v̩ ˩˥ <SIL> l ɯ ˧ tʰ i ts ɯ p i ˥ <SIL>
+<SIL> ʈʂʰ o ˩˥ v̩ ˧ wɤ ˩˥ tʰ i ˩˥ z æ kʰ æ ˥ ˧˥ z ˩˥ tʰ ˩˥ ɯ ˧ ɳ ɯ ˧ ʈ i ˥ ʈ ɯ ˧ ɯ ˧ m ˧ ts o ˧ dʑ ˩ kʰ ˧˥ ˩ <SIL>
+<SIL> z o ə ˧ i ˧ <SIL> ʈʂʰ ɯ ˧ e ɯ ˧ æ ˧˥ dʑ z i ˩ i ˥ <SIL> z ɯ ˥ <SIL> ˩ ĩ ˩ <SIL> l e ˧ v̩ ˩ ˧˥ ˧ <SIL>
+<SIL> tʰ i tɕʰ ʑ ĩ ẽ tsʰ ĩ tɕʰ ə ẽ ˧ tʰ i ˧ ʂ ɯ ˥ mmm… ẽ wɑ dʑ wɑ mmm… ṽ qʰ jɤ ɣ ɣ ṽ̩ ʈʂ ṽ̩ ɑ̃ ṽ̩ ɑ̃ ṽ̩ ʂ ṽ̩ u ɑ f ʂ ẽ ˧ ʑ i tɕʰ ˧ p o ĩ ʑ
+<SIL> ɬ ʝ dz ˧˥ ɣ i ɣ ɑ̃ dz ɑ̃ ˧ ɣ ɑ̃ ˩˥ ˧ ɑ̃ u p u jɤ u e u ˧ h ĩ ˧ qʰ ʈ ʂ ʈ ˧ ʈ ɛ ʈ ɛ ʈ d o ˩ h ĩ ˧ <SIL> dʑ o jɤ ɯ ˧ tɕ m ˧˥ <SIL>
+<SIL> h ɯ ˥ dʑ o ˥ dʑ o n jɤ ʈʰ ʂ ʈʰ dz ṽ ʈʰ ʑ i ɣ qʰ ṽ̩ v̩ ṽ̩ n jɤ ṽ̩ ʈʂ u ĩ ʈʂ ɛ wɑ ʈ wɑ ʈ wɑ ʈ ts ʈ ts ʈ ts u n jɤ u f ẽ ɤ ˩ m o ˩ u ˧ o tʰ v̩ ˩˥ <SIL>
+<SIL> z i ˧ o tʰ ˧ b i ˧ tsʰ e ˧ ʝ i ˧ ʂ ɯ ˩ <SIL> ɯ ˧˥ <SIL> dʑ ɯ ˧ o <SIL>
+<SIL> tʰ i ˩˥ o v̩ ˧ tʰ i ˩˥ ɯ ˧ v̩ ˧ ɖ ɯ ˧ kʰ v̩ ˧ ɖ ɯ ˧ kʰ v̩ ˧ ɖ ɯ ˧ kʰ v̩ ˧ d i ˩ ˥ v̩ ˩ <SIL>
+ə ɖ ˧ tɕʰ f i f tɕʰ ẽ tɕʰ ẽ wɑ mmm… ɕ ĩ wɑ ɕ u qʰ ɣ ɛ wɑ ɕ ṽ ʈʰ u f tɕ ˩ tɕ ˩ tɕ v̩ ʑ
+<SIL> ə ˧ l ɑ əəə… tʰ ɤ m v̩ ˩ m ɤ ˩ o ˩ ə ˩ g æ ˩ <SIL>
+<SIL> g ɤ ˧ ɳ i ˥ dʑ o ˩ <SIL> ĩ ˩˥ ˧ ɤ ˧ o ˥ ˧ z o ˥ l p e p ʈʰ æ ˧˥ dʑ p ʈ dʑ æ dʑ ʈʂ ɕ ʑ i ˥ ɬ ˧ ɬ ĩ ˧ ɖ ɑ ˧ wæ ˧ <SIL>
+<SIL> mmm… ĩ i <SIL> ʂ wæ mmm… ɑ <SIL> tʰ i ˩˥ l e ˧ ɲ i <SIL> ɖ ɯ i ˥ mmm… ˧ kʰ v̩ ˥ <SIL> ɣ d ɣ n ɣ dz ɣ ɑ ɣ ɑ ʐ ɖ ɯ ˧ kʰ v̩ ˥ v̩ ˩ dʑ o ʐ ɯ ˧ ʈʂʰ ɯ ˧ i ˥ tʰ i ˧ e ˩˥ <SIL>
+<SIL> õ o ˩ h ɯ q o ˥ m ɤ ˧ <SIL> i ˥ ɖ ɯ dʑ o ˧ tʰ i ˥ tʰ ˩˥ k v̩ ˩ <SIL>
+<SIL> h n ˧ æ ˧ æ dʑ ɯ æ <SIL> p i p æ ˩˥ æ ˧ n o ˧ p i ˧ <SIL> d ˧ o ˧ o ə m ɤ ˧ tsʰ ˥ <SIL> ˩ <SIL>
+<SIL> tʰ v̩ ˩˥ <SIL> ʑ i ˧ z o ˩ ˧ h ɑ ˩˥ ˧ ɯ ˧ ˥ ˩˥ i ˧ tsʰ ĩ ˩ ɳ ɯ ˧ ɯ ẽ ʈ o ˧ dʑ ˧ p ˥ kʰ ʂ tsʰ ẽ qʰ dʑ tɕʰ qʰ n o qʰ ˥ <SIL> qʰ ɑ ˩ n ʐ jɤ ʑ
+<SIL> tʰ h ĩ ˧ b ĩ ˩ <SIL> n o ˧ <SIL> tʰ i ˧ ts ˩˥ ˧˥ ṽ̩ ts ɑ ˥ <SIL> ʈʰ u dʑ m æ ˥ dʑ ˩ ɤ ɑ ˩˥ m ẽ ʈʂ ẽ ˧ h ʈʂ e ʈʂ ʈ ˥ ts dʑ ʈʰ p ˧˥ ˧ o ˧ ʈʰ æ ɤ ˧ <SIL>
+<SIL> m i ˩˥ dʑ o ˩ ɳ ɯ ˩ ə tʰ d i m ɤ ˧ z o ˩ o z o ˩ n o ˧ ʑ i ˥ tsʰ ɯ ˩ p i ˧ e ʁ ˩ h ĩ ə o ˧ ts ɯ ˧ ts ɯ ˥ <SIL>
+<SIL> mmm… h ĩ ˩ dʑ ˩ h o ˩ l e ˧ l e ˧ ɑ ˩˥ ˩ ʂ ɯ ˧ ɳ ɯ ˩ ə wæ ˧ qʰ ˧ ʝ i ˧ ə m tɕʰ u h ĩ u ẽ ˥ ɲ ẽ f ɣ ĩ ɣ ẽ dz æ <SIL> f ʐ ɣ ʐ v̩ ʈʰ m
+<SIL> õ o ˧ ʂ ˧ ʂ ɯ ˥ n s ˩ s o ˩ i ˩ tɕ ɯ ˩ <SIL> i ˩ ˧ m v̩ ˥ <SIL> tɕ wɤ n jɤ ˥ s o ˥ <SIL> d ˥ ˩ n wɤ ˩ <SIL>
+<SIL> dʑ o ˩ l i ˧ h ɑ ˩ z o ˥ h ĩ ˩ ˥ <SIL> ɯ ˧ h ĩ ɯ ˩ ˥ ʈ tɕ ˧ k v̩ ˥ æ ˧˥ m i ˧ z o ˧ k ʐ ĩ ˥ ʈ ˩˥ ɕ wæ ˧ p æ ˥ kʰ ẽ ʂ p i ʈʰ ʂ o ˩ <SIL>
+<SIL> tʰ i ˩˥ ʈʂʰ ɯ ˧ z o ˧ k i ˧ ʈʂ ɯ ˧˥ n jɤ ẽ tsʰ wæ tsʰ ˧˥ n jɤ ṽ ɕ ṽ dʑ ṽ kʰ ˧˥ ɯ ʈʰ ɯ ˧˥ ɯ d ʝ ˥ ʝ ˧˥ ˧ m wæ ˧ <SIL> ʂ i æ <SIL>
+<SIL> tʰ i ˩˥ wɤ wæ ˩ <SIL> tɕʰ ɯ d i ˩˥ l e tɕʰ ɯ tɕʰ ẽ ɯ kʰ v̩ ˧˥ ts ɯ ʈ ˧ wɑ ts ṽ d ɑ̃ e ɑ̃ qʰ æ ˧˥ dʑ æ ˩ ʁ o ˧ ɑ̃ m kʰ v̩ ˧ ɯ ˧ ʝ e ʂ z ˥ ʂ ˥ <SIL>
+<SIL> ɣ ʈʰ d ɕ tsʰ ɬ ɣ ʐ mmm… f ɬ f ɣ ɬ ṽ̩ ɬ ṽ̩ u qʰ u ɛ u ɛ qʰ ɛ ʈʂ ɛ ĩ ˧ ʈʂ i ˥ ʈ v̩ ẽ ĩ tʰ ẽ dʑ o ˩ k ĩ o ˧ ĩ
+<SIL> tʰ i ˩˥ b ʝ i ˧ <SIL> l e ˧ ɬ tʰ i ˩˥ ẽ ˩˥ æ ˩˥ ˧˥ æ <SIL> æ ʈʂ ʝ i ẽ i ʈʂ ˧ ɕ ʈʂ wɑ ẽ kʰ ẽ dz ʈʂ ə ʝ qʰ dz qʰ ẽ ʂ ɣ dʑ æ ʂ ĩ o ĩ ʈʂ i pʰ kʰ v̩ ˩ k z ˥ m z æ ˩ <SIL>
+<SIL> tʰ i ˩˥ ɯ ˧ <SIL> n ɯ ˧ n ɯ ˧ l ɑ ˧ k ˧ ʝ ˩˥ ˥ ə ˧ n ɑ ˧˥ wæ z f ˩ f ɯ tsʰ ʐ wæ ʐ k ˥ ʝ i ts tɕ m æ ˩ ẽ ɯ ʈʂ v̩ ˩ k ˧ ˥ <SIL> ˩ i dz i ˧ <SIL>
+<SIL> tʰ i ˧ ɯ ˧ ɲ i ˥ ʂ ɯ ˧ dʑ ɯ ˥ ˧˥ ˩ tʰ i ˥ dʑ ĩ ˩ ə ˥ ˩˥ jɤ ˧ ɖ ɯ ˧ ɛ ˩˥ ʈʂʰ ɯ ˧ ɲ i ˥ h ĩ ˩ ɯ ə ˥ tɕ p ɯ ˥ <SIL>
+<SIL> ə e ˧ l v̩ ɯ ˩ <SIL> əəə… wɤ k v̩ <SIL> ɲ ɑ ˩ ˩˥ <SIL>
+<SIL> g i ˩˥ ˧ ʈʂʰ o ˥ dʑ o ˩ d ˩ ˧ h ĩ ˧ dʑ o ˩˥ ˧ ˩ m æ ˩ <SIL>
+<SIL> ʈʂʰ ɯ ˩˥ tɕ f tʰ ʐ ˩˥ mmm… ɕ ṽ i ˧ ṽ u ˧ u ṽ̩ ˧ ṽ̩ ɑ̃ ṽ̩ ʈʂʰ u ʈʂ ṽ̩ ʐ ʈʂ kʰ u ʈʂ ɑ̃ ʈʂ tsʰ ʈʂ ʝ i ʂ wæ ˧ kʰ v̩ <SIL> d ɑ jɤ ʑ
+<SIL> ɖ ɯ qʰ wæ əəə… l qʰ tsʰ qʰ ˧˥ ə qʰ p qʰ ˧ ɯ ˧ kʰ ˧˥ n jɤ ˧ ts ɯ ˧ ɯ v̩ m ˩ <SIL>
+<SIL> tʰ v̩ ˩ ʁ ˩ tsʰ ĩ ʂ qʰ o qʰ ts i ˥ dz ʈʰ dz æ dz ɖ ɯ ˧ dʑ p tʰ v̩ ˧˥ ɖ ɯ ʂ ɑ̃ ˧ <SIL> ɖ ɯ ˧ kʰ v̩ ˧˥ ɑ̃ ˩ <SIL> ɖ ɯ ˧ kʰ ɯ ˥ ʐ ˩ ˧ ɖ ɯ ˧ h ɑ ˥ i ˩ m æ ˩ <SIL>
+<SIL> ˧ m l ɑ ˥ h i ɲ ˥ ɖ ə ˧ m ɤ ˥ tɕʰ z ɯ ˥ <SIL> ɲ i ˥ ɲ o ˩˥ <SIL> ə ˧ n ɑ ˩ tsʰ i ɖ ɯ ˧ m ɤ ˧ ɳ ɯ ˥ <SIL> e ˩ <SIL>
+<SIL> n o ˧ h ĩ ˧ <SIL> h ĩ ˧ <SIL> ɯ ˧ ʐ ˧ v̩ ˧ ɑ ˥ <SIL> m æ ɤ ˧ z v̩ ˩ h ˩ <SIL> d i ˩ <SIL>
+<SIL> n ɯ ˧ ʈʂʰ ˧ b ˧ æ ˥ ˧ <SIL> ˧ ˩˥ ɑ ˩ n ˩ n jɤ ˧ ʈʂʰ ɑ ˧ ʂ e ˧ v̩ ˥ i ˩ l ɑ ˩ l e ˧ z e ˩ æ ˩ <SIL>
+<SIL> ə əəə… p o ˩ <SIL> p i ˩ m v̩ ˧ m o ˩ ə ˩ wɤ ˩ <SIL>
+<SIL> əəə… ɤ h ĩ əəə… ə ˧ m ɤ ˧ dʑ dz p ts ʈʂ ɯ ˧ h ĩ ˧ ʝ i <SIL> l e ˧ wæ ɯ ˥ ɑ n ˩˥ jɤ e ˧ ɖ ɯ ˧ tɕʰ ĩ m ɤ ˧ dʑ i ˩ <SIL>
+<SIL> m ĩ ˩ ĩ <SIL> o ˧ o dʑ o ˧ m ɯ ˧ ʈʂʰ ɑ ˧ dʑ o ˥ ʝ i ˧ ɻ̍ ɯ ˩ ˩˥ i ˩ ɖ ˩ b v̩ ˧ v̩ ˥ d v̩ ˩ <SIL>
+<SIL> tʰ i ˧ æ ɯ ˧ ʂ ˥ tsʰ ĩ ˧ <SIL> ʝ i ˩˥ <SIL> ĩ ˧ mmm… æ ˥ ts ɑ ˥ kʰ p o ˥ p æ ˧ i ˧ ˩˥ æ z o ˧ æ ˧ h ɑ ˧ <SIL> o <SIL> jɤ v̩ ˩˥ <SIL>
+<SIL> g h ĩ ˩ ʈʂʰ ɯ ˧ <SIL> ʝ i ˧ <SIL> l e ˧ tɕ ɯ ˩ f ĩ f ɲ i ɲ <SIL> ɲ i ˩ z o ˩ ˥ o ˥ p i ˧ ʐ ˧ tɕ ɣ ɲ ɑ ˥ ʈʂ ĩ ˧ f ʈʂʰ ˩˥ b dʑ ˩ tʰ i ˧ ˩ tɕ ɯ ˥ <SIL>
+<SIL> tʰ n jɤ ˧ wɤ ˧ d ˧ dʑ dz ˧˥ ṽ p ˥ dʑ æ ṽ ɯ ɣ ṽ ɯ ˥ ɑ̃ l ɑ ɑ̃ i l e ˧ jɤ ˧ tɕʰ ɯ ˧ l ɑ ˩ l ɑ ˩ o tɕʰ ɳ ɯ ˧ qʰ pʰ k ɯ ˥ tʰ i ˧ k v̩ ˧˥ <SIL>
+<SIL> m i æ ˩ p z i dʑ ʈʂ ɑ ˩ <SIL> z ɯ ˩ p i ts z ɑ ɯ ˧˥ ts ɯ n ɑ n jɤ ˧ ɻ̍ ĩ ɯ ˧ ʈʂʰ ɯ ˧ n jɤ ˧ ɖ ˧ ʈ v̩ ˧˥ <SIL> l e ˧ ʈʂ i ˥ z k v̩ ˧˥ m æ ˩ <SIL>
+<SIL> ĩ wɑ ɛ ṽ̩ ʈʂ u ṽ̩ u f u f ɣ ʈʰ ɣ ṽ̩ ʈʰ ɑ̃ dʑ ʈʰ ɣ f tɕʰ ɣ dʑ o ˩ ĩ ˩ ĩ ʑ
+<SIL> õ ʈʂʰ ɯ ˧ n ɑ ˩ h o ĩ ˧ <SIL> l ɑ ˧ <SIL> z o ˩ p v̩ ˧ m ɤ q o ˩ p ˧ ɯ ˩ wɤ ˩ k ɤ ˩ h ɑ ˩ e ˩ jɤ ˩ <SIL>
+<SIL> õ o qʰ o v̩ qʰ z o ˩ qʰ wɑ qʰ ˩˥ wɑ i ṽ ɲ z ṽ̩ ɑ̃ ɛ ɖ ɯ ˧ ʂ ɛ ʂ f tsʰ f ˩ ts ɯ ˩ <SIL> n v̩ ˩ ʑ
+<SIL> tʰ i ˩˥ l ʂ ˧ wæ ˧ z v̩ ˧˥ dʑ ʈʂ i ˧ tɕ ɯ f ẽ dz wɑ ʈʂʰ ɯ mmm… ʑ ṽ ʈʂ ɑ̃ <SIL> l ʐ ɑ ɑ̃ i ɛ ɲ i ˩ ɛ ĩ ɑ̃ <SIL> l e ɑ̃ tɕ ɯ ˥ tɕ ˩ tɕ i ˩ ʂ jɤ ʑ
+<SIL> əəə… h ɯ ˧ ʈʰ ɲ i ˩ ɬ ɑ ˩ n dz ˩˥ f u ɣ u ɣ u i ˧ u ṽ̩ ʈʂ ṽ̩ ĩ ɛ ĩ ɛ tsʰ ɛ ĩ ɑ ˩ ɛ <SIL> ʈ ɛ ˩ l e ĩ ˩ ˥ ɛ dʑ o ə ˩ m v̩ ˩ <SIL>
+<SIL> ɖ g ˩˥ ˧ n ɑ ˩ n jɤ ˧ <SIL> ɖ ɯ ˧ k v̩ ʈʰ m æ i ˧˥ ˧ g i ɯ i ˧ k v̩ ˩ <SIL>
+<SIL> ɲ i ˥ ə ˧ m v̩ ˧ ə i ˩ o ˩ <SIL>
+<SIL> õ b m v̩ ˩ h v̩ ˧ n ɑ ˩ n l ˩ ʂ ɤ ˩ v̩ ˩ h i ˩ h ˩ ˧ ts ˩ <SIL>
+<SIL> əəə… ˧ tɕ ˧ t ɑ ˩ n ˧ tɕ ɯ ˩ <SIL> dʑ o ˩ tɕ wæ ˧ ə ṽ æ mmm… ʈʂ ʂ ʈʂ ʂ ɑ̃ ɛ ʈʂ ɛ <SIL> ʈʂ ɛ ʈʂ ɛ ʈ n ʈ ʝ ʈ ts ʈ ĩ
+<SIL> ɖ ɯ ˧ ɭ ʈʰ <SIL> ʈʰ tʰ v̩ ˧ ʈʰ dz tsʰ dz i ɕ ĩ ɕ h ĩ ˧ ɳ ˧˥ ˥ dʑ ɤ ˩ <SIL> æ ˧ e v̩ ˧ tsʰ ˧ dʑ ˩ ˥ ə p i ˧ <SIL>
+<SIL> tɕʰ tɕʰ ɛ ĩ ˧˥ ĩ v̩ ˧˥ n wɑ qʰ u ɛ ɛ ɛ ʈ ɛ wɑ ɛ ts ts ṽ̩ ʈʰ u ʈʰ u f u ɣ f u f ɣ f ɛ f ʂ f ʂ f p f ĩ
+<SIL> əəə… ɬ tʰ æ ˧ ʂ ˧ tɕʰ wæ ˧ tɕʰ i ˧ tɕʰ tsʰ f tɕʰ ĩ ẽ wɑ ɣ ṽ ɣ ɬ ṽ̩ ɕ ṽ u ʈʂ ṽ u ʈʂ ɕ i ṽ ɕ ɯ ɕ ʈ ˧ ʝ i ˥ ɲ i ˧ <SIL>
+<SIL> ə ʐ wɤ ˧ ʐ wæ ˧ <SIL> k i ˧ ɑ ˩ p ˩ p ˩ v̩ ˧ v̩ ˥ v̩ k v̩ ˩ <SIL>
+<SIL> tsʰ tɕʰ o ɣ h ĩ ɳ ĩ tɕʰ ɣ dz ɣ u wɑ ʈ wɑ ẽ ɛ ẽ ɛ ʈ ẽ ʈ wɑ ṽ ɑ̃ ʈʰ ɑ̃ ɣ ɬ ɑ̃ ɬ f ɬ m ɤ ˧ tɕʰ ĩ jɤ ˧
+<SIL> d n jɤ u jɤ ˥ ʂ æ qʰ ʈʰ mmm… u ʂ wɑ u æ tɕʰ u ˥ u ṽ u ṽ ʈʰ ṽ u ɣ ṽ̩ ɑ̃ ɑ̃ ṽ̩ ĩ ɛ ʑ ɛ ˧ ɛ ĩ ɛ o ɛ ĩ ẽ ĩ ʈ ĩ
+<SIL> əəə… tʰ b i <SIL> l e ˧ ʈʂʰ ɯ ˧ l e ˧ ʁ o ˧ ʈʂʰ o ˥ ˧ ˥ v̩ ˩ ˥ m æ ˩ <SIL>
+<SIL> ʈʂʰ ə ˧ ɳ tɕʰ ɤ ˧ tɕʰ i ˩ n ɯ ˧ tʰ i ˥ d tɕ ˩˥ tɕ wɑ ˧ mmm… ĩ ˥ <SIL> ṽ wɑ ˩˥ ʈʂ ɯ ˧ ʈʂ ˥ ʈʂ ʂ ɬ ʈʰ ʂ ˧˥ ʑ
+<SIL> ə ˧ ɯ ˧ h ɯ ˧ ɖ ɯ ˧ ɯ ˩ <SIL> ɯ ˧ l e ˧ ʂ ˩ ɲ i ˩ <SIL>
+ə tʰ ˩˥ i ˩˥ <SIL> g æ ˧ dʑ o ˩ <SIL> wæ <SIL> ˧ l e ˧ p ˧˥ o ˩˥ ˧ ɯ jɤ n jɤ ˧ n ɑ ˧˥ tsʰ ˧˥ ˧ ɖ ɛ ˩ ĩ o ˧ ĩ i ʈ ĩ ɯ v̩ ˩ l ɑ ˩ dʑ o ˩ k v̩ ˩ o ˩ <SIL>
+<SIL> tʰ i ˩ ɤ ˧ dz jɤ ˧ k o ˩ ɯ ˧ ɲ i ˥ ɲ i ˩ ˩˥ ɖ ɯ ˧ jɤ kʰ ɯ ˩˥ æ ʂ ɤ ˧ ʝ i dʑ g ˩ ə ˩ v̩ ˩ <SIL>
+<SIL> tʰ i ˩˥ tsʰ i ˧ tʰ i ˧ ə ˧ ʝ i z ɯ ˥ <SIL> qʰ o ˩ ɯ ˧ q o ˩ ɳ ɯ ˧ q o ˩ ɖ ɯ ˩ o ˩ o ˥ <SIL> m v̩ ˩ <SIL>
+<SIL> n jɤ ˧ ə ˧˥ dʑ ɯ ˧ ˧˥ ˧ k v̩ tʰ ˥ ɑ ə ˧ tʰ v̩ ˧ d i ˧ <SIL> ʈʂʰ ɯ ˧ n e ˥ ʝ i ˧ pʰ æ kʰ ts m æ ˥ æ ə ˧ p i ˧ k v̩ ˩ <SIL>
+<SIL> ɑ ˧ n jɤ ˧ z o ˧ <SIL> tsʰ e ˧ wɤ ˧ tsʰ ɤ ˧ k æ o ˥ ˧ b ˩ i ˧ <SIL>
+<SIL> æ ˧ ˩˥ v̩ ˧˥ ˧ ʂ ˧˥ ɯ ˥ i dʑ o ˩ ˧ m ˧ z e ˧ ɬ æ dz ˧˥ dz ɑ̃ ˩˥ ɑ̃ ɯ ɑ̃ jɤ ɖ ɑ̃ v̩ ɑ̃ m v̩ ˩ ʁ v̩ ˩ ɖ v̩ kʰ ɑ̃ ˩ m v̩ ˩ <SIL>
+<SIL> h ɑ ˩˥ <SIL> ʂ æ ˧ ʂ ɯ ˧ ʝ ɑ i n ɣ ɯ p ʑ ts ɕ mmm… ts ɣ ṽ̩ m æ v̩ ˧ ʂ ɑ l ɑ ˧ ɖ ɯ ˧ o ˥ <SIL> tʰ e <SIL>
+<SIL> tʰ i ˩˥ kʰ ˧˥ kʰ ɑ ˩ <SIL> i z ˧ wɤ i kʰ i ˩ wɤ ˥ o v̩ ˧˥ <SIL> ɑ̃ ˧˥ ʈʂʰ ɯ ˧ <SIL> ɲ i ˥ ɯ ˧ <SIL> ɯ ˧ n jɤ ˧ dʑ o ˥ v̩ ˩ k v̩ ˩ <SIL>
+<SIL> ʁ i g ʝ i ʈʂʰ ɯ n i ˩˥ ts ɯ ṽ ʈʰ ˧˥ mmm… æ ˧˥ ɲ i ˩˥ tʰ z o ˧ ˥ i ˥ v̩ ʈ ɻ̍ ɯ s tʰ ɑ æ ˩˥ g i ˩ ɯ ˩ ts ˩ k v̩ ˩ <SIL>
+<SIL> tʰ i ɑ ˥ h ɑ ˧ <SIL> tɕ tʰ i ˧ <SIL> l e ˧ tɕ ɯ ˩ z o ˧ ə ˧ d i ˥ ʐ jɤ ˩ ˧˥ n dʑ ɯ ʈ ɲ i ˥ d jɤ ˩ n jɤ qʰ ˩ ʈʰ ˩ m ˩ ʑ
+<SIL> v̩ e i ʈʂʰ ɯ ˧ m i ˩˥ d v̩ ˩ ɖ ɯ ˧ m v̩ ˧˥ ɑ ˥ ɲ ɤ ˩˥ æ wɑ qʰ ẽ wɤ ˧ h æ ˧ kʰ ɑ ˥ <SIL> p ĩ ˧ ɣ ˥ ʈʰ æ ˩ ɣ æ ˧ ɣ wɤ ˧ ʂ wæ ˩ l ɑ ˩ i ˩ dʑ ɯ ˩ <SIL>
+<SIL> mmm… ĩ ʈʂʰ ɯ ĩ d ĩ m i ĩ <SIL> ĩ ˩ ĩ wɑ ɯ ˥ mmm… wɑ ṽ ṽ̩ ɑ ṽ̩ u ʐ u v̩ u ˧ ʈʂ u f u ɣ ʈʂ dʑ ʑ dʑ ˩ z v̩ ˥ <SIL> i ˥ ĩ v̩ ĩ o dʑ m ˩ v̩ ˩ o ˧ <SIL>
+<SIL> tʰ i ˩˥ ɲ i ˧ kʰ v̩ ˩ <SIL> o ˧ ɳ ɯ ˧ <SIL> tʰ v̩ ˧ n ɑ ˩ ˩˥ p i ˧ ə ˩ g i ˩ <SIL>
+<SIL> əəə… m ˧ i ˧ ʂ ɯ ˧ e æ d i ˧ m ɤ ˧ wɤ i l e ˧ d ɑ ˧˥ <SIL>
+<SIL> əəə… e i ˧ <SIL> ɖ ɯ ˧ l e ˧ dʑ o ˥ <SIL> ˥ i ˥ m æ ˩ <SIL>
+<SIL> tʰ i z o <SIL> m i ˧ h ĩ ˧ z o ˥ <SIL> z o ɻ̍ <SIL> tʰ i ˩˥ dʑ o ˩˥ tʰ v̩ ˧ ʝ i ˧ dʑ o ˥ ɲ p ˩ æ dʑ ɯ ˩ ˥ dʑ ɑ ˩ ts ʂ ɯ ˥ <SIL>
+<SIL> ˧ m i ˩˥ n ˧ wæ e ˧ m ɯ ˧ ʂ ɯ ˩ <SIL> e ˩ z o ˩ <SIL> ɖ ɯ ˧ ɲ i ˩˥ tʰ i ˧ ˩ ɲ ˩ <SIL>
+n ˩ ˧ wɤ i ˧ qʰ jɤ ˧ ɖ ˧ ɖ ɯ ˧ ʝ i ˧ l ˧ ɤ ɯ ʝ tsʰ ɤ ˥ i tsʰ əəə… ɯ ˧ o ˧ tʰ ɤ ˧ ˩ o ˩ <SIL>
+<SIL> əəə… v̩ ˧ <SIL> k i ˧ <SIL> wɤ ə v̩ ˩ i ˩ <SIL>
+<SIL> tʰ i ˩˥ ʁ əəə… n jɤ ˧ n v̩ qʰ d ɯ æ ʝ æ ə d m ɯ ˧ ɖ dz ɯ ˧ dz v̩ ə z o ˩ <SIL>
+<SIL> əəə… <SIL> ɲ i ə <SIL> m ɤ ˧ <SIL> wɤ ˩ ɯ ˩ z ˩ i ˩ <SIL>
+<SIL> ʈʂ ẽ ˧ ẽ æ ˧˥ f tsʰ ɯ f ẽ ʈʂʰ ɯ ˧ ʈʂ ʝ ẽ wɑ dz ɣ ʈʰ ɬ ɛ tɕʰ ˧ ɣ ĩ ˧ l d ɑ ɲ i ˥ æ ĩ <SIL>
+<SIL> ʁ ˧ s v̩ ˧ əəə… m v̩ ˩ ə ˧ ˥ i ˧ ɲ i ˩ m æ ˩ <SIL>
+<SIL> ə ˧ ɳ i ˥ dz əəə… ˧ n ɑ ˩ n ˩ f i ɲ qʰ dʑ o ˩ f v̩ wɑ ʐ dz ɣ ʈʰ tsʰ ɣ ṽ̩ ˧ p i ˧ ṽ̩ p tɕʰ ˩ dʑ ˩˥ <SIL> ʑ i ˩˥ <SIL> dʑ o ˩ <SIL> m v̩ ˩ <SIL> e ˩ i ˩ <SIL>
+<SIL> ˩ v̩ ˩ l e ˧ ɑ ˩ o dʑ o ˧ <SIL> i ˩˥ ts i ˩ z ˥ ˩ ɲ i ˥ k m i <SIL> ts ʑ ˩ <SIL> ˩˥ i ˩ <SIL>
+<SIL> g dʑ g o n o ʈʰ dʑ wɑ v̩ wɑ n wɑ ts wɑ mmm… wɑ v̩ ɖ ɯ ɕ ɕ k ṽ ˥ ʈʰ ṽ ʈʰ ˥ u ˥ tɕʰ ɑ ˧ ɳ ɯ ˩ ʈʰ tʰ i ˥ ɤ ˩ ɤ z o ˩ o ˩ <SIL>
+<SIL> ə i ˩ <SIL> ɲ o ˩ <SIL> ˩ i ˧ <SIL>
+<SIL> tʰ i ˩˥ i ˧ <SIL> ɖ ʈʰ f ˧ f ĩ ʈʰ v̩ f dz f ˥ f ɑ dz mmm… p ṽ ɑ̃ qʰ qʰ qʰ ˧˥ qʰ ʈ ˧ tɕ ˧˥ ʁ o ˧ <SIL> m ɤ ˧ ɖ ɑ ˩˥ ʑ
+<SIL> i ˩˥ ɯ ˧ b i ˧ ɯ ˧ v̩ ˩ <SIL> dʑ o ˩ o ˧ wɤ i ˧ <SIL>
+<SIL> əəə… tʰ i əəə… tɕ i ˩ z o ˩ tɕ i ˩ dʑ ʈʰ æ ʈʰ ʈʂʰ ɯ ˧ ʈʰ æ qʰ i ˩ tʰ i ˩˥ ʐ ˧˥ ʐ o ˩ <SIL>
+<SIL> mmm… tɕʰ mmm… dz mmm… ʈʰ mmm… f u f ˩˥ u ˥ dʑ o ˩ ɯ ˩ u h ĩ f ˩˥ dʑ o ˩ dʑ ṽ ɑ̃ ɣ ɑ̃ ɣ ɑ̃ ɣ ɑ̃ ṽ̩ z ɑ̃ ɛ ʈʂ ĩ ɛ ĩ ẽ v̩ ˧ ɖ ɯ ˧ ĩ o ˧ ĩ ʑ
+<SIL> ʝ ˧ m ˧ ˥ <SIL> l ɑ ˩ ɯ ˧ v̩ ˧ k o ˩ ɲ v̩ ˩ g i ˩ <SIL>
+<SIL> tʰ i ˩˥ ɖ ˧ ə ɯ ˧ ɯ ˧ ə ˧ ɖ ɯ ˧ <SIL> wæ ɯ ˧ ʝ i ˧ ɖ ɯ ˧ ʂ æ ˧ ẽ ˧ ˧˥ ẽ e ĩ tsʰ ɯ ˧ ʂ æ ˧ ts ˥ ʈʰ ˩ æ ˩ ʂ ĩ ˩ ɲ i ˩ v̩ ˩ dʑ o ˥ <SIL>
+<SIL> ə ˧ s ɯ ˥ <SIL> g o ˧ l ɑ ˧ ɯ ˩ l o ˩ i ˧ s i ˥ <SIL>
+<SIL> ˩ ˩˥ ɤ æ dz e m ˩ ɖ ɯ ˧ ɖ ˧ s ˥ ˩ h ĩ ˩ <SIL> ˩ ɑ ˩ n o ˩ <SIL>
+<SIL> i m v̩ ˧ dʑ o ˩ o v̩ o ˧ o ts i ʈʰ dz æ dʑ ɯ ˧ l ɑ ˧ <SIL> z o ˧ <SIL> æ ɯ æ v̩ ˩ ʈʰ æ ˩ <SIL>
+<SIL> ɬ ʈʰ ɣ ʑ ɣ ṽ̩ ɑ̃ ɑ̃ ɑ̃ ɛ ĩ ɛ ĩ ɛ ɑ̃ ĩ ʈʂ ɛ wɑ u wɑ ṽ wɑ ṽ wɑ ṽ u f ẽ ʈ ɛ ʈ ɣ ʂ ʑ
+<SIL> g ɯ ʂ tɕʰ ĩ ˧ dʑ f ˥ f tɕʰ e ˧ f wɑ dz ɣ tsʰ u mmm… ɕ ɕ ˥ ɛ ˥ ɛ v̩ ɛ ɯ ʑ ɕ ɛ ˧ ɛ tɕ ɛ kʰ ɕ ɛ kʰ v̩ ˥ f ʂ ˥ ʂ ˧ d ɑ jɤ <SIL>
+<SIL> ˩˥ p v̩ ˧ æ ɳ ˧ dʑ o ˩ ɑ ʂ v̩ ˧ ʂ ɯ ˩ h ĩ ˧ ʈʂʰ ɯ ˩ z o ˩ <SIL> v̩ e ˧ ʂ ɯ ˥ <SIL>
+<SIL> tʰ o ˩ <SIL> ˩˥ ɑ i ˩˥ l e ˧ p wɤ ˧˥ ə ˧ <SIL> m v̩ ˧ n i ˧ tɕ ɑ ˧˥ <SIL> ˩˥ ɯ ˧ wæ ˧ kʰ ɯ ʝ p i ˧ ʈʂ e ˧ ˩ ɤ i ˧ <SIL>
+<SIL> tʰ i ˩˥ i ˧ æ ˧ ʂ ɯ ɑ <SIL> ʂ ĩ ˧ ɖ ɯ ˧ kʰ v̩ ṽ̩ ˧˥ f n kʰ ɯ ˩ tɕ ɯ ẽ ʈ ʈʰ ĩ ʈ wɑ ts wɑ ts wɑ ɑ̃ æ ɑ̃ ʂ æ ʈʂ ɖ ɯ ˥ ˩˥ ɑ ɑ̃ <SIL> tɕ ɯ ˧ ʝ i ˥ l ˩ d ˩ <SIL>
+<SIL> l e ˧ qʰ æ ˧ tsʰ ɯ ˧ n o ˧ ʝ i ɯ ˧ ˩˥ l e ˧ p i ˥ p i ˧ <SIL>
+<SIL> tʰ i ˩˥ l e ˧ l e ˧ tʰ v̩ ˧ k v̩ ˧ q o ˧ <SIL> m ɯ ˧ ɯ <SIL> m o ˩ <SIL>
+<SIL> ə m ɤ q o ˩ n ɑ ˧ ˥ dʑ i ˩ dʑ o ˧ ɯ ˧ dʑ o ˩ l ɑ ˩ ts o ˧ ɤ ˧ ɑ ˩ l e ˩ i ˩ <SIL>
+<SIL> tʰ i ˩˥ b o h ĩ ˧ dʑ o ˧ ʝ i ˧ d i ˩ l e ˩ dʑ o dʑ o ˩ v̩ ˥ m æ ˧ æ o ts æ d ɑ ˩ d i ˩ ɯ ˧ s v̩ ˧˥ <SIL> dʑ o ˩ k o ˩ m o ˧˥ <SIL>
+<SIL> m v̩ ˩ s ɤ ˧ v̩ ˩ g ɤ ˩ ts ɯ ˩ <SIL> ˩ m ˩ ˩˥ <SIL>
+<SIL> i ɯ ˧ <SIL> ˧ i ˧ <SIL>
+<SIL> m ɤ tɕʰ wɤ tɕʰ f ˧ f ˧ f ʂ f tɕ wɑ ʂ dz wɑ mmm… ɑ̃ wɑ ɑ̃ z o ˥ ɑ̃ o ɑ̃ p ɑ̃ p ɑ̃ ɛ d ɑ ɑ̃ ɛ tɕʰ ĩ <SIL> ɬ <SIL> ˧ ʝ i ˧ ʐ ˧ ʈʂ tɕ æ ˧˥ <SIL>
+<SIL> tʰ i ˩˥ ĩ <SIL> tʰ i ˩˥ ˧ tɕʰ p ɕ æ ɕ ĩ ʈʂʰ ɯ ʈ wɑ ɕ wɑ mmm… ɕ ʈʂ ṽ̩ u ɣ ʂ ɣ ɑ̃ ʈʰ ɑ̃ ʈʰ f tɕʰ f ˩ f ˩ ʂ ʑ
+<SIL> q o ˩ m o ɯ ˧ ɲ ɯ ˥ ɯ ˧ m ɯ ˧ q v̩ ˥ i ˥ dʑ ˩ tʰ i ˩˥ dʑ o ˧ s ɯ ˥ tsʰ ɯ ˩ q v̩ ˥ <SIL> wɤ ˥ <SIL>
+<SIL> l ɑ ˩˥ e ɤ f ɤ ˧ f ɤ ˩ ɯ f dʑ z dʑ o ˩˥ mmm… ˥ mmm… u ˧ u i u ɻ̍ u i ṽ̩ u ṽ̩ u ɯ ʈʂ ɑ̃ ɕ ʈʂ æ ʈʂ ts ɑ̃ ɛ ɑ̃ ɛ l e ɛ ɯ ˩ ɛ v̩ ˥ ʂ ɯ ʂ ĩ ɯ ˧ pʰ ˩˥ ˧ ĩ
+<SIL> ɖ wæ ˧ ɑ ˧˥ n jɤ ˧ ĩ ˧ ɳ ɯ ˧ l ɑ ˩ p e ʈʂ wæ ts ɯ æ ts ˧˥ æ ˩ kʰ o ɖ ɯ ˧ kʰ wɤ ˥ dʑ i ˩ d i ˩ <SIL> ˧ ʂ b p i ˧ <SIL>
+<SIL> ʈʂʰ s d k ˧˥ n jɤ ˧ ʈʂʰ jɤ ˧ ʝ p i ˧ ˧˥ jɤ ˥ ˧˥ æ ˧ p ɯ ˧ ʈ ˧ ˧˥ dʑ i ˧˥ z ˧ l ɑ ˧ ɳ ɯ <SIL> h ĩ ˧ ʂ i ˧ z o ˩ <SIL>
+<SIL> ə ˧ z n ˥ n d ɯ ˧ qʰ ˥ ts qʰ dz ˥ z o ˩ p o ˧ æ v̩ ˧ l e ˧ ɬ p o ˩ <SIL>
+<SIL> z ɑ ˧ l ɑ ˧ l e ˧ qʰ wæ ˧ wɤ ˧ tɕ ɯ ẽ mmm… i wɑ ˧˥ wɑ kʰ mmm… ɤ mmm… z ṽ ɣ ṽ̩ ʑ ˩˥ z ĩ ˧ n o ˧ d ṽ̩ ˩ ˧ ṽ̩ tɕʰ ˩ tɕʰ ĩ ˩ ˧ ˩ ˥ p ˥ ɻ̍ p o ˧ <SIL>
+<SIL> əəə… e ɑ ˩ ɲ i ˥ əəə… m ˥ i ˥ ʝ i ˧ pʰ v̩ ˥ k v̩ ˩ p i ˧ <SIL>
+<SIL> tʰ ɖ ˩˥ ˧ tɕʰ ɑ ˧˥ <SIL> f ĩ mmm… ɕ mmm… mmm… ṽ ʑ ṽ z ṽ u ʈʂ u tɕ u ʈʂ ts ṽ ɣ ĩ ʂ ɬ p f p ˥ dʑ p i ĩ æ ĩ <SIL>
+<SIL> æ ɯ ˧ ʂ ĩ ˧ ʈʂʰ ˧ tsʰ ɯ ˥ h ĩ ˩ dʑ æ ˩ dʑ æ ˧ ʂ ĩ ˧ tʰ ˥ ˧ ˩ wɤ ˩ <SIL>
+<SIL> ˩ l ɑ ˩ k v̩ ˩ ɳ ɯ ˩ o ˧ ˥ ˩˥ ˧ v̩ ˧ l i ˧ l ɑ ˧ <SIL> o ˧ ʝ o ˩ m v̩ ˩ tʰ i k v̩ ˥ <SIL>
+<SIL> m i ˧ dʑ o ˧ m ĩ o ˩ o ˩ ɯ ˧ tʰ v̩ ˧ ˥ i ˧˥ v̩ ˧ m <SIL> l ˧ i ˧ <SIL> jɤ wɤ ˧˥ <SIL>
+<SIL> tʰ i ˩˥ v̩ ˧ v̩ g v̩ ˧ <SIL> ʂ v̩ ˩ ɑ ˩ ˥ tsʰ i ˥ <SIL> ʂ z ˩ dʑ o ˩ ʈʂʰ ɯ ˧ qʰ e ˧ ʈʂ e ˧ e ɑ ˧˥ tɕ ɯ ˩ wɤ <SIL> tɕ ɯ ˥ <SIL> k v̩ ˧˥ <SIL>
+<SIL> m ɤ ˧ <SIL> ɤ ˧ ɖ ɯ ˧ <SIL> kʰ v̩ ˧ l e ˧ ɖ ɯ ˧ h ɯ ˥ <SIL> i ˩ kʰ ɯ i ˩ <SIL>
+<SIL> tʰ n o ˧ m v̩ ˧ n ɑ ˧˥ <SIL> ĩ ɑ ˧ p i ˩ p i ə ĩ mmm… wɑ ɯ wɑ <SIL> m ɯ ˧ ʈʂ e ˧ ṽ æ ts ʈʰ æ ˩˥ n o ˧ ɯ ˧ pʰ m v̩ ɤ ˧ o ˧ i ˧ <SIL>
+<SIL> tsʰ ɤ ˩ ʂ ɯ ɣ ʐ ɣ ʈʰ ɣ ṽ̩ u ʈʰ u tɕʰ ṽ̩ ʈʰ f ˧ u ˥ ʈʂ u n ɛ ʈ ẽ ʈ ɛ ʈ ɛ i ɛ ĩ ˧ ẽ ˧ ẽ ʈʂ ɕ ˧ ʈ o ĩ <SIL>
+<SIL> õ e ˧ i ˧ l e ˧ ʈʂʰ ɯ ʑ i ˧ ʑ i ʑ p tʰ i æ ˧ dʑ o ˩ <SIL> æ ɯ ˧ <SIL> ˧ d ˧ i ˧ ˩ <SIL> tʰ v̩ ˩ ɲ i ˩ <SIL> p i ˧ <SIL>
+<SIL> z ˧ i <SIL> l e ˧ pʰ æ ˧ ˩˥ tʰ i ˩˥ ʐ wɤ wæ ˧ ʈʂ ˧ <SIL> p o ˩ <SIL> o ˩ <SIL> tɕ ɯ ˩ h i ˧ l e ˧ p wɤ ˧ kʰ ˥ m æ ˩ <SIL>
+<SIL> əəə… ʈʂʰ ɯ ˧ l ɑ ˧ <SIL> ɑ ˩ i ˩˥ <SIL> d ˩ v̩ o ˧ v̩ ɯ ˧ ə ˩ i ˩ <SIL>
+<SIL> ĩ h ĩ ˩ ɖ ɯ ˧ dʑ o ˩ dʑ ˩ qʰ ɑ ˥ ˩ jɤ ˩ dz æ ə ˧ m v̩ ˥ ʈʂʰ ɯ ˧ n m ˥ ˧ <SIL> ˩ h ˥ ɖ ɯ ˧ v̩ ˩ h o ˩ <SIL>
+<SIL> ʈʂʰ æ n e ˧ tɕ ɯ ˥ ʈʰ ˩ ʈʰ æ ṽ̩ ˧ ṽ̩ ˧ ɖ ˧ i ˧ ɲ v̩ ˩ h i l e z k v̩ ˧˥ ʈʰ m æ ˩˥ ts o ˧ ʑ i ˩˥ ʈʂ n ʑ ẽ ˧ ĩ ɤ ˥ n o ˧ ɲ i ˥ ts ɯ g ˥
+<SIL> ɖ i ˩˥ ə ʝ jɤ ʝ ĩ ˧ ʝ ˧ jɤ ˥ n dʑ ˩˥ ˧ u ɯ ˩˥ ˧ n jɤ u ɣ ˧ jɤ ɣ ɑ ˩ ɣ h ĩ ˧ ɖ ɯ ɬ tɕʰ ɲ i ˥ ʝ i z i ˩ <SIL>
+<SIL> h ɣ v̩ d ɣ ʂ ɣ ʐ u ˧˥ u ɑ̃ ɖ ɑ̃ ˥ ɣ ṽ̩ v̩ ṽ̩ ĩ ˧˥ dʑ u ˩˥ ɛ ẽ ĩ ˧ ʈ ɑ ˧˥ ʈ v̩ ˩ ɑ ẽ ʝ i ẽ ʈ tɕ ĩ ˥ <SIL>
+<SIL> ɖ ɯ ɖ ə ˧ dʑ o z o ˧ ɖ ə ˩˥ ˥ dʑ o h ɯ ˩ dʑ i ˩ ʝ i ˥ ɖ ɯ ˧ o ˥ ts jɤ ˩ n kʰ ˩ æ ˩ dʑ i ɖ ɯ ˧ qʰ ɑ ʈʰ ɑ ˩ dʑ jɤ ʑ
+<SIL> tʰ i ˩˥ ɯ ˧ <SIL> æ ˥ tʰ ɑ i ˧ ɖ ɯ ˧ ɑ ˧ ʈʂ mmm… tʰ ɑ ʝ i ʝ <SIL> ɯ ˧ ʝ mmm… ɤ mmm… ɖ ɯ d ṽ ˥ ʈʰ æ ɣ ˧ ɣ ˧ dʑ ˧ ʈʂ ʝ k v̩ ˩ m ˩ <SIL>
+<SIL> tʰ o ˩˥ s ˥ ɯ ˩ g v̩ ˧ <SIL> h ĩ ˧ m v̩ ˩ i ˩˥ z o ˩ ɯ ˩ <SIL> ɯ ˧ <SIL> ɯ ˧ m v̩ ˩ ˥ i ˩ g ˩ i ˩ ˧ ɤ ˧ ɲ i ˥ <SIL> m i ˩ <SIL>
+<SIL> əəə… ts ɯ ˧ h ɯ ˥ <SIL> ɯ ˧ n ɑ ˩ tʰ wɤ ˥ v̩ ˧ v̩ ˧ ˩ v̩ ˩ ɲ ˩ k i ˩ <SIL>
+<SIL> ʁ ɤ o ˧ v̩ ˧ <SIL> ɯ ʈʂʰ ɯ ˧ n o ˧ ɖ ɯ ˧ ɯ ˥ <SIL> i ˧ ʐ wɤ wæ wɤ ˧ q m ɯ ˩ <SIL>
+<SIL> ə m o ˩ dʑ o ɯ ˧ m i ˧ <SIL> ˧ ɯ ˥ i ɑ ˩˥ n jɤ ˧ ʈʂʰ ɯ ˧ ʝ i ˧ tʰ ʝ i ˩˥ ɯ ˩ ʁ o ˩ m i ˩ <SIL> wɤ ˩ <SIL>
+<SIL> l ɑ ˧ d dz ʈʰ m dz ˧ ˩ ʂ ɯ ˧ l tɕʰ u <SIL> u ṽ̩ ˩ ṽ̩ p i dz ʈʂ ɛ ˧ ʈʂ e ˧ p i p ĩ ʂ p tɕʰ p i d tɕʰ i ˧ <SIL>
+<SIL> ʈʂʰ ɯ n ˧˥ ɯ ʈʂʰ ɯ ˧ m æ ˩ tsʰ æ ˩ z ɑ ə ɖ ə ˧ m ɑ ˧ z ˥ <SIL> ɯ ˩ <SIL> ˩ ɯ ˧ z ˥ o ˥ <SIL>
+<SIL> mmm… n jɤ d v̩ ˧ h ɑ ˩ l ˩ ʐ wæ ˧ ʈʂ e ˧ ʝ i ˧ tɕ ɯ ˩ ʈʂʰ ɯ ˧ l e ˧ d ˥ ˧˥ ɕ ts ẽ ˩ qʰ tɕ qʰ ṽ ʈʰ ṽ ʈʰ ˩ ʈʰ jɤ dʑ ɬ e ɬ ɯ h ʈʰ ˩ ʈʰ ˩ <SIL>
+<SIL> ə ɤ v̩ ˧ k ˧ ʁ ˧ ˥ v̩ tʰ ɯ n ɑ ˩ ĩ tʰ i ʂ kʰ ɯ kʰ ˩˥ v̩ ˧ n ɑ ˩ n jɤ ɯ ˩ ˧˥ dʑ o ˩ h ĩ ˩˥ ɖ ɯ ˧ ɑ e ˥ g e ˩ ɤ ɲ ˥ ʝ i ˧ ts ɑ ˩ ə ˩ ĩ ˧ <SIL>
+<SIL> ə ˧ n i tsʰ ʈʂʰ ɯ tsʰ <SIL> o <SIL> ɲ i <SIL> ə i e ˧ ɲ i pʰ ʝ i ˥ pʰ ˩ ɲ ɯ wɤ ˩ <SIL>
+<SIL> tʰ ˩˥ æ ˧ ʂ ĩ ˧ ɯ ˧ qʰ ˧ m v̩ ˧ ˧˥ l e ˧ ʈʰ æ ts ɯ dz ts m ʈʂʰ ɯ ɖ ɑ̃ v̩ ˩ ɑ̃ ˩ v̩ ˩ ʈʂʰ ɯ ˧ <SIL> dʑ i ɲ i <SIL> dʑ ɯ ˧ z ˩ o ˩ <SIL>
+<SIL> ˩ ʁ o ˧ ɯ ˧ l ɑ ˧ o l ˧ n o ˧ ˩ o i ˥ <SIL>
+<SIL> l e wɤ i ˥ ˩˥ <SIL> d ʂ ts æ mmm… æ ˧ k v̩ ˥ <SIL> ĩ i ˧ ʂ ʑ i ɑ ˩ ˥ ɑ ˩ ˧ z o ˩ l e ˧ d ˥ m ɤ ˩ i ˥ æ o ˩ v̩ ˩ g ˧ <SIL>
+<SIL> tʰ ˩ z tɕʰ ˩ tɕʰ ʈʰ f tɕʰ æ tɕʰ f wæ f dʑ f ˩ dʑ wɑ ɛ ʈ ɛ ʈ ɛ ɕ ɛ ʈ ɕ ɛ ĩ ɛ ẽ ʈ ẽ wɑ ɣ ṽ ɑ̃ ɣ ɑ̃ tɕʰ ɑ̃ ˧ tɕʰ u f ˩ f tɕʰ ˩ n jɤ <SIL>
+<SIL> ə ˧ m s ˩ q o ˩ <SIL> ˩ tʰ i ˩ <SIL>
+<SIL> tʰ i ˧ kʰ z o ˩ ʐ wæ ɯ jɤ dz ʐ ɯ ṽ̩ ɲ i ˩ z ĩ ṽ̩ ˧ p jɤ ts ˧ n o ˥ jɤ ˧ ts e ˧ <SIL> tɕʰ ɯ ˩ z o <SIL> z o ˩ k v̩ <SIL> v̩ i ˥ s k ˥ <SIL>
+<SIL> tʰ i tʰ i ˩˥ h e ˧ p æ ˥ ʈʰ ts i ˩˥ g wɑ ˩ <SIL> i ʂ n o wɑ ˥ i ʈʂ i l e ɲ i ˥ <SIL> z o ˩ ʈ ɛ ˩ e ˩ ʈ o ˩ <SIL> dʑ i ˩˥ ɖ ɤ tʰ v̩ ˧ ɲ i ˥ ts ɯ v̩ ˩ n jɤ <SIL>
+<SIL> n jɤ ˧ ɳ ɯ ˩ <SIL> ɖ ɯ ˧ ɖ l ˧ l ˧ ɻ̍ ˩ ɖ ɯ ˧ l ˧ ts ɯ ˩ <SIL> ɯ v̩ i ˩ <SIL>
+<SIL> ə i ə ˧ m ĩ ˧ ɲ ˥ tsʰ ˩ tɕ ɑ tɕ ɑ ˩ ˧˥ i ˩ ɯ ˩˥ v̩ ˧ s ˧ ˩ i ˥ m ɤ ˩ ɯ ˩ i ˧ ʈʂʰ ɯ ˧ <SIL> e m ˩ <SIL>
+<SIL> tʰ i ˩˥ ə ˧ n ɯ ˧ m ɤ ˥ d ˥ i ɯ ˩ ˧˥ ɯ ˧ <SIL> ɑ ˧ ə k m ˧ ɤ ˧ k v̩ ˧˥ <SIL>
+<SIL> tʰ o ˧ o ˩˥ d ˧ <SIL> ʈʂʰ ɯ ˧ n o m v̩ ˩ <SIL> m v̩ ˩ k v̩ ˩ tʰ ɯ ˩ m o ˧ k ˧ wɤ ˧ <SIL>
+<SIL> dʑ o ˩ q o ˧ m ɤ ˧ jɤ ˧ d ˥ ˧˥ dz ˩ ʐ dz ɯ ˧ kʰ qʰ ˧˥ qʰ wɤ tɕ ˩ ts ɯ ˩ <SIL> m v̩ ˩˥ <SIL>
+<SIL> ə ɬ ɑ ˧ o i ˧ <SIL> ɖ ˧ kʰ v̩ ˧˥ z ˩˥ l e ˧ p o ˧ ĩ ɯ ˧ ɲ i ˥ <SIL> kʰ o ˥ <SIL> o ˧ ɛ ɻ̍ ˩ p ɯ ˧ ĩ ʝ i ˧ ʈʂ g ˩ ɲ ɑ ˩ qʰ ɯ ˧ <SIL>
+<SIL> tʰ dz ʈʰ dʑ ʈʰ f ʈʰ f ʈʰ f u dz i ɣ m ɑ̃ ɑ̃ v̩ v̩ ṽ̩ ʈʂ ɛ ĩ ʈ ˩ ʈ ˩ ʈ ˩ ɛ i ˩ ʈ ĩ
+<SIL> tʰ i ɯ ˧ kʰ æ ɤ ɳ ɯ <SIL> k v̩ ˩ kʰ ɖ ɯ ˧ <SIL> l e ˧ ɯ ˧ kʰ v̩ ˧ <SIL> l ɑ ˧ <SIL> ʈʂ æ ˧ ɯ n o ˧ ɳ ɯ ˥ <SIL> wɤ wæ ˧ kʰ ɯ ˥ <SIL>
+<SIL> tʰ i ˧ i ˧ ʂ ɻ̍ ˥ h ɲ ˩ ʑ i ˩ kʰ ˩ ɻ̍ ɯ ʂ ĩ ẽ tɕʰ <SIL> ʂ e ˧ p ẽ ˧ tsʰ ẽ ˧˥ wɑ n wɑ mmm… ṽ ɛ wɤ ɣ ˧˥ ɑ ʈʂ ɑ̃ ɣ ɕ ṽ̩ ṽ̩ m ɤ ˧ z tɕʰ ṽ̩ ʈʂ dz ʈʂ i ʝ i dz tsʰ ɯ ˥ ɯ ʂ æ ˩ ʑ
+<SIL> ˩˥ i ˧ ˩˥ o tʰ ˧ ˩˥ k i ˧ dʑ o ˧ <SIL> ʈʂʰ ɯ ˧ <SIL> tʰ i ˩˥ ə ˧ <SIL> ˥ z ˧ ˩ k i ˩ k ˧ ɯ ˧ k v̩ ˧ k o k ˧ ˩ ɯ ˧ ɻ i ˥ p o ˩ <SIL>
+<SIL> ə ˩˥ ɯ tsʰ ˩˥ ˧ ʐ wɤ ˧ ʐ ɯ ɤ ˧ n v̩ ˧ ʈʂʰ ɯ ˥ q o ˥ ˩ h ɤ ˩ ts ɯ ˩ <SIL> ˩ ɯ ˩ <SIL>
+<SIL> əəə… kʰ ˧ ʈʂ ə ˧ v̩ ˧ v̩ ʝ i ˥ <SIL> ʑ i ˧ <SIL> ˧ ɯ <SIL> ˥ i ˧ ts i ˩ ˧˥ k v̩ ˧˥
+<SIL> h wæ ˧ tsʰ ɯ ˧ ʝ ˧ ʝ l e ˧ p i ʝ i ˧ kʰ v̩ ˧ ʂ ˧ wɤ l e ˧ ʂ wɤ ˧ ɲ i ˥ ˧ p z ɯ ˩ <SIL>
+<SIL> tʰ ɖ ɯ ˧ wɤ ɯ ˩ <SIL> h ĩ ˧ <SIL> ɯ ˧ ɖ ɯ ˧ kʰ wɤ ˥ i ə e ɑ ɲ i ˩ ə i ˧ <SIL>
+<SIL> əəə… ʈʂʰ ˧ ʐ o ˩ ˧˥ ʈʰ i ˩ m æ ɤ ˧ z o ˥ <SIL> ʁ o ˧ tʰ æ ˧ ts æ ˥ m v̩ ˩ <SIL>
+<SIL> õ ɤ ˧ ʈʂʰ ɯ ˧ ʂ o ˧ o wɤ ˧ tsʰ v̩ ˧ <SIL> ˧ ˩ tʰ v̩ i ˧ <SIL>
+<SIL> g o ˩ ˧˥ ˧ i ˧ ɖ ɯ ˧ m ɯ v̩ ˩˥ <SIL> ɖ ɯ ˧ kʰ ɯ ˩ ˥ ɤ ˧˥ e ʈ ʝ i ˩˥ õ qʰ ɯ ˧ jɤ qʰ n ʈʂ ˩ ɣ ʈʰ ʂ ˧ ʂ o ˧ <SIL>
+<SIL> tʰ i t ˧˥ n jɤ tɕ ˧˥ ɑ f ɑ u f ə f n wɑ ə wɑ ˧˥ wɑ l wɑ mmm… ṽ mmm… ṽ ɣ ɑ̃ ɣ wæ ˧ ɑ̃ p ˧ tʰ tɕ <SIL> ɑ̃ tɕ ˩˥ ˧ ʝ ɯ ˧ ʝ f ˧ ʐ wæ k v̩ tɕ k v̩ ˧˥
+<SIL> m v̩ ˧ ɖ h ĩ ˩ ɯ ˥ n e ˩˥ <SIL> ʂ ɯ ˧ q o v̩ ˥ <SIL> i ɯ ˩ ts ɯ ˩ n m v̩ ˩ <SIL>
+<SIL> tʰ i ʈʂʰ ɯ ˧ ɲ i ˥ i tsʰ ˩˥ ˩ z ɯ ˩ <SIL> ɲ i ˩˥ <SIL> tɕʰ ɯ ˩ ẽ ɯ dz ɯ wɑ jɤ wɑ ɣ ɲ ṽ ˥ ˩ ʈʰ m æ ɣ ʈʂʰ ɯ ˧ ʝ ʑ ˥ <SIL> ʑ ə ˩ tʰ jɤ <SIL>
+<SIL> tʰ i v̩ ʐ ɑ ɬ ɑ ˩ tsʰ i ʐ qʰ ɑ̃ ˩˥ ˧ z v̩ ˧ ʑ ʝ ˧ ʝ ĩ ɯ ˩ p i ˧ qʰ o ˧˥ p v̩ ˧ <SIL> ẽ ˧ f p ˥ ˧˥ n jɤ ˧ l jɤ ˥ l ɑ ˩ k v̩ ˧ kʰ d k ˧˥
+<SIL> tʰ i ˧ ʁ ɯ ˧ m ˧˥ ˧ tʰ i ˧ l ɑ ˥ ɑ ˧˥ ˧ mmm… ʈʂ ɑ ˧ i ts mmm… ṽ ˥ mmm… ʈʰ æ ṽ e ˧ g i ɳ ɯ ʐ ˥ e ˥ tʰ i ˧ pʰ z ɖ ɯ ˧ kʰ æ ˧ kʰ ɯ k m v̩ ˩ <SIL>
+<SIL> ˧ ʂ e ˧ <SIL> ʈʂʰ ɤ ˧ ˥ ɑ ˩ z ɯ ˥ <SIL> ɤ p ˧ jɤ ˧ ts ˥ ɲ d <SIL> dz æ ˩ ɲ ts ˩ m ˩ <SIL>
+<SIL> tʰ i ˩˥ i tɕʰ ʑ i ɬ <SIL> ˥ f ʈʰ ṽ i f ʈʰ u ʈʰ ɕ ʐ ɕ ʐ <SIL> ʈʂ u ɛ ʈʂ ɛ p i ɛ n jɤ ẽ <SIL> ẽ tʰ ɑ ẽ ˩˥ ẽ ˩ ɲ v̩ ʈ ˧˥ <SIL>
+<SIL> tʰ d ˩˥ ə ˧ d o ˩ l wɤ ˩ i <SIL> ʈʂʰ ɯ ˧ f wæ ˧ g ˧˥ ˥ ˧˥ ɲ d ˥ ʈʂ tsʰ ts ʈ ɕ ʈʰ æ ʈ m i d p i ˩ ɑ̃ ɖ ɯ ˧ k v̩ m v̩ ˩ <SIL>
+<SIL> g qʰ ɖ ɯ ˧ t ɑ dʑ ˩ qʰ ĩ ˧ ʈʰ n jɤ ĩ wɑ ɖ ʈ qʰ dz ʈʰ ɣ ʈʰ ɣ ṽ̩ ʈʰ ɣ ʈʰ ɣ ʈʰ æ ɬ ĩ ɬ ʈʰ ʑ
+<SIL> æ ˧ m i ˧ ɳ v̩ ˧ <SIL> dʑ i ˩ d i ˩ ˧˥ n ˧ b ˩ ɑ e <SIL> ʈʂʰ ɯ ˧ v̩ ˩ ɯ ˧ <SIL>
+<SIL> ɖ ɯ f jɤ f z f n jɤ f d wɑ mmm… ṽ ɣ ṽ ɣ ɣ ɖ u ɛ ɛ ɖ ɛ i ɛ n ɛ ˩ ɛ tɕ ʈ ˥ ʈ ˩ ɣ tʰ ˩ tɕ ɯ jɤ <SIL>
+<SIL> əəə… ʂ æ ˧ m i ˧ m v̩ ˩ ɲ i ˩ p i ˧ <SIL>
+<SIL> l e ˧ l i ˩ m o ˩ tʰ ə ˩ g i ˩ <SIL>
+<SIL> ə i tɕ ˩ h ɖ i ˩˥ <SIL> h ĩ ˧ <SIL> ʑ ˩˥ ˧ <SIL> ə ˧ ʑ æ ˧˥ <SIL> tʰ i ˩˥ <SIL> u ɖ ɯ kʰ ˧ dʑ ˧ i ˧˥ kʰ ɯ ˧˥ ẽ jɤ tɕʰ tɕ ɯ ˥ l ɑ ẽ <SIL> dʑ o ˧ ʂ n ɤ ˧ ʈʂ ɤ ˧ e ɤ ˩˥ <SIL>
+<SIL> ɖ ˧ z o ˧ o ˧ v̩ dʑ o ˩ <SIL> d æ tsʰ ˧ tsʰ ˩˥ ˧ tsʰ ˧˥ ɖ ɻ̍ ˧ o ˥ p o <SIL> l e ˧ dz ɯ ˥ kʰ wɤ ˩ <SIL>
+<SIL> tʰ i h b ˧ tɕʰ ˧ tɕʰ o ˥ <SIL> u v̩ u ɤ u f u ʈʰ ṽ ts æ ɣ ɣ ɛ v̩ ɛ ʈʂ ɛ ɕ ʂ ɕ ˧ tɕ ɕ ɖ ɯ ˧ dʑ o dʑ ɯ ˧ ʈʂ o ʂ <SIL>
+<SIL> tʰ ɬ ʂ ˧ ʂ ɣ ˥ ɣ ˥ dʑ o ˥ ˩ p ɑ p tɕʰ ʝ i ˥ ɖ ɯ ˧ jɤ mmm… ˧˥ u ṽ ɖ ṽ ˧˥ ṽ æ ɖ ɛ ˧ n jɤ dʑ ɛ ɖ ɑ̃ ɛ ɖ ɛ ɖ ɛ ĩ ẽ ˧ ẽ v̩ ˥ ʈʰ m æ ʈ ˩ <SIL>
+<SIL> e i ˧ n o ˧ o ˩ l i ˧ ʈʂʰ ˧ m o ˥ dʑ o ˩ m v̩ ˩ <SIL> e ɯ ˩ p i ˧ <SIL>
+<SIL> ĩ ʑ ˥ <SIL> dʑ o ˧ ĩ ɑ ˩ ĩ wɑ ɣ ṽ̩ ṽ̩ ṽ̩ ɛ u ɛ u wɑ u wɑ ʈ wɑ mmm… wɑ ɣ ɕ ɕ f tɕʰ f tɕʰ n ˧ f ˧˥ ˧ <SIL> l e ˧ f ɬ ˧ ĩ
+<SIL> əəə… e ˧ tʰ i ˩˥ əəə… i ˩˥ <SIL> ɖ ɯ ˧ i ˥ əəə… ˧ dʑ ˧ ˩ ˥ <SIL> i k m v̩ ˩ <SIL>
+<SIL> mmm… ɤ ˧ dʑ tɕʰ ˥ h ɑ ˧ ɖ ɯ ˧ kʰ v̩ ˩ tɕʰ ĩ tsʰ wæ ɛ tsʰ ɛ wæ tɕʰ ɛ ʂ ɯ ẽ ʈ ẽ qʰ ẽ tsʰ ɯ ʈ wɑ ɣ u ɣ f tɕʰ v̩ tɕʰ ˥ ə ˩ ĩ ˧ <SIL>
+<SIL> n õ ɯ ˩ <SIL> ɯ ˧ i ˩˥ z o ˩ p tʰ i ˧ ɯ ˧ ʂ ɯ ˧ s ɯ ˥ ɯ ˧ ɤ ɯ ˧ v̩ ˩ v̩ i ˩ e ˩ <SIL>
+<SIL> õ e ˧ ĩ i dz e ˧ ʈʰ æ ĩ ɕ ɣ ɕ o ɕ ṽ̩ ʈʂ ɣ ˥ ʈʂ v̩ ṽ̩ z ʈʂ əəə… u ʈʰ f ˧ f ˥ f ts o ˧ m v̩ ˧ ʂ <SIL>
+<SIL> ə õ m ˩ m i ˩ ɯ <SIL> ɲ ˩ <SIL> d ɑ ˥ ˧ <SIL> dʑ o ˧ ɖ ɯ ˧ ɲ ˩ ˥ o ˩ tʰ i ˧ <SIL>
+<SIL> n z o ˧ ʁ ɑ i <SIL> k v̩ ˧ p ˩˥ d i ˧ dʑ o ˩ <SIL> n ˧ ɻ̍ i <SIL> h ɑ ˩ ɤ ˩ o i <SIL> i ˩ <SIL>
+<SIL> ˩ tɕʰ i f dʑ f ˧ tɕ f ʈʰ mmm… u ẽ ʈʂ ẽ ɣ ṽ ɣ ṽ̩ ṽ̩ ɕ ɛ ɕ ĩ ɕ i ʐ <SIL> ĩ ʑ
+<SIL> i ˧ p o ˧ ʈʂʰ ɯ ˧ s o ˥ <SIL> l e ˧ ʁ o ˧ h æ ˧ <SIL> wɤ ˩ ˧ i ˥ <SIL>
+<SIL> tʰ i ˩˥ wɤ ˩˥ ʈʂʰ ɯ ˧ o ˧ i ˩ ɳ ɯ ˩ i ˩ k e ˧ tʰ i ˧ ʈʂʰ ˧ æ ˧ kʰ v̩ ˧ z e ˩ i k ˩ <SIL>
+<SIL> ə ˧ b i ˧ <SIL> ɯ ˧ ˩ ˧ m v̩ ˧˥ k v̩ ˩ ɲ i ˥ p i ˩ dʑ z ˩ z ɯ e ə <SIL> ˩ m æ ˩ <SIL>
+<SIL> ɖ ɯ ˩˥ tɕ æ f tʰ d ɯ ẽ jɤ ẽ wɑ ts wɑ ʈ mmm… ts ɕ ɑ̃ ɣ wɤ ɑ̃ qʰ ɤ ʐ wæ tɕ ɯ ˩ h ĩ tʰ i wæ ˥ <SIL>
+<SIL> ʐ ɤ pʰ d e tɕ l ɑ tɕ ɯ ʐ wæ ˧ ʈʰ ˥ ʈʰ ṽ ɕ ṽ ts ʈ ts jɤ ʈ ɣ ʈ tsʰ ɣ ʈ <SIL> tɕ ɯ ˩ o ˩ ʈ v̩ ˧˥ p ɑ ˧˥ d v̩ ˧ ʈʂ ˧ ʈʂ ɯ ˥ q v̩ ˩ <SIL>
+<SIL> tʰ i ˩˥ ʈʂʰ ɯ ˧ l e ˧ ʂ ʈ v̩ ˥ ˩˥ ʝ i ʈ ˥ mmm… ɣ ˧ ɣ ˩˥ ṽ ˧˥ æ ɣ ˥ <SIL> dʑ o ˩ <SIL> z o ˩ ʈʂʰ n ˧ m v̩ ˧ tʰ v̩ ˧ v̩ i ˥ p o ˩ <SIL>
+<SIL> tʰ i ˩˥ ɖ v̩ l e ˧ o ˩ m ɤ ɯ ˧ i ˩ ɖ i ˩ ɖ ɯ ˧ ɲ i ˩ g kʰ v̩ <SIL> e kʰ v̩ jɤ <SIL>
+<SIL> n jɤ ˧ z o ˥ ʐ wæ ˩ g k v̩ ˧ i ə m ɳ ĩ ˩ ɳ ɯ ˩ <SIL> ʂ ˩ o ˩ dʑ o ˧ <SIL> p i ˩ <SIL>
+<SIL> tʰ b v̩ ˧˥ <SIL> ˧˥ æ ʈʰ m p kʰ v̩ ˧ v̩ ə ˧ i ˧ p i ˧ v̩ ˧ l i ˩ k ˧ <SIL>
+<SIL> l ɑ ˧ əəə… ɤ ˧ ə ˧ ɲ i ˧ k v̩ m æ ˩ <SIL>
+<SIL> ə ˧ ʈʂʰ ɯ ˧ dʑ o ˧ <SIL> h ĩ ˧ ɖ ɯ ˧ ʂ ɯ ˧ ɖ ɯ ˧ ʝ i ˩ dʑ o ˩ v̩ e ˩ p i ˩ <SIL>
+<SIL> tʰ ˧ i ˧ ə b o ˥ n i ˩ <SIL> tʰ i ˩˥ ʈʂʰ ɯ ˧ n dʑ æ ʈʰ æ ˥ <SIL> ɲ i ˥ <SIL> n o ˧ ˥ ʈʂ e ˧ s e ˧ ʂ ˩ ʝ i ˩˥ e ˧ p o ˩ <SIL>
+ɖ ɯ ˩˥ tɕ o ʐ ˧ ˧˥ ɲ ɑ ˩ l e ˧ tɕ ɯ ʐ wæ ʈʂ ə ʈʂ z o ˧ qʰ p ʈʂ i ˧ p ɯ ʈʂ ɯ ˧ dʑ o ɤ ˧ tɕ ʂ ˥ <SIL>
+<SIL> ĩ ɬ ʈʂʰ ɯ ˧ o ʂ ʈʰ ʂ f ṽ ɣ ʈʰ ṽ̩ ṽ ɣ ɑ̃ ʈʂ ɑ̃ u h ĩ u ʈʂ ɛ ĩ ˥ ɕ ẽ ɲ i ẽ ʈ p i ʈ ˧ ʈ m v̩ ˩ <SIL>
+<SIL> g ɤ ʈʰ z tɕʰ ĩ tɕʰ dʑ tɕʰ o dʑ ʈʰ tɕʰ wæ ẽ ʈʰ ẽ ʈʰ dz ʑ wɑ z wɑ n mmm… wɑ ĩ qʰ ĩ ɛ ɻ̍ ˩ z ɲ ˩ ɛ u ɯ u ˧ z o n z ɑ ˩ dʑ o ˩ <SIL> ə i ˩ ʝ p ĩ ˧ <SIL>
+<SIL> ɳ ɯ ˧ <SIL> wɤ ˧ i ˩ i h ĩ i ˧ l ɑ ˧ ɑ ˩ wɤ ˧ tʰ i ˩˥ l e ˧ ɯ ˥ ɯ ˩ v̩ ˩ <SIL>
+<SIL> tʰ i ˩˥ d i ə wɤ ˩˥ v̩ z dʑ o ˧ <SIL> f v̩ ˥ mmm… ɑ ˩ kʰ dz ɣ ʈʂ ɣ tsʰ ɣ ɑ̃ ˩ ɑ̃ v̩ ˩ b ɤ ˥ h ɯ e ɑ̃ ɑ ˩ ʈʂ i ˩ dʑ o i <SIL> dʑ ɯ ĩ ˧ <SIL>
+<SIL> tʰ i ˧ l e ˧ h ɤ ˩ ˥ i ˩ æ ə ˧ e ɑ ˥ <SIL> p i ˧ ʂ ɯ ˩ dʑ o ˧ m ə ˩ g i ˩ <SIL>
+<SIL> tʰ æ h ʂ i b h ĩ ˩ <SIL> tʰ v̩ ˧ k v̩ ˩ b i ˩ z h ɯ ˩ ˧ p wæ ˧ p i <SIL> h ɑ ˥ p ṽ ˧˥ ˧ ʈ ɯ ˩ b i ɑ̃ tsʰ i ˧ h ĩ ɛ <SIL> ɖ ɯ ˧ kʰ wɤ ɛ ˧ tsʰ v̩ tsʰ dʑ o qʰ tsʰ ˧ tsʰ ˥ <SIL>
+<SIL> õ ˧ tɕʰ v̩ ˧ tɕʰ ĩ tɕʰ ĩ tɕʰ ʝ i ˧ tɕʰ ˩ f ĩ wɑ mmm… wɑ ts wɑ ts wɑ ɑ qʰ ˧˥ ˩˥ tɕʰ jɤ ɛ tɕʰ ĩ ˧ e v̩ ɤ ɻ̍ v̩ ˩ <SIL> tʰ i ˩˥ i ˧ <SIL>
+<SIL> o ˩˥ ɬ ɑ ˧ ɯ ˩ <SIL> tʰ i ˩˥ ə f v̩ f n f i ts m f ṽ u ṽ u ṽ u ɛ u qʰ u ɛ qʰ ɛ ĩ ɛ qʰ ĩ tɕ ʈ v̩ ĩ l i tɕ <SIL> tɕ ɯ ɖ ɯ ˧ d e ˥ <SIL> tʰ ĩ g v̩ ĩ <SIL>
+<SIL> g ɤ ɯ ˧ n v̩ ˧ ʑ i ˧ p wæ ˧ z v̩ ˩ ˧ z o ˧ p i ˧ ɻ̍ jɤ ɯ ˧ ʝ i ˧ ˩˥ ʑ i ˩ ɳ ɯ ˩ ˥ ˧˥ ʐ jɤ ə ĩ ṽ̩ p æ ˧ b o ṽ̩ <SIL> æ ɕ p ɤ ˧ d <SIL> ʂ m ˩ <SIL>
+<SIL> mmm… æ tʰ v̩ ˧ i ˧ ʐ æ ˧˥ ˧ tʰ i ˧ i ˧ ɑ ˧ <SIL> b ɯ ˩ ʁ o ˧ ʝ i ˧ wɤ ˧ kʰ æ ˥ <SIL>
+<SIL> ʈʂʰ ɯ ˧ wɤ m ˩ ə o ˧ m i l ɑ ˩ <SIL> ʝ i ˩ <SIL> ɯ ˩ <SIL> ɯ ˩ ˧ v̩ ˥ ɖ ɯ ˧ kʰ ɯ ˥ tʰ e l i ˩ <SIL>
+<SIL> tʰ i ˩˥ ʈʂʰ ɯ ˧ n ɑ tsʰ ẽ ˧ ʈ ɑ ˩ dʑ ɕ ˩ ɕ wɑ jɤ ˩ tsʰ ɕ qʰ æ qʰ ɣ tsʰ ɣ tɕʰ ʂ ɣ i ˧ <SIL> ɣ n ɑ ʑ
+<SIL> m tɕʰ jɤ ˧ ə ɖ ɑ n jɤ f n ɑ n tɕʰ ʑ u ɖ ɯ ɖ u ɖ u ṽ ʈʰ ṽ ɣ ɖ ɣ jɤ ˧ n ɛ ʈʂ ɛ ĩ ɛ ĩ ɛ ĩ ẽ ɛ ẽ ɖ ɯ ʈ dʑ o ˩ <SIL>
+<SIL> tʰ i ˩˥ <SIL> n jɤ ˧ <SIL> g ɯ ˩ dʑ o ˩ ʈʂʰ ɯ ˩˥ z ɯ ˧ dz ˥ dz ˩ dʑ o ˩ m i ˩ ɖ ɯ ˧ ʈʂʰ ˩ wɤ ˩˥ ˩ <SIL>
+<SIL> ɖ ˩ qʰ ʑ æ ˧ ʑ ˧˥ wɤ æ ɣ i ˧˥ qʰ kʰ v̩ ˥ ˧˥ i ˧ ʈʂʰ ɯ m ɯ ˩ z <SIL> i ˩ p tʰ v̩ ˩ <SIL> g i ˩ tɕ ʈʂʰ ɯ ˧ ʝ i l e ˧ b ɤ ˧ <SIL>
+<SIL> əəə… <SIL> l e ˧ e ˧ <SIL> k i ˧ o ˧ dʑ o ˩ <SIL> tʰ i ˩˥ <SIL>
+<SIL> ə ˧ dz ˩ <SIL>
+<SIL> tʰ i ˩˥ ṽ tɕʰ i ṽ ˩ ṽ ɲ i ɲ dʑ ṽ ṽ̩ mmm… u ṽ̩ ĩ ṽ̩ ĩ ṽ̩ ĩ o ˧ dʑ o ĩ æ tɕʰ ˧˥ ʈʂ ˥ ʈʂ jɤ ˧˥ dz tɕʰ ɛ tɕʰ ʈ ɛ ẽ ɛ ẽ ʈ tɕʰ ʈ ẽ ʂ ʈ ʂ jɤ ʈ <SIL>
+<SIL> h z n ɬ ĩ e ɕ ĩ ɬ ɕ ɬ ɕ ṽ ṽ̩ u ʈʂ ɛ ẽ ĩ ẽ i ˧ tɕ ɯ ˥ <SIL>
+<SIL> ə i ˧ ə æ i ˩ tsʰ ˧ ʑ i ˥ <SIL> i ˩˥ ʈʂʰ ɯ ˧ n jɤ ˧ dʑ o ˩ ɳ ɑ dʑ ɯ æ ˩ ˥ i ˩˥ <SIL> l e ˧ ə ˩ i ˧ <SIL>
+<SIL> wɤ i ˧ ʁ ɑ ˥ tʰ ɑ i <SIL> ɑ ˩ l ɑ ˧ b ɯ ˧ ɯ ˧ ə ˧ s ɑ ˧˥ <SIL> dʑ o ˩ ɲ i ˩ <SIL> tɕ ɯ ˩˥ <SIL>
+<SIL> tʰ i ˩˥ h ɯ ˧ ˧˥ k l e ˧ ˩ d i ˩ i tɕ ɯ ɳ ɯ ˩ jɤ ˧ s ˩ ˥ ɯ ˩ <SIL> ˩ ˩˥ ɑ ˩ dʑ kʰ dʑ ɯ æ ˩ dz v̩ <SIL> o ˧ ə dʑ ʂ ˧ <SIL>
+<SIL> ə ˧ ʈʂʰ ɯ ˧ v̩ ˩ h o ˩ <SIL> ʈʂʰ ɯ ˧ ɯ ˧ q o ˩ b v̩ ˩ z ɑ ˩ n ˩˥ z m h v̩ q ˥ dʑ o ˩ s ɯ ˩ h ĩ ˥ <SIL> tʰ ˩ ˩˥ jɤ <SIL>
+<SIL> n ˧ dʑ ˥ ʐ tɕ wæ tɕ ˩˥ ɑ ˧ <SIL> kʰ ĩ ˥ ˧˥ ɖ ɯ ˧ kʰ ˧˥ qʰ ɑ ẽ kʰ jɤ ẽ ʈ ˥ ẽ d ẽ wɑ ṽ ɕ ṽ ĩ ʈʂʰ ɯ dʑ ɛ <SIL> h ĩ ˧ n o ˧ dʑ o ˩ v̩ tɕ o ˩ <SIL>
+<SIL> ɬ o d æ ˩ d ˩ d z ˩ dz ˩ dʑ o ˩ z ʈʰ ˩ ʈʰ dʑ jɤ ʈʰ æ ˧ ə ˧ v̩ ɑ ˩ k v̩ ɤ ˩ ɲ i ˩ p z ˧ <SIL>
+<SIL> dz əəə… t ˧ e ˧ ʝ ˧ ɑ ˧ ɻ̍ wæ i ɑ p ɯ ɣ ˩˥ ɑ ˩˥ ɲ i ˩˥ n ɑ tsʰ i ʈʂʰ ˧ ʝ i ˧ æ ˩ k ɲ ˩ m ˩ m æ ˩
+<SIL> ə dʑ i dʑ ɖ ˩˥ ɖ ɯ ˧ ɖ ĩ ˧ wæ ĩ v̩ ĩ ˧ ĩ ˧ ĩ wɑ ˥ ɕ ˥ dʑ wɑ ˩˥ wɑ i ɕ ts wɑ ṽ wɑ u o ˩ ṽ wɑ ˩ wɑ ɑ̃ dz ʂ tɕʰ ʈʰ ĩ ˧ ʂ ĩ ʂ ʑ
+<SIL> h ɯ ˧ dʑ ˩ i ˧ ˩˥ i ˧ ɳ ɯ ˧ p i ɳ ɯ ˩ <SIL> ɯ ˥ ˧ ʈʂʰ ˧ tsʰ ˩ <SIL> tʰ ˩˥ <SIL> ʂ l e ˧ h wæ ˧ wæ ˩ ɲ ˩ ˥ ɯ ˩ <SIL>
+<SIL> g ˧˥ tʰ i ˩˥ ə ˧ tɕʰ i ˧ n ɑ ˩ ʝ i ˧ n o ˧ ĩ ɯ ˧ æ ɕ ts mmm… ʈʂʰ ɯ <SIL> ṽ ts æ ˥ dz ṽ ɣ ṽ ʈʰ ɣ qʰ ɲ ˩ dʑ ṽ̩ qʰ ɑ̃ dʑ o ˩ ˧˥ ɯ ˩˥ i ˩ ˧ v̩ ĩ ˧ ĩ
+<SIL> tʰ i ˩˥ ɖ e ˧ qʰ f tsʰ f ˩ f ɬ wæ wɑ ɣ qʰ ɯ f ɣ i ɣ ṽ̩ ʐ ɑ̃ æ ʈʰ ʈʂ ˩ tʰ i ˥ q ɕ ˩ ɕ ˧ ɲ i ˥ ʈʂ ɯ ˧ <SIL> ˧ <SIL>
+<SIL> dz tsʰ ɤ ʈʂʰ ɯ ˧ ʝ ˥ tʰ ɲ i ˩˥ ts ˩ f ɣ ˥ <SIL> ʐ n ɬ n ˧˥ qʰ ˩ qʰ i ˩˥ i ˩ <SIL>
+<SIL> tʰ i ˩˥ <SIL> ˧˥ ˧ ɯ ˧ <SIL> l e ˧ i ˧ v̩ ˧ l e ˧ ˩ kʰ ˧˥ <SIL>
+<SIL> mmm… <SIL> tʰ ˧ tʰ i ʐ æ ˧ ɑ ˩ p ˧ ɻ̍ l ɑ e ʐ ṽ̩ ˩ z o ˩ <SIL> z o ˩ p i ˧ ɻ̍ ʈʂʰ ɯ ˧ pʰ m ɯ ˩ h ĩ ˧ <SIL> i ˧ wɤ ˧ ɯ ˧ <SIL>
+<SIL> tʰ i ˥ ə v̩ ˧ ʝ i d ˥ tʰ i ˩˥ wæ ˧ tsʰ v̩ ˧˥ tsʰ ɯ ˧˥ ə v̩ ə ˧ d ɯ ˥ ˧ kʰ ɑ ˩ ɖ ɯ ˧ ɲ i ˥ ʁ v̩ ˩ d i ˩ <SIL> ɤ ˩ ɻ̍ ˥ ɻ̍ ˩ <SIL>
+<SIL> n ɑ tʰ i ˧ l e ˧ æ ɯ ˧ ʝ i ˥ z e ˧ ʝ æ ˧˥ ʈʰ æ ɣ ˥ ʈʰ ˩ p tsʰ e ˧ h ɑ ˧ ʁ o ˩ o ˩ g ˥ <SIL>
+<SIL> ə ˧ z ɑ ˧ tʰ i ˩˥ n ˧ f ˩ ts ɯ ˩ f ɑ ˩ n jɤ u ɣ u ɣ dʑ ɣ qʰ ɣ n qʰ dʑ ʈʂ ɑ ɛ ˩˥ ʂ ɯ ˧ ʈʂ ɛ ĩ ɛ ĩ ɛ v̩ ɛ ĩ ɕ ˧ l ɑ e ĩ ˧ ĩ
+<SIL> tʰ v̩ g v̩ dʑ ʈʂʰ ɯ ˧ d ɤ i ˥ dz i ˥ d ɲ i ˥ d ĩ ˧ qʰ ˩˥ ˧˥ p ˧ ˧˥ qʰ æ ˩˥ ṽ dʑ ɯ tsʰ i kʰ e ˧ v̩ ˧˥ ʈʂʰ ɯ ˧ kʰ o <SIL> n tʰ ˩˥ <SIL>
+<SIL> g b i ˧ ʂ qʰ ʂ ɑ ˩˥ ʁ o ʑ i ˧ v̩ ˧˥ v̩ i ˩ k v̩ <SIL> n ɯ ˥ qʰ ɑ ˩ tsʰ jɤ ˧˥ ʈʂʰ ɯ ˧˥ <SIL> ʑ i l ɻ̍ ˧ ɯ ˩ ɑ ˩ tʰ i ˩˥ l e ˧ ɯ ˩ m v̩ ˩ <SIL>
+<SIL> ə ˧ ʐ ə ˧ ɑ jɤ dʑ æ ˧ mmm… ṽ i ṽ ə ˩˥ h æ ˧ ˥ v̩ b i ˩ z ɯ ˧ kʰ o ˧ l e ˧ <SIL> l e ˧ kʰ v̩ ˥ <SIL> e ˥ k ˩ <SIL>
+<SIL> g ɬ ĩ tɕʰ n ɑ f tɕʰ f tɕʰ f u f wɑ ẽ ʈ wɑ ʈ ẽ ṽ ɣ ṽ ɑ̃ ɣ ṽ̩ ɑ̃ ɕ jɤ ɛ ɛ qʰ ɛ ĩ tʰ ɛ ĩ ʈ v̩ ĩ e ĩ jɤ ʑ
+<SIL> ɬ i ˧ ʈʰ ɲ i ˥ ɬ p ṽ̩ p dz ṽ̩ dz ts i u ˥ z u ɯ u <SIL> u ɑ ˥ ə ˧ m ɤ tɕʰ z o dʑ o æ qʰ ˧ ʈ ɯ ˥ ʈ ˩ <SIL>
+<SIL> ə ˧ ɖ ɯ ˧ v̩ ˩ g o v̩ ˩ <SIL> tʰ v̩ ˧ tʰ ˩˥ i ˧˥ ɲ i ˧ ɳ ɯ ˩ dʑ o ˩ ə m ɤ ˩ ə i dʑ i ˧ <SIL>
+<SIL> tʰ i ˩˥ <SIL> h ĩ ˧ ɖ ɯ ˧ ʝ ɯ ˧ l e ˧ p ɯ ˧ v̩ ˩ p o ˩ ˧ l e ˧ <SIL> æ ˩ ɯ ˩ <SIL>
+<SIL> g i ˩˥ ʈʂʰ ɯ ˧ d ɑ ˧ m ɤ u ˥ tɕʰ ˧ tɕʰ ˥ ẽ ʝ ĩ ĩ ˧ ĩ ẽ mmm… ˧ p i ṽ dʑ o ṽ mmm… dz æ ɣ ˧˥ ɣ i ˩ ĩ ˩˥ ʈʂʰ ṽ̩ æ ṽ̩ n ɬ ʝ i ˥ <SIL> dʑ i <SIL> ʝ i ˧ dʑ o ˩ k p o ˩ <SIL>
+<SIL> m h ĩ ˧ k o i ˩ ˧ v̩ ˩ l ɑ ˩ tʰ ɑ ˩ <SIL> v̩ ˩ i ˩ <SIL>
+<SIL> v̩ ˩˥ n o <SIL> h ĩ ˧ qʰ wɤ ẽ ɖ ɯ ˧ kʰ ẽ ˧˥ qʰ wɤ ˩ ẽ e wɑ mmm… wɑ ts æ ṽ ɣ ɑ̃ o ˧ ɑ̃ ˩ ɖ ɯ ˧ ˩ v̩ ɣ p i ˧˥ ˧ tɕʰ ĩ o ˧ <SIL>
+<SIL> ə õ ˧ d ˩ tʰ i ˩ ɑ ˧ ˩ v̩ o ˧ tʰ i ˩˥ <SIL> ˩˥ l e ɯ ˧ v̩ i ɲ i ˩ <SIL>
+<SIL> ɤ ˧ ɳ ɯ ˧ ʈʂʰ ɯ ˧ n ˩ ˧˥ ˩˥ ɑ ˧ ɑ ˧ m dʑ o ˩ ʁ o ˩ dʑ o ˩ <SIL> i ˩˥ i ˧ <SIL>
+<SIL> h ʐ kʰ tɕ kʰ tɕ kʰ ʐ kʰ h ĩ o ˩ <SIL>
+<SIL> ɑ ʁ o ʁ o ˧ d i tʰ ĩ ˩˥ qʰ ɣ qʰ u qʰ ĩ ˧ qʰ ɣ <SIL> qʰ i ɣ kʰ v̩ ˥ ʝ i ˧ d ʝ i m ɤ ˩ ʝ ˩ wɤ ˧˥
+<SIL> ɑ ˩ o v̩ ˩ ɖ ɯ ˧ b i o ˩ ɑ ˧ tɕ i ˧ mmm… ɯ tɕ ɯ tɕ ˩ ˥ ṽ̩ i ˩ ʈʂ ˧ ʈʂ <SIL> d ˧ k d ˥ k ˥ v̩ ˩ m æ ˩ <SIL>
+<SIL> əəə… <SIL> ˧ ʂ ɤ ˧ q o ˩ ʈʂʰ v̩ ˧ ɲ i ˩ tʰ i ˩ <SIL>
+<SIL> ɖ i ˧ dʑ o ˩ l e ˧ wæ ˧ tɕ ɯ ˥ tɕ ɤ u k v̩ ˩ <SIL> tɕ wæ ˩ kʰ ʈʂʰ ɯ ˧ ṽ ɯ ˧ <SIL> ʈʂ e ʈʂ kʰ æ ɤ ʈʂ kʰ dʑ ɛ ˩ <SIL> ʈʂ e ˧ p i ˧ ʐ kʰ wæ ˧ tsʰ ʂ <SIL>
+<SIL> g o ˧ ʂ ɯ ˧ wɤ <SIL> l e ˧ ʝ i ˧ <SIL> ʈʂʰ ɤ ˩ q o ˩ <SIL> m ˩ i ˩ <SIL>
+<SIL> əəə… ʝ i z tsʰ ˩ ˥ <SIL> ˧ ʈʂʰ ɤ ˧ q o ˩ <SIL> ˧ <SIL> ˩ ɲ i ˩ i k v̩ ˩ m æ ˩ <SIL>
+<SIL> ə o ˩ m ɤ ˩ ɳ o ˩ <SIL> ɯ ˩ ɲ wæ i ɑ ˩ ˧˥ ˩ v̩ ˧ ˩˥ ʂ ɯ ˧ qʰ i n jɤ ts ɯ qʰ ˧ ˧˥ ˩˥ ˧˥ ˩˥ ʂ e tsʰ ɖ ɯ ˧ m ɑ ˩ l e ˧ ʂ i ˥ <SIL>
+<SIL> əəə… ə ˧ m ɤ ˧ v̩ ˥ i ˥ ɲ i ˥ pʰ o ˩ ɲ i ˩ ə i ˥ g p i ˩ <SIL>
+<SIL> tʰ m ɣ o ˥ dʑ i ˧ o ˧ h ɯ ˧ n ɯ h ĩ i ˧ l e <SIL> l e ˧ ʝ ˥ l e ʝ i ˥ <SIL> tsʰ ĩ ˧ ɑ ˩ tʰ i ˩˥ dʑ o ˩˥ ˩ ʈ ˩˥ ˩ tsʰ ˩˥ m i ˧ ʈʂʰ ɯ ˧ o ˥ <SIL>
+<SIL> g n ɑ ˩ h ĩ ˩ l o ˧ h ɯ ˩ <SIL> ɖ ɯ ˧ n ˩˥ i ˩ i ʈʂʰ ɯ ˧ n o ˧ ɯ ˧ <SIL> ĩ ɯ <SIL> ˥ m ɤ ˧ ɛ o <SIL> i ˧ tʰ i ʈʂʰ ɯ ˧ i ɑ ɤ ˩ dʑ o ˩ tʰ i ˧ k v̩ ˧˥ m æ m <SIL>
+<SIL> ˧ ɲ i ˧ m ɯ əəə… k ˧ v̩ ˥ v̩ ˩ m v̩ ˩ <SIL>
+<SIL> əəə… ˩ <SIL> l ɑ ˧ <SIL> ˧ m ˧ i ˩ o ˧ tʰ i m v̩ ˩ <SIL>
+<SIL> tʰ i ʝ ɕ tɕʰ ɕ ɣ ɕ mmm… ɕ mmm… ṽ u ɛ ɛ wɑ ʈ ɕ ɛ wɑ ʈ wɑ ṽ ɣ u ṽ u f u f u ɣ ṽ̩ ɣ ɛ ɛ ĩ ɛ ĩ ɛ ĩ ẽ ĩ ẽ ʈ ĩ
+<SIL> n jɤ ˧ ɻ̍ ˥ ˧ h i tʰ i ˩˥ <SIL> h ĩ ˧ <SIL> i o ˩ ɲ i ˩ <SIL> i ˩ m i ʝ i ˩ p i ˩ <SIL>
+<SIL> ə ˧ ʝ ˧ ɯ ˧ v̩ ˩ <SIL> ɖ ˧ l ɑ ˥ <SIL> l ɑ ˩ <SIL> ɑ ˩ kʰ tɕʰ ˩ dʑ ˩ ɖ ɯ ˧ ts v̩ ˩ z e ˩ <SIL>
+<SIL> tʰ i dʑ o ˩ tɕʰ i ˩˥ l e ˧ f tɕʰ f ṽ mmm… ɕ h ĩ ṽ̩ ɛ ˥ ɛ ĩ <SIL> ĩ ɛ ɛ ʈ ˥ ẽ ĩ ɕ ẽ ˧ ʝ i ˧ dʑ o ˥ ts ĩ v̩ ˧˥ <SIL>
+<SIL> tʰ i ˧ wæ ˧ ɖ ɯ ˧ <SIL> ə ˧ d ɑ ˧ ɳ ɯ ˥ <SIL> mmm… ɕ i ˥ z e ˧ ṽ æ ˧˥ ʈʰ æ ˧ ʂ ɯ ˥ l i p m v̩ ˩ <SIL> ˩ ˧ p o ˧ <SIL>
+<SIL> ə h ˧ e ˧ <SIL> m e ˧ ʝ i ˧ dʑ o ˩ o ˧ ɳ ɯ ˧ ə ˩ g i ˧ <SIL>
+<SIL> g ɤ ˧ s v̩ ˧ l ɑ ˩ dʑ ˩ ʁ o tʰ v̩ ˧ dz i jɤ dz æ dz æ ˧ ʂ æ ʂ ɯ o ˧ l ɑ ˥ <SIL> m v̩ ˧ i ˧ i ˧ <SIL>
+<SIL> g jɤ o ˩ i ˩ ə ɯ kʰ v̩ ˧ u ˧˥ tsʰ u ˧˥ u ˩ u ɯ ˧ kʰ æ ˧ ʈʂ l e ˧ qʰ wæ ˧ mmm… tɕ ɯ ˥ mmm… ṽ ʈʰ ṽ ṽ̩ u ɣ ṽ̩ ɣ æ ɛ ʑ dʑ o ˩ ĩ v̩ ˩ k o ˩ ɕ d ˩ p i ĩ ĩ ˧ <SIL>
+<SIL> tʰ i ˩˥ tʰ ˩˥ ʑ ˥ ɲ i l e ˧ b v̩ ˧˥ ɖ ɯ ˧ ʈ ɯ ˥ <SIL> wɑ æ wɑ ɑ ɛ v̩ ˧˥ <SIL> ɑ̃ æ ˧ ɑ̃ ˥ ɑ̃ ˧ kʰ ɯ ˥ ɑ̃ ɤ ˧˥ ʈʂ ˥ tɕ z e dz æ ˩ ʈʂ ɤ l ə e ˩ m ˩ ʂ ɤ ˧ <SIL>
+<SIL> tʰ ẽ f æ d ẽ tʰ i ˩˥ wɑ mmm… ṽ ɣ ɑ̃ ʐ ʐ ɑ̃ ɑ̃ ɖ ɯ ˧ ɛ ˩˥ kʰ <SIL> kʰ ɛ ˧ ɛ jɤ ɕ jɤ o ɛ i ɕ ˩ k v̩ ˩ n jɤ f tɕ ɲ i tɕ wæ ɕ ĩ ʈʰ æ ˩ ʂ ˧˥ ʈʰ ɣ ʈʰ g <SIL> ʑ
+<SIL> tʰ ɑ ˩˥ l wæ l e ˧ dʑ ˧ ˧˥ ɯ ˥ l ĩ ˧˥ <SIL> ʝ i ˩˥ dʑ mmm… i ˩˥ ɖ ɯ ˧ ˧˥ ɯ ˧˥ ˧ tɕ ɯ ˥ ɑ̃ ɑ ˩ ɑ̃ ɯ ˧ ʐ ˩ ɖ wæ ĩ ˧ tɕ <SIL> tɕ v̩ ˧ <SIL> tɕ ɯ ˩ ɖ ɯ ɖ kʰ ˩ kʰ ɯ ˩ <SIL>
+<SIL> n o n e ˥ d i ˩ v̩ ˩ f ˩ f wɑ ɑ wɑ ˩˥ wɑ v̩ wɑ ɑ̃ ṽ̩ ɑ̃ ɣ ˥ ɣ ˥ ɣ i ɣ ˩˥ g v̩ u <SIL> g v̩ ˩ <SIL> tɕ ɑ ˩ <SIL>
+<SIL> tʰ i ˧ d i ˧ ʈʂʰ ɯ ˧ o ˧ v̩ ˩ l ɑ ˩ m o ˩ ə v̩ m æ ˩ <SIL>
