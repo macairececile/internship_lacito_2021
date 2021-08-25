@@ -1,0 +1,45 @@
+Ref: & tɕe kɯɕɯŋgɯ tɕe iɕqha min\hl{g}chao ɯraŋ nɯtɕu pjɤŋu tɕendɤre iɕqha nɤki yanguo kɤti rɟɤlkhɤβ ɣɯ nɯrɟɤlpu nɯ kɯ iɕqha nɯ \\ 
+Hyp: & tɕe kɯɕɯŋgɯ tɕe iɕqha minchao\hl{u}ɯraŋ\hl{g} nɯ tɕu pjɤŋu tɕendɤre iɕqha nɤki yanguo kɤti rɟɤlkhɤβ ɣɯ nɯrɟɤlpu nɯ kɯ iɕqha nɯ \\ 
+\midrule 
+Ref: & iɕqha nɯ ɯftsa nɯnɯ rɟɤlpu lusɯndɤm pjɤsɯso \\ 
+Hyp: & iɕqha nɯ ɯftsa nɯnɯ rɟɤlpu lusɯndɤm pjɤsɯso \\ 
+\midrule 
+Ref: & tɕe nɯ rɟɤlpu lusɯndɤm pjɤsɯso tɕe tɕendɤre nɤkinɯ sɤtɕha ra tosɤtʂoʁloʁnɯ ʑo ɕti tɕe tɕendɤre iɕqha nɯ \\ 
+Hyp: & tɕe nɯ rɟɤlpu lusɯndɤm pjɤsɯso tɕe tɕendɤre nɤkinɯ sɤtɕha ra tosɤtʂoʁloʁnɯ ʑo ɕti tɕe tɕendɤre iɕqha nɯ \\ 
+\midrule 
+Ref: & shandong nɯtɕu ɯrmi zhangxiaobing kɯrmi ci tɯtsɣe ɯkɯβzu ci pjɤtu tɤtɕɯ \\ 
+Hyp: & shandong nɯtɕu ɯrmi zhangxiaobing kɯrmi ci tɯtsɣe ɯkɯβzu ci pjɤtu tɤtɕɯ \\ 
+\midrule 
+Ref: & tɕendɤre ɯrʑaβ nɯ ɯskhrɯ mɯɲɤβdi χsɯsla ma mɯtoβzu ri tɕendɤre ɯpɕi joɬoʁndʑi ɲɤphɣondʑi pjɤra matɕi \\ 
+Hyp: & tɕendɤre ɯrʑaβ nɯ ɯskhrɯ mɯɲɤβdi χsɯsla ma mɯtoβzu ri tɕendɤre ɯpɕi joɬoʁndʑi ɲɤphɣondʑi pjɤra matɕi \\ 
+\midrule 
+Ref: & sɤtɕha ra pjɤkɤtʂoʁloʁci qhe tɕe nɯra tɕetha kɯsɤɣʑi ra pɯme ma ɲɤsɯsondʑi qhe tɕe nɯ jophɣondʑi \\ 
+Hyp: & sɤtɕha ra pjɤkɤtʂoʁloʁci qhe tɕe nɯra tɕetha kɯsɤɣʑi ra pɯme ma ɲɤsɯsondʑi qhe tɕe nɯ jophɣondʑi \\ 
+\midrule 
+Ref: & tɕeri tʂu jɤarindʑi tɕe tɕendɤre kɯdɤn mɯtotsundʑi ma tɕendɤre ʁmaʁ ra pjɤdɤn qhe nɯra tɯrme kɯnɤphɯphɣo nɯra qhe tówɣsɤtʂoʁloʁnɯ ʑo ɕti qhe ɯrʑaβ ɲɤ́wɣsɯβde \\ 
+Hyp: & tɕeri tʂu jɤarindʑi tɕe tɕendɤre kɯdɤn mɯtotsundʑi ma tɕendɤre ʁmaʁ ra pjɤdɤn qhe nɯra tɯrme kɯnɤphɯphɣo nɯra qhe tówɣsɤtʂoʁloʁnɯ ʑo ɕti qhe ɯrʑaβ ɲɤ́wɣsɯβde \\ 
+\midrule 
+Ref: & qhe ʁzɤmi ni ʑaka jonɯɕendʑi tɕe tɤtɕɯ nɯ kɯ ɯrʑaβ ɯskhrɯm mɤkɯβdi nɯ pjɤnɯzdɯɣ tɕe aʁɤndɯndɤt ʑo ɲɤɕar ri maka mɯpjɤmto \\ 
+Hyp: & qhe ʁzɤmi ni ʑaka jonɯɕendʑi tɕe tɤtɕɯ nɯ kɯ ɯrʑaβ ɯskhrɯm mɤkɯβdi nɯ pjɤnɯzdɯɣ tɕe aʁɤndɯndɤt ʑo ɲɤɕar ri maka mɯpjɤmto \\ 
+\midrule 
+Ref: & mɯpjɤmto qhe tɕendɤre nɤkinɯ iɕqha nɯ ɯrʑaβ nɯ ma kɯ ɯʁjɯβ cinɤ kɤmto mɯpjɤcha qhe wuma ʑo pjɤnɯzdɯɣ \\ 
+Hyp: & mɯpjɤmto qhe tɕendɤre nɤkinɯ iɕqha nɯ ɯrʑaβ nɯ ma kɯ ɯʁjɯβ ci nɤ kɤmto mɯpjɤcha qhe wuma ʑo pjɤnɯzdɯɣ \\ 
+\midrule 
+Ref: & tɕe pjɤnɯzdɯɣ ri kɤpa pjɤme qhe joɕe qhe tɕendɤre tɯsŋi qhe nɤkinɯ iɕqha nɯ \\ 
+Hyp: & tɕe pjɤnɯzdɯɣ ri kɤpa pjɤme qhe joɕe qhe tɕendɤre tɯsŋi qhe nɤkinɯ iɕqha nɯ \\ 
+\midrule 
+Ref: & li iɕqha kɯnɤphɯphɣo ra nɯrca nɯtɕu tɕe joɣi tɕe shandong pjɤrɤʑi ɕti ri nɯra kɤɕar nts\hl{ɯ} k\hl{ɯ} h\hl{e}\hl{n}an \hl{j}ozɣɯt \\ 
+Hyp: & li iɕqha kɯnɤphɯphɣo ra nɯrca nɯtɕu tɕe joɣi tɕe shandong pjɤrɤʑi ɕti ri nɯra kɤɕar nts k\hl{e} h\hl{u}\hl{o}\hl{l}an \hl{ɲ}ozɣɯt \\ 
+\midrule 
+Ref: & h\hl{e}\hl{n}an nɯnɯ jozɣɯt qhe tɕendɤre nɯtɕu qhe tɕe nɤkinɯ tɯtsɣe ɯkɯβzu tsuku ɲɤkɤtɯɣci qhe nɯ ɕɯŋgɯ ɯkɤnɯfse ci ɲɤkɤtɯɣci \\ 
+Hyp: & h\hl{u}\hl{o}\hl{l}an nɯnɯ jozɣɯt qhe tɕendɤre nɯtɕu qhe tɕe nɤkinɯ tɯtsɣe ɯkɯβzu tsuku ɲɤkɤtɯɣci qhe nɯ ɕɯŋgɯ ɯkɤnɯfse ci ɲɤkɤtɯɣci \\ 
+\midrule 
+Ref: & tɕe nɯ kɯ ɲɤ́wɣnɯkhɤda qhe manɯtɯnɯzdɯɣ tɕe toti tɕe iɕqha tɯtsɣe sɤβzu ɣɯ \hl{ɯ}ʁdɤnba ra ɲɤ́wɣznɤŋgɯ qhe \\ 
+Hyp: & tɕe nɯ kɯ ɲɤ́wɣnɯkhɤda qhe manɯtɯnɯzdɯɣ tɕe toti tɕe iɕqha tɯtsɣe sɤβzu ɣɯ ʁdɤnba ra ɲɤ́wɣznɤŋgɯ qhe \\ 
+\midrule 
+Ref: & tɕendɤre nɯra nɤʑo tɯtsɣe tɤβze toti \\ 
+Hyp: & tɕendɤre nɯra nɤʑo tɯtsɣe tɤβze toti \\ 
+\midrule 
+Ref: & tɕendɤre nɯ ɯqhu tɕe tɕendɤre kɯki zhangxiaobin\hl{g} nɯnɯ h\hl{e}\hl{n}an nɯtɕu lorɤʑi qhe \\ 
+Hyp: & tɕendɤre nɯ ɯqhu tɕe tɕendɤre kɯki zhangxiaobin nɯnɯ h\hl{u}\hl{o}\hl{l}an nɯtɕu lorɤʑi qhe \\ 
+\midrule 

@@ -1,0 +1,15 @@
+Ref: & ə˧ʝi˧ʂɯ˥ʝi˩dʑo˩ ə˩gi˩ zo˩no˥ hĩ˧ ʈʂʰɯ˧dʑo˩ \hl{ə}əə… ɖʐwæ˧ɖʐwæ˥h\hl{w}ɤ˩h\hl{w}ɤ˩ \hl{m}m\hl{m}… pi˧dʑo˩ ʈʂɯ˧ʈʂɯ˩ ɻæ˧ɻæ˧ tʰv̩˧ ɖʐwæ˧ɖʐwæ˥hwɤ˩h\hl{w}ɤ˩ tʰv̩˩ pi˧kv̩˩ mæ˩ \\ 
+Hyp: & ə˧ʝi˧ʂɯ˥ʝi˩dʑo˩ ə˩gi˩ zo˩no˥ hĩ˧ʈʂʰɯ˧dʑo˩ əə… ɖʐwæ˧ ɖʐwæ˥hɤ˩h\hl{o}ɤ˩ m\hl{ə}… pi˧dʑo˩ ʈʂɯ˧ʈʂɯ˩ ɻæ˧ɻæ˧tʰv̩˧ ɖʐwæ˧ ɖʐwæ˥hwɤ˩hɤ˩ tʰv̩˩ pi˧kv̩˩mæ˩ \\ 
+\midrule 
+Ref: & tʰi˩˥ ə˧ʝi˧ʂɯ˥ʝi˩dʑo˩ tʰi˩˥ zo˩no˥ mm\hl{m}… sɯ˧pʰi˧ki˧ qwɤ˧qwɤ˩ bi˩kv̩˩ mæ˩ \\ 
+Hyp: & tʰi˩˥ ə˧ʝi˧ʂɯ˥ʝi˩dʑo˩ tʰi˩˥ zo˩no˥ mm… sɯ˧pʰi˧ki˧ qwɤ˧qwɤ˩bi˩kv̩˩mæ˩ \\ 
+\midrule 
+Ref: & sɯ˧pʰi˧ki˧ le˧qwɤ\hl{˧}qwɤ˩se˩dʑo˩ tʰi˩˥ sɯ˧pʰi˧ no˧ɻ̍˩ dʑɤ˩ pi˧ mɤ˧ʁo˧ njɤ˧ɻ̍˩ dʑɤ˩ pi˧ mɤ˧ʁo˧ ɲi˧ʑi˩ do˧bv̩˧ lɑ\hl{˧}kv̩\hl{˥}ze˩ mæ˩ \\ 
+Hyp: & sɯ˧pʰi˧ki˧ le˧qwɤ\hl{˥}qwɤ˩se˩dʑo˩ tʰi˩˥ sɯ˧pʰi˧ no˧ɻ̍˩ dʑɤ˩ pi˧ mɤ˧ʁo˧ njɤ˧ɻ̍˩ dʑɤ˩ pi˧ mɤ˧ʁo˧ ɲi˧ʑi˩ do˧bv̩˧ lɑ\hl{˩}kv̩\hl{˩}ze˩mæ˩ \\ 
+\midrule 
+Ref: & tʰi˩˥ do˧bv̩˧ lɑ˧˥ dʑo˩ tʰi˩˥ wɤ˩˥ le˧ɖʐwæ˧ɖʐ\hl{w}æ˥ le˧ɖʐwæ˧\hl{ɖ}ʐw\hl{æ}˥ le˧\hl{ɖ}ʐwæ˧\hl{ɖ}ʐwæ˥ dʑo˩ tʰi˩˥ mɤ˧tsɤ˧ m\hl{ɤ}˧ho˧ho\hl{˥}\hl{…} \\ 
+Hyp: & tʰi˩˥ do˧bv̩˧ lɑ˧˥ dʑo˩ tʰi˩˥ wɤ˩˥ le˧ɖʐwæ˧ɖʐæ˥ le˧ɖʐwæ˧ʐw\hl{ɤ}˥ le˧ʐwæ˧ʐwæ˥dʑo˩ tʰi˩˥ mɤ˧tsɤ˧ m\hl{v}\hl{̩}˧ho˧ho\hl{˧} \\ 
+\midrule 
+Ref: & ʈʰææ̃˧ ho˩ho˥ mɤ˧tʰɑ˧ ho˧ho˥ mɤ˧tʰɑ˩dʑo˩ tʰi˩˥ əəə… sɯ˧pʰi˧ɳɯ˧ no˧sɯ˩kv̩˩ tʰɑ˧ɖʐwæ˧ ɖʐwæ˥ze˩ ɖæ˩mi˧qo˧ kɤ˧ʈʂ\hl{ɯ}˩ \hl{ʝ}i\hl{˩} hõ˩ pi˧kv̩˩tsɯ˩ mv̩˩ \\ 
+Hyp: & ʈʰææ̃˧ ho˩ho˥ mɤ˧tʰɑ˧ ho˧ho˥ mɤ˧tʰɑ˩dʑo˩ tʰi˩˥ əəə… sɯ˧pʰi˧ɳɯ˧ no˧sɯ˩kv̩˩ tʰɑ˧ɖʐwæ˧ ɖʐwæ˥ze˩ ɖæ˩mi˧qo˧ kɤ˧ʈʂ\hl{e}˩ \hl{h}i\hl{̃}\hl{˩}hõ˩ pi˧kv̩˩tsɯ˩ mv̩˩ \\ 
+\midrule 

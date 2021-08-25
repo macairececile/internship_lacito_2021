@@ -1,0 +1,53 @@
+import hanzidentifier
+
+MISC_SYMBOLS = [' ̩', '~', '=', ':', '¨', '↑', '“', '”', '…', '«', '»', 'ː', '#', '$', '[', ']']
+PUNC_SYMBOLS = [',', '!', '.', ';', '?', "'", '"', '*', ':', '«', '»', '“', '”', "ʔ", "+", "-", "_", '\ufeff', 'X']
+OTHER_SYMBOLS = ['&gt;', '&lt;']
+
+def preprocessing_text(sentence):
+    sentence = sentence.replace('）', ')')
+    sentence = sentence.replace('（', '(')
+    if sentence[:4] in OTHER_SYMBOLS:
+        return None, sentence[4:]
+    if sentence[0] in MISC_SYMBOLS:
+        # We assume these symbols cannot be captured.
+        return None, sentence[1:]
+    if sentence[0] in PUNC_SYMBOLS:
+        return None, sentence[1:]
+    if sentence[0] == "/":
+        # We keep everything literal, thus including what is in /.../ ; so we just remove these tokens"
+        return None, sentence[1:]
+    if hanzidentifier.has_chinese(sentence[0]):
+        # to delete chinese characters (because the pinyin is present
+        return None, sentence[1:]
+    if sentence[0] == "(":
+        if sentence.find(")") == len(sentence) - 1:
+            return None, ""
+        else:
+            return None, sentence[sentence.find(")") + 1:]
+    if sentence[0] in {" ", "\t", "\n"}:
+        # Return a space char so that it can be identified in word segmentation
+        # processing.
+        return " ", sentence[1:]
+    if sentence[0] == ')':
+        return None, sentence[1:]
+    return sentence[0], sentence[1:]
+
+
+def filter_for_phonemes(sentence):
+    """ Returns a sequence of phonemes and pipes (word delimiters). Tones,
+        syllable boundaries, whitespace are all removed."""
+    filtered_sentence = []
+    phonemes = []
+    while sentence != "":
+        phoneme, sentence = preprocessing_text(sentence)
+        filtered_sentence.append(phoneme)
+        phonemes.append(phoneme)
+    filtered_sentence = [item for item in filtered_sentence if item != None]
+    return "".join(filtered_sentence), phonemes
+
+
+def final_text_words(batch):
+    s, p = filter_for_phonemes(batch['sentence'])
+    batch['sentence'] = s
+    return batch
